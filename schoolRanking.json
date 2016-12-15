@@ -1,0 +1,24 @@
+[ {
+  "province" : "Alberta",
+  "rankingLink" : {
+    "High Schools" : "http://alberta.compareschoolrankings.org/high/SchoolsByRankLocationName.aspx",
+    "Elementary Schools" : "http://alberta.compareschoolrankings.org/elementary/SchoolsByRankLocationName.aspx"
+  }
+}, {
+  "province" : "British Columbia",
+  "rankingLink" : {
+    "Secondary Schools" : "http://britishcolumbia.compareschoolrankings.org/secondary/SchoolsByRankLocationName.aspx",
+    "Elementary Schools" : "http://britishcolumbia.compareschoolrankings.org/elementary/SchoolsByRankLocationName.aspx"
+  }
+}, {
+  "province" : "Ontario",
+  "rankingLink" : {
+    "Secondary Schools" : "http://ontario.compareschoolrankings.org/secondary/SchoolsByRankLocationName.aspx",
+    "Elementary Schools" : "http://ontario.compareschoolrankings.org/elementary/SchoolsByRankLocationName.aspx"
+  }
+}, {
+  "province" : "Québec",
+  "rankingLink" : {
+    "Écoles secondaires" : "http://quebec.compareschoolrankings.org/secondary/SchoolsByRankLocationName.aspx"
+  }
+} ]

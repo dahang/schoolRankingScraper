@@ -1,0 +1,3673 @@
+[ {
+  "rank" : "1/459",
+  "rankIn5" : "7/430",
+  "name" : "Pasteur",
+  "city" : "Montréal",
+  "rating" : "10.0",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/%c3%89cole_Pasteur_(Pavillon_Khalil_Gibran)/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "1/459",
+  "rankIn5" : "76/430",
+  "name" : "Jeunes Musulmans Canadiens",
+  "city" : "Montréal",
+  "rating" : "10.0",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/%c3%89cole_Jeunes_Musulmans_Canadiens/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "3/459",
+  "rankIn5" : "2/430",
+  "name" : "École d'éducation internationale",
+  "city" : "McMasterville",
+  "rating" : "9.9",
+  "ratingIn5" : "9.7",
+  "url" : "/secondary/%c3%89cole_d'%c3%a9ducation_internationale/McMasterville/Report_Card.aspx"
+}, {
+  "rank" : "3/459",
+  "rankIn5" : "7/430",
+  "name" : "École internationale de Montréal",
+  "city" : "Westmount",
+  "rating" : "9.9",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/%c3%89cole_internationale_de_Montr%c3%a9al/Westmount/Report_Card.aspx"
+}, {
+  "rank" : "5/459",
+  "rankIn5" : "2/430",
+  "name" : "Sainte-Anne de Lachine",
+  "city" : "Montréal",
+  "rating" : "9.8",
+  "ratingIn5" : "9.7",
+  "url" : "/secondary/Coll%c3%a8ge_Sainte-Anne_de_Lachine/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "5/459",
+  "rankIn5" : "83/430",
+  "name" : "Beth Rivkah",
+  "city" : "Montréal",
+  "rating" : "9.8",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/L'Acad%c3%a9mie_Beth_Rivkah_pour_filles/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "5/459",
+  "rankIn5" : "nd",
+  "name" : "The Study",
+  "city" : "Westmount",
+  "rating" : "9.8",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/The_Study/Westmount/Report_Card.aspx"
+}, {
+  "rank" : "8/459",
+  "rankIn5" : "1/430",
+  "name" : "Jean-Eudes",
+  "city" : "Montréal",
+  "rating" : "9.7",
+  "ratingIn5" : "9.9",
+  "url" : "/secondary/Coll%c3%a8ge_Jean-Eudes/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "8/459",
+  "rankIn5" : "7/430",
+  "name" : "Jean-de-Brébeuf",
+  "city" : "Montréal",
+  "rating" : "9.7",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/Coll%c3%a8ge_Jean-de-Br%c3%a9beuf/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "8/459",
+  "rankIn5" : "19/430",
+  "name" : "Miss Edgar's & Miss Cramp's",
+  "city" : "Westmount",
+  "rating" : "9.7",
+  "ratingIn5" : "9.1",
+  "url" : "/secondary/Miss_Edgar's_and_Miss_Cramp's_School/Westmount/Report_Card.aspx"
+}, {
+  "rank" : "11/459",
+  "rankIn5" : "5/430",
+  "name" : "Saint-Nom-de-Marie",
+  "city" : "Montréal",
+  "rating" : "9.6",
+  "ratingIn5" : "9.5",
+  "url" : "/secondary/Pensionnat_du_Saint-Nom-de-Marie/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "12/459",
+  "rankIn5" : "4/430",
+  "name" : "Notre-Dame",
+  "city" : "Montréal",
+  "rating" : "9.5",
+  "ratingIn5" : "9.6",
+  "url" : "/secondary/Coll%c3%a8ge_Notre-Dame/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "12/459",
+  "rankIn5" : "7/430",
+  "name" : "Beaubois",
+  "city" : "Montréal",
+  "rating" : "9.5",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/Coll%c3%a8ge_Beaubois/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "12/459",
+  "rankIn5" : "16/430",
+  "name" : "Saint-Sacrement",
+  "city" : "Terrebonne",
+  "rating" : "9.5",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Sacrement/Terrebonne/Report_Card.aspx"
+}, {
+  "rank" : "12/459",
+  "rankIn5" : "nd",
+  "name" : "Collège Saint-Louis",
+  "city" : "Montréal",
+  "rating" : "9.5",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Louis/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "16/459",
+  "rankIn5" : "5/430",
+  "name" : "Durocher Saint-Lambert",
+  "city" : "Saint-Lambert",
+  "rating" : "9.4",
+  "ratingIn5" : "9.5",
+  "url" : "/secondary/Coll%c3%a8ge_Durocher_Saint-Lambert/Saint-Lambert/Report_Card.aspx"
+}, {
+  "rank" : "16/459",
+  "rankIn5" : "nd",
+  "name" : "West Island College",
+  "city" : "Dollard-Des Ormeaux",
+  "rating" : "9.4",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/West_Island_College_English_section/Dollard-Des_Ormeaux/Report_Card.aspx"
+}, {
+  "rank" : "18/459",
+  "rankIn5" : "7/430",
+  "name" : "École d'éducation internationale",
+  "city" : "Laval",
+  "rating" : "9.3",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/%c3%89cole_d'%c3%a9ducation_internationale/Laval/Report_Card.aspx"
+}, {
+  "rank" : "18/459",
+  "rankIn5" : "16/430",
+  "name" : "Jean de la Mennais",
+  "city" : "La Prairie",
+  "rating" : "9.3",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Coll%c3%a8ge_Jean_de_la_Mennais/La_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "20/459",
+  "rankIn5" : "7/430",
+  "name" : "Sherbrooke",
+  "city" : "Sherbrooke",
+  "rating" : "9.2",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/S%c3%a9minaire_de_Sherbrooke/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "20/459",
+  "rankIn5" : "14/430",
+  "name" : "Saint-Joseph de Hull",
+  "city" : "Gatineau",
+  "rating" : "9.2",
+  "ratingIn5" : "9.3",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Joseph_de_Hull/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "20/459",
+  "rankIn5" : "nd",
+  "name" : "Collège de l'Ouest de l'Île",
+  "city" : "Dollard-Des Ormeaux",
+  "rating" : "9.2",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Coll%c3%a8ge_de_l'Ouest_de_l'%c3%8ele_section_fran%c3%a7aise/Dollard-Des_Ormeaux/Report_Card.aspx"
+}, {
+  "rank" : "23/459",
+  "rankIn5" : "7/430",
+  "name" : "Jésus-Marie de Sillery",
+  "city" : "Québec",
+  "rating" : "9.1",
+  "ratingIn5" : "9.4",
+  "url" : "/secondary/Coll%c3%a8ge_J%c3%a9sus-Marie_de_Sillery/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "24/459",
+  "rankIn5" : "14/430",
+  "name" : "Regina Assumpta",
+  "city" : "Montréal",
+  "rating" : "9.0",
+  "ratingIn5" : "9.3",
+  "url" : "/secondary/Coll%c3%a8ge_Regina_Assumpta/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "24/459",
+  "rankIn5" : "16/430",
+  "name" : "Saint-Hilaire",
+  "city" : "Mont-Saint-Hilaire",
+  "rating" : "9.0",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Coll%c3%a8ge_St-Hilaire_inc/Mont-Saint-Hilaire/Report_Card.aspx"
+}, {
+  "rank" : "24/459",
+  "rankIn5" : "19/430",
+  "name" : "L'Académie Sainte-Thérèse",
+  "city" : "Sainte-Thérèse",
+  "rating" : "9.0",
+  "ratingIn5" : "9.1",
+  "url" : "/secondary/L'Acad%c3%a9mie_Ste-Th%c3%a9r%c3%a8se%2c_Campus_Jacques_About/Sainte-Th%c3%a9r%c3%a8se/Report_Card.aspx"
+}, {
+  "rank" : "24/459",
+  "rankIn5" : "22/430",
+  "name" : "Marcellin-Champagnat",
+  "city" : "Saint-Jean-sur-Richelieu",
+  "rating" : "9.0",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Marcellin-Champagnat/Saint-Jean-sur-Richelieu/Report_Card.aspx"
+}, {
+  "rank" : "24/459",
+  "rankIn5" : "22/430",
+  "name" : "Saint-Alexandre",
+  "city" : "Gatineau",
+  "rating" : "9.0",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Alexandre_de_la_Gatineau/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "24/459",
+  "rankIn5" : "nd",
+  "name" : "Lucille-Teasdale",
+  "city" : "Brossard",
+  "rating" : "9.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_internationale_Lucille-Teasdale/Brossard/Report_Card.aspx"
+}, {
+  "rank" : "30/459",
+  "rankIn5" : "22/430",
+  "name" : "Charlemagne",
+  "city" : "Montréal",
+  "rating" : "8.9",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/Coll%c3%a8ge_Charlemagne_inc/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "30/459",
+  "rankIn5" : "22/430",
+  "name" : "Collège Laval",
+  "city" : "Laval",
+  "rating" : "8.9",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/Coll%c3%a8ge_Laval/Laval/Report_Card.aspx"
+}, {
+  "rank" : "30/459",
+  "rankIn5" : "22/430",
+  "name" : "Juvénat Notre-Dame du Saint-Laurent",
+  "city" : "Lévis",
+  "rating" : "8.9",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/Juv%c3%a9nat_Notre-Dame_du_Saint-Laurent/L%c3%a9vis/Report_Card.aspx"
+}, {
+  "rank" : "30/459",
+  "rankIn5" : "27/430",
+  "name" : "Lafontaine",
+  "city" : "Saint-Jérôme",
+  "rating" : "8.9",
+  "ratingIn5" : "8.9",
+  "url" : "/secondary/Acad%c3%a9mie_Lafontaine_inc/Saint-J%c3%a9r%c3%b4me/Report_Card.aspx"
+}, {
+  "rank" : "30/459",
+  "rankIn5" : "30/430",
+  "name" : "Notre-Dame-de-Lourdes",
+  "city" : "Longueuil",
+  "rating" : "8.9",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/Coll%c3%a8ge_Notre-Dame-de-Lourdes/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "30/459",
+  "rankIn5" : "57/430",
+  "name" : "Sacré-Coeur",
+  "city" : "Sherbrooke",
+  "rating" : "8.9",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Coll%c3%a8ge_du_Sacr%c3%a9-Coeur/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "36/459",
+  "rankIn5" : "30/430",
+  "name" : "des Pères Maristes",
+  "city" : "Québec",
+  "rating" : "8.8",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/S%c3%a9minaire_des_P%c3%a8res_Maristes/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "36/459",
+  "rankIn5" : "52/430",
+  "name" : "Yéshiva Yavné",
+  "city" : "Côte-Saint-Luc",
+  "rating" : "8.8",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Acad%c3%a9mie_Y%c3%a9shiva_Yavn%c3%a9/C%c3%b4te-Saint-Luc/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "19/430",
+  "name" : "Sainte-Marcelline",
+  "city" : "Montréal",
+  "rating" : "8.7",
+  "ratingIn5" : "9.1",
+  "url" : "/secondary/Coll%c3%a8ge_Ste-Marcelline/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "27/430",
+  "name" : "Mont-Saint-Louis",
+  "city" : "Montréal",
+  "rating" : "8.7",
+  "ratingIn5" : "8.9",
+  "url" : "/secondary/Coll%c3%a8ge_Mont-Saint-Louis/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "29/430",
+  "name" : "L'Assomption",
+  "city" : "L'Assomption",
+  "rating" : "8.7",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/Coll%c3%a8ge_de_l'Assomption/L'Assomption/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "30/430",
+  "name" : "Loyola",
+  "city" : "Montréal",
+  "rating" : "8.7",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/Loyola_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "39/430",
+  "name" : "Externat Sacré-Coeur",
+  "city" : "Rosemère",
+  "rating" : "8.7",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Externat_Sacr%c3%a9-Coeur/Rosem%c3%a8re/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "nd",
+  "name" : "Lower Canada College",
+  "city" : "Montréal",
+  "rating" : "8.7",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Lower_Canada_College/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "38/459",
+  "rankIn5" : "nd",
+  "name" : "Vanguard secteur francophone",
+  "city" : "Montréal",
+  "rating" : "8.7",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_Vanguard_secteur_francophone/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "45/459",
+  "rankIn5" : "46/430",
+  "name" : "Saint-Charles-Garnier",
+  "city" : "Québec",
+  "rating" : "8.6",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Charles-Garnier/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "45/459",
+  "rankIn5" : "52/430",
+  "name" : "Sainte-Anne de La Pocatière",
+  "city" : "La Pocatière",
+  "rating" : "8.6",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Coll%c3%a8ge_Ste-Anne-de-La-Pocati%c3%a8re/La_Pocati%c3%a8re/Report_Card.aspx"
+}, {
+  "rank" : "45/459",
+  "rankIn5" : "69/430",
+  "name" : "Mont-Royal",
+  "city" : "Mont-Royal",
+  "rating" : "8.6",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/%c3%89cole_Mont-Royal/Mont-Royal/Report_Card.aspx"
+}, {
+  "rank" : "45/459",
+  "rankIn5" : "nd",
+  "name" : "Le tandem",
+  "city" : "Victoriaville",
+  "rating" : "8.6",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_secondaire_Le_tandem/Victoriaville/Report_Card.aspx"
+}, {
+  "rank" : "49/459",
+  "rankIn5" : "30/430",
+  "name" : "Cardinal-Roy",
+  "city" : "Québec",
+  "rating" : "8.5",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/%c3%89cole_Cardinal-Roy/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "49/459",
+  "rankIn5" : "35/430",
+  "name" : "Collège Français",
+  "city" : "Longueuil",
+  "rating" : "8.5",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Coll%c3%a8ge_Fran%c3%a7ais_secondaire_Longueuil/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "49/459",
+  "rankIn5" : "39/430",
+  "name" : "Collège Héritage",
+  "city" : "Châteauguay",
+  "rating" : "8.5",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Coll%c3%a8ge_H%c3%a9ritage_de_Ch%c3%a2teauguay/Ch%c3%a2teauguay/Report_Card.aspx"
+}, {
+  "rank" : "49/459",
+  "rankIn5" : "46/430",
+  "name" : "Sainte-Trinité",
+  "city" : "Saint-Bruno-de-Montarville",
+  "rating" : "8.5",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/S%c3%a9minaire_Sainte-Trinit%c3%a9/Saint-Bruno-de-Montarville/Report_Card.aspx"
+}, {
+  "rank" : "49/459",
+  "rankIn5" : "76/430",
+  "name" : "Saint-Louis",
+  "city" : "Québec",
+  "rating" : "8.5",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Acad%c3%a9mie_St-Louis/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "54/459",
+  "rankIn5" : "35/430",
+  "name" : "Notre-Dame",
+  "city" : "Rivière-du-Loup",
+  "rating" : "8.4",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Coll%c3%a8ge_Notre-Dame_de_Rivi%c3%a8re-du-Loup/Rivi%c3%a8re-du-Loup/Report_Card.aspx"
+}, {
+  "rank" : "54/459",
+  "rankIn5" : "35/430",
+  "name" : "Sacred Heart",
+  "city" : "Montréal",
+  "rating" : "8.4",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Sacred_Heart_School_of_Montreal/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "54/459",
+  "rankIn5" : "39/430",
+  "name" : "Hebrew Academy",
+  "city" : "Côte-Saint-Luc",
+  "rating" : "8.4",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Hebrew_Academy%2c_Inc/C%c3%b4te-Saint-Luc/Report_Card.aspx"
+}, {
+  "rank" : "54/459",
+  "rankIn5" : "52/430",
+  "name" : "Marie-de-l'Incarnation",
+  "city" : "Trois-Rivières",
+  "rating" : "8.4",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Coll%c3%a8ge_Marie-de-l'Incarnation/Trois-Rivi%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "54/459",
+  "rankIn5" : "nd",
+  "name" : "Ali Ibn Abi Talib",
+  "city" : "Montréal",
+  "rating" : "8.4",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/L'%c3%89cole_Ali_Ibn_Abi_Talib/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "59/459",
+  "rankIn5" : "30/430",
+  "name" : "Keranna",
+  "city" : "Trois-Rivières",
+  "rating" : "8.3",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/Institut_secondaire_Keranna/Trois-Rivi%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "59/459",
+  "rankIn5" : "39/430",
+  "name" : "Villa Sainte-Marcelline",
+  "city" : "Westmount",
+  "rating" : "8.3",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Villa_Sainte-Marcelline/Westmount/Report_Card.aspx"
+}, {
+  "rank" : "59/459",
+  "rankIn5" : "87/430",
+  "name" : "St. George's",
+  "city" : "Montréal",
+  "rating" : "8.3",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/St._George's_School_of_Montreal/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "59/459",
+  "rankIn5" : "100/430",
+  "name" : "College Prep International",
+  "city" : "Montréal",
+  "rating" : "8.3",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/College_Prep_International/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "63/459",
+  "rankIn5" : "46/430",
+  "name" : "Collège de Montréal",
+  "city" : "Montréal",
+  "rating" : "8.2",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Coll%c3%a8ge_de_Montr%c3%a9al/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "63/459",
+  "rankIn5" : "46/430",
+  "name" : "Lévis",
+  "city" : "Lévis",
+  "rating" : "8.2",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Coll%c3%a8ge_de_L%c3%a9vis/L%c3%a9vis/Report_Card.aspx"
+}, {
+  "rank" : "63/459",
+  "rankIn5" : "46/430",
+  "name" : "Vincent Massey",
+  "city" : "Montréal",
+  "rating" : "8.2",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Vincent_Massey_Collegiate/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "63/459",
+  "rankIn5" : "57/430",
+  "name" : "Letendre",
+  "city" : "Laval",
+  "rating" : "8.2",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Coll%c3%a8ge_Letendre/Laval/Report_Card.aspx"
+}, {
+  "rank" : "63/459",
+  "rankIn5" : "57/430",
+  "name" : "Saint-Maurice",
+  "city" : "Saint-Hyacinthe",
+  "rating" : "8.2",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Maurice/Saint-Hyacinthe/Report_Card.aspx"
+}, {
+  "rank" : "63/459",
+  "rankIn5" : "69/430",
+  "name" : "Charles-Lemoyne",
+  "city" : "Longueuil",
+  "rating" : "8.2",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Coll%c3%a8ge_Charles-Lemoyne/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "35/430",
+  "name" : "Saint-François",
+  "city" : "Saint-Augustin-de-Desmaures",
+  "rating" : "8.1",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/S%c3%a9minaire_Saint-Fran%c3%a7ois/Saint-Augustin-de-Desmaures/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "39/430",
+  "name" : "Mont-Saint-Sacrement",
+  "city" : "Saint-Gabriel-de-Valcartier",
+  "rating" : "8.1",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/%c3%89cole_secondaire_Mont_Saint-Sacrement/Saint-Gabriel-de-Valcartier/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "57/430",
+  "name" : "Mont-Sacré-Coeur",
+  "city" : "Granby",
+  "rating" : "8.1",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Coll%c3%a8ge_Mont-Sacr%c3%a9-Coeur/Granby/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "57/430",
+  "name" : "Royal West",
+  "city" : "Montréal-Ouest",
+  "rating" : "8.1",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Royal_West_Academy/Montr%c3%a9al-Ouest/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "64/430",
+  "name" : "Esther Blondin",
+  "city" : "Saint-Jacques",
+  "rating" : "8.1",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Coll%c3%a8ge_Esther_Blondin/Saint-Jacques/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "69/430",
+  "name" : "Bourget",
+  "city" : "Rigaud",
+  "rating" : "8.1",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Coll%c3%a8ge_Bourget/Rigaud/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "69/430",
+  "name" : "Clarétain",
+  "city" : "Victoriaville",
+  "rating" : "8.1",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Coll%c3%a8ge_Clar%c3%a9tain_de_Victoriaville/Victoriaville/Report_Card.aspx"
+}, {
+  "rank" : "69/459",
+  "rankIn5" : "188/430",
+  "name" : "Saint-Paul",
+  "city" : "Saint-Paul-de-Montminy",
+  "rating" : "8.1",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Saint-Paul/Saint-Paul-de-Montminy/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "39/430",
+  "name" : "Maïmonide (Parkhaven)",
+  "city" : "Côte-Saint-Luc",
+  "rating" : "8.0",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/%c3%89cole_Maimonide%2c_Campus_Parkhaven/C%c3%b4te-Saint-Luc/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "46/430",
+  "name" : "Villa Maria",
+  "city" : "Montréal",
+  "rating" : "8.0",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Villa_Maria/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "64/430",
+  "name" : "Michèle-Provost",
+  "city" : "Montréal",
+  "rating" : "8.0",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Acad%c3%a9mie_Mich%c3%a8le-Provost/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "69/430",
+  "name" : "De Roberval",
+  "city" : "Montréal",
+  "rating" : "8.0",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Acad%c3%a9mie_De_Roberval/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "69/430",
+  "name" : "Externat Saint-Jean-Eudes",
+  "city" : "Québec",
+  "rating" : "8.0",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Externat_Saint-Jean-Eudes/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "69/430",
+  "name" : "Trafalgar",
+  "city" : "Montréal",
+  "rating" : "8.0",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Trafalgar_School_For_Girls/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "77/459",
+  "rankIn5" : "79/430",
+  "name" : "St. Thomas",
+  "city" : "Pointe-Claire",
+  "rating" : "8.0",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Saint_Thomas_High_School/Pointe-Claire/Report_Card.aspx"
+}, {
+  "rank" : "84/459",
+  "rankIn5" : "39/430",
+  "name" : "Selwyn House",
+  "city" : "Westmount",
+  "rating" : "7.9",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Selwyn_House_School/Westmount/Report_Card.aspx"
+}, {
+  "rank" : "84/459",
+  "rankIn5" : "57/430",
+  "name" : "Mont Notre-Dame",
+  "city" : "Sherbrooke",
+  "rating" : "7.9",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Coll%c3%a8ge_Mont_Notre-Dame_de_Sherbrooke/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "84/459",
+  "rankIn5" : "79/430",
+  "name" : "Salésien",
+  "city" : "Sherbrooke",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/S%c3%a9minaire_Sal%c3%a9sien/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "87/459",
+  "rankIn5" : "52/430",
+  "name" : "Bialik",
+  "city" : "Côte-Saint-Luc",
+  "rating" : "7.8",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Bialik_High_School/C%c3%b4te-Saint-Luc/Report_Card.aspx"
+}, {
+  "rank" : "87/459",
+  "rankIn5" : "64/430",
+  "name" : "Antoine Manseau",
+  "city" : "Joliette",
+  "rating" : "7.8",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Acad%c3%a9mie_Antoine_Manseau/Joliette/Report_Card.aspx"
+}, {
+  "rank" : "87/459",
+  "rankIn5" : "87/430",
+  "name" : "Reine-Marie",
+  "city" : "Montréal",
+  "rating" : "7.8",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Coll%c3%a8ge_Reine-Marie/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "87/459",
+  "rankIn5" : "100/430",
+  "name" : "Rivier",
+  "city" : "Coaticook",
+  "rating" : "7.8",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Coll%c3%a8ge_Rivier/Coaticook/Report_Card.aspx"
+}, {
+  "rank" : "87/459",
+  "rankIn5" : "nd",
+  "name" : "Herzliah High School",
+  "city" : "Montréal",
+  "rating" : "7.8",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Herzliah_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "92/459",
+  "rankIn5" : "52/430",
+  "name" : "Saint-Jean-Vianney",
+  "city" : "Montréal",
+  "rating" : "7.7",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Jean_Vianney/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "92/459",
+  "rankIn5" : "64/430",
+  "name" : "Saint-Paul",
+  "city" : "Varennes",
+  "rating" : "7.7",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Paul/Varennes/Report_Card.aspx"
+}, {
+  "rank" : "92/459",
+  "rankIn5" : "87/430",
+  "name" : "Charles-Lemoyne",
+  "city" : "Sainte-Catherine",
+  "rating" : "7.7",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Coll%c3%a8ge_Charles-Lemoyne/Sainte-Catherine/Report_Card.aspx"
+}, {
+  "rank" : "92/459",
+  "rankIn5" : "92/430",
+  "name" : "Marcelle-Mallet",
+  "city" : "Lévis",
+  "rating" : "7.7",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/%c3%89cole_Marcelle-Mallet/L%c3%a9vis/Report_Card.aspx"
+}, {
+  "rank" : "92/459",
+  "rankIn5" : "117/430",
+  "name" : "Collège d'Anjou",
+  "city" : "Montréal",
+  "rating" : "7.7",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Coll%c3%a8ge_d'Anjou/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "57/430",
+  "name" : "Beth Jacob d'Rav Hirschprung",
+  "city" : "Montréal",
+  "rating" : "7.6",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Beth_Jacob_d'Rav_Hirschprung_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "76/430",
+  "name" : "Collège François-de-Laval",
+  "city" : "Québec",
+  "rating" : "7.6",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Coll%c3%a8ge_Fran%c3%a7ois-de-Laval/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "81/430",
+  "name" : "Jésus-Marie",
+  "city" : "Beauceville",
+  "rating" : "7.6",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/%c3%89cole_J%c3%a9sus-Marie_de_Beauceville/Beauceville/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "83/430",
+  "name" : "Alexander von Humboldt",
+  "city" : "Baie-D'Urfé",
+  "rating" : "7.6",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Alexander_von_Humboldt_German_Int'l_School%2c_Inc/Baie-D'Urf%c3%a9/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "83/430",
+  "name" : "Saint-Joseph",
+  "city" : "Saint-Hyacinthe",
+  "rating" : "7.6",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Saint-Joseph_de_Saint-Hyacinthe/Saint-Hyacinthe/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "103/430",
+  "name" : "Sainte-Marie",
+  "city" : "Shawinigan",
+  "rating" : "7.6",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Le_S%c3%a9minaire_Ste-Marie_de_Shawinigan/Shawinigan/Report_Card.aspx"
+}, {
+  "rank" : "97/459",
+  "rankIn5" : "103/430",
+  "name" : "Vallée-des-Lacs",
+  "city" : "Saint-Michel-du-Squatec",
+  "rating" : "7.6",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/%c3%89cole_secondaire_de_la_Vall%c3%a9e-des-Lacs/Saint-Michel-du-Squatec/Report_Card.aspx"
+}, {
+  "rank" : "104/459",
+  "rankIn5" : "64/430",
+  "name" : "Kuper",
+  "city" : "Kirkland",
+  "rating" : "7.5",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Kuper_Academy%2c_Inc/Kirkland/Report_Card.aspx"
+}, {
+  "rank" : "104/459",
+  "rankIn5" : "94/430",
+  "name" : "école secondaire Herzliah",
+  "city" : "Montréal",
+  "rating" : "7.5",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Herzliah/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "106/459",
+  "rankIn5" : "94/430",
+  "name" : "de Champigny",
+  "city" : "Québec",
+  "rating" : "7.4",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Coll%c3%a8ge_de_Champigny/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "106/459",
+  "rankIn5" : "100/430",
+  "name" : "Val-Mauricie",
+  "city" : "Shawinigan",
+  "rating" : "7.4",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/%c3%89cole_secondaire_Val-Mauricie/Shawinigan/Report_Card.aspx"
+}, {
+  "rank" : "106/459",
+  "rankIn5" : "103/430",
+  "name" : "Nouvelles Frontières",
+  "city" : "Gatineau",
+  "rating" : "7.4",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Coll%c3%a8ge_pr%c3%a9universitaire_Nouvelles_Fronti%c3%a8res/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "109/459",
+  "rankIn5" : "87/430",
+  "name" : "du Verbe Divin",
+  "city" : "Granby",
+  "rating" : "7.3",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/%c3%89cole_secondaire_du_verbe_divin/Granby/Report_Card.aspx"
+}, {
+  "rank" : "109/459",
+  "rankIn5" : "94/430",
+  "name" : "Saint-Joseph",
+  "city" : "Trois-Rivières",
+  "rating" : "7.3",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Le_S%c3%a9minaire_de_Saint-Joseph_des_Trois-Rivi%c3%a8res/Trois-Rivi%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "111/459",
+  "rankIn5" : "83/430",
+  "name" : "St. Patrick",
+  "city" : "Québec",
+  "rating" : "7.2",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Saint_Patrick's_High_School/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "111/459",
+  "rankIn5" : "94/430",
+  "name" : "Armand-Corbeil",
+  "city" : "Terrebonne",
+  "rating" : "7.2",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/%c3%89cole_Armand-Corbeil/Terrebonne/Report_Card.aspx"
+}, {
+  "rank" : "111/459",
+  "rankIn5" : "109/430",
+  "name" : "Horizon-Blanc",
+  "city" : "Fermont",
+  "rating" : "7.2",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Polyvalente_Horizon-Blanc/Fermont/Report_Card.aspx"
+}, {
+  "rank" : "111/459",
+  "rankIn5" : "109/430",
+  "name" : "Mitchell - Montcalm",
+  "city" : "Sherbrooke",
+  "rating" : "7.2",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_Mitchell_-_Montcalm/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "111/459",
+  "rankIn5" : "154/430",
+  "name" : "Champagneur",
+  "city" : "Rawdon",
+  "rating" : "7.2",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Le_Coll%c3%a8ge_Champagneur/Rawdon/Report_Card.aspx"
+}, {
+  "rank" : "116/459",
+  "rankIn5" : "117/430",
+  "name" : "Joseph-François-Perrault",
+  "city" : "Montréal",
+  "rating" : "7.1",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/%c3%89cole_Joseph-Fran%c3%a7ois-Perrault/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "116/459",
+  "rankIn5" : "131/430",
+  "name" : "Félix-Leclerc",
+  "city" : "Pointe-Claire",
+  "rating" : "7.1",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_F%c3%a9lix-Leclerc/Pointe-Claire/Report_Card.aspx"
+}, {
+  "rank" : "118/459",
+  "rankIn5" : "124/430",
+  "name" : "Cabano",
+  "city" : "Témiscouata-sur-le-Lac",
+  "rating" : "7.0",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Cabano/T%c3%a9miscouata-sur-le-Lac/Report_Card.aspx"
+}, {
+  "rank" : "118/459",
+  "rankIn5" : "141/430",
+  "name" : "Saint-Stanislas",
+  "city" : "Saint-Jérôme",
+  "rating" : "7.0",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Saint-Stanislas/Saint-J%c3%a9r%c3%b4me/Report_Card.aspx"
+}, {
+  "rank" : "118/459",
+  "rankIn5" : "201/430",
+  "name" : "Marie-Rivier",
+  "city" : "Drummondville",
+  "rating" : "7.0",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_Marie-Rivier/Drummondville/Report_Card.aspx"
+}, {
+  "rank" : "118/459",
+  "rankIn5" : "nd",
+  "name" : "Ibn Sina",
+  "city" : "Montréal",
+  "rating" : "7.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Acad%c3%a9mie_Ibn_Sina/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "122/459",
+  "rankIn5" : "81/430",
+  "name" : "Mont-Royal",
+  "city" : "Montréal",
+  "rating" : "6.9",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Coll%c3%a8ge_de_Mont-Royal/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "122/459",
+  "rankIn5" : "109/430",
+  "name" : "Saint-Edmond",
+  "city" : "Longueuil",
+  "rating" : "6.9",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Saint-Edmond/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "122/459",
+  "rankIn5" : "117/430",
+  "name" : "Black Lake",
+  "city" : "Thetford Mines",
+  "rating" : "6.9",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Polyvalente_de_Black_Lake/Thetford_Mines/Report_Card.aspx"
+}, {
+  "rank" : "122/459",
+  "rankIn5" : "124/430",
+  "name" : "Saint-François",
+  "city" : "Beauceville",
+  "rating" : "6.9",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Polyvalente_Saint-Fran%c3%a7ois/Beauceville/Report_Card.aspx"
+}, {
+  "rank" : "122/459",
+  "rankIn5" : "141/430",
+  "name" : "La Samare",
+  "city" : "Plessisville",
+  "rating" : "6.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_Polyvalente_La_Samare/Plessisville/Report_Card.aspx"
+}, {
+  "rank" : "127/459",
+  "rankIn5" : "109/430",
+  "name" : "De Rochebelle",
+  "city" : "Québec",
+  "rating" : "6.8",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_secondaire_De_Rochebelle/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "127/459",
+  "rankIn5" : "117/430",
+  "name" : "Camille-Lavoie",
+  "city" : "Alma",
+  "rating" : "6.8",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Camille-Lavoie/Alma/Report_Card.aspx"
+}, {
+  "rank" : "127/459",
+  "rankIn5" : "154/430",
+  "name" : "Jean-Baptiste-Meilleur",
+  "city" : "Repentigny",
+  "rating" : "6.8",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_Jean-Baptiste-Meilleur/Repentigny/Report_Card.aspx"
+}, {
+  "rank" : "127/459",
+  "rankIn5" : "175/430",
+  "name" : "Le boisé",
+  "city" : "Victoriaville",
+  "rating" : "6.8",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Le_bois%c3%a9/Victoriaville/Report_Card.aspx"
+}, {
+  "rank" : "127/459",
+  "rankIn5" : "175/430",
+  "name" : "Montignac",
+  "city" : "Lac-Mégantic",
+  "rating" : "6.8",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Polyvalente_Montignac/Lac-M%c3%a9gantic/Report_Card.aspx"
+}, {
+  "rank" : "127/459",
+  "rankIn5" : "201/430",
+  "name" : "des Hauts-Sommets",
+  "city" : "Saint-Jérôme",
+  "rating" : "6.8",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Hauts-Sommets/Saint-J%c3%a9r%c3%b4me/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "87/430",
+  "name" : "Sacré-Coeur",
+  "city" : "Grenville-sur-la-Rouge",
+  "rating" : "6.7",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/S%c3%a9minaire_du_Sacr%c3%a9-Coeur/Grenville-sur-la-Rouge/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "94/430",
+  "name" : "Chicoutimi",
+  "city" : "Saguenay",
+  "rating" : "6.7",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/S%c3%a9minaire_de_Chicoutimi/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "103/430",
+  "name" : "F.A.C.E.",
+  "city" : "Montréal",
+  "rating" : "6.7",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/F.A.C.E._School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "103/430",
+  "name" : "John Rennie",
+  "city" : "Pointe-Claire",
+  "rating" : "6.7",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/John_Rennie_High_School/Pointe-Claire/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "131/430",
+  "name" : "aux Quatre-Vents",
+  "city" : "Bonaventure",
+  "rating" : "6.7",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_aux_Quatre-Vents/Bonaventure/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "141/430",
+  "name" : "Royal Vale",
+  "city" : "Montréal",
+  "rating" : "6.7",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Royal_Vale_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "154/430",
+  "name" : "Oka",
+  "city" : "Oka",
+  "rating" : "6.7",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_secondaire_d'Oka/Oka/Report_Card.aspx"
+}, {
+  "rank" : "133/459",
+  "rankIn5" : "201/430",
+  "name" : "Laurier",
+  "city" : "Laval",
+  "rating" : "6.7",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Laurier_Senior_High_School/Laval/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "94/430",
+  "name" : "François-Bourrin",
+  "city" : "Québec",
+  "rating" : "6.6",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Fran%c3%a7ois-Bourrin/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "114/430",
+  "name" : "Saint-Aubin",
+  "city" : "Baie-Saint-Paul",
+  "rating" : "6.6",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Centre_%c3%a9ducatif_Saint-Aubin/Baie-Saint-Paul/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "117/430",
+  "name" : "Kénogami",
+  "city" : "Saguenay",
+  "rating" : "6.6",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/%c3%89cole_secondaire_K%c3%a9nogami/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "124/430",
+  "name" : "Rive-Nord",
+  "city" : "Bois-des-Filion",
+  "rating" : "6.6",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/%c3%89cole_secondaire_Rive-Nord/Bois-des-Filion/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "131/430",
+  "name" : "Bromptonville",
+  "city" : "Sherbrooke",
+  "rating" : "6.6",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Bromptonville/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "131/430",
+  "name" : "de L'Ancienne-Lorette",
+  "city" : "L'Ancienne-Lorette",
+  "rating" : "6.6",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_secondaire_polyvalente_de_L'Ancienne-Lorette/L'Ancienne-Lorette/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "131/430",
+  "name" : "Notre-Dame-de-l'Assomption",
+  "city" : "Nicolet",
+  "rating" : "6.6",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Coll%c3%a8ge_Notre-Dame-de-l'Assomption/Nicolet/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "175/430",
+  "name" : "des Grandes-Marées",
+  "city" : "Saguenay",
+  "rating" : "6.6",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Grandes-Mar%c3%a9es/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "188/430",
+  "name" : "Marcel-Raymond",
+  "city" : "Lorrainville",
+  "rating" : "6.6",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_Marcel-Raymond/Lorrainville/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "188/430",
+  "name" : "Mirabel",
+  "city" : "Mirabel",
+  "rating" : "6.6",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Mirabel/Mirabel/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "216/430",
+  "name" : "Sainte-Anne",
+  "city" : "Daveluyville",
+  "rating" : "6.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_Sainte-Anne/Daveluyville/Report_Card.aspx"
+}, {
+  "rank" : "141/459",
+  "rankIn5" : "nd",
+  "name" : "Dollard-des-Ormeaux",
+  "city" : "Shannon",
+  "rating" : "6.6",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Dollard-des-Ormeaux_School/Shannon/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "103/430",
+  "name" : "Notre-Dame-des-Servite",
+  "city" : "Ayer's Cliff",
+  "rating" : "6.5",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Coll%c3%a8ge_Notre-Dame-des-Servites/Ayer's_Cliff/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "124/430",
+  "name" : "Jean-Jacques-Bertrand",
+  "city" : "Farnham",
+  "rating" : "6.5",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/%c3%89cole_Jean-Jacques-Bertrand/Farnham/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "131/430",
+  "name" : "du Mont-Sainte-Anne",
+  "city" : "Beaupré",
+  "rating" : "6.5",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_du_Mont-Sainte-Anne/Beaupr%c3%a9/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "131/430",
+  "name" : "Saint-Georges",
+  "city" : "Senneville",
+  "rating" : "6.5",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_Saint-Georges/Senneville/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "141/430",
+  "name" : "Monique-Proulx",
+  "city" : "Warwick",
+  "rating" : "6.5",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Monique-Proulx/Warwick/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "154/430",
+  "name" : "Philemon Wright",
+  "city" : "Gatineau",
+  "rating" : "6.5",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Philemon_Wright_High_School/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "153/459",
+  "rankIn5" : "nd",
+  "name" : "North Star",
+  "city" : "Laval",
+  "rating" : "6.5",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/North_Star_Academy/Laval/Report_Card.aspx"
+}, {
+  "rank" : "160/459",
+  "rankIn5" : "109/430",
+  "name" : "Marie-Clarac",
+  "city" : "Montréal",
+  "rating" : "6.4",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_Marie-Clarac_(Claudette_Mackay-Lassonde)/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "160/459",
+  "rankIn5" : "114/430",
+  "name" : "Robert-Gravel",
+  "city" : "Montréal",
+  "rating" : "6.4",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/%c3%89cole_Robert-Gravel/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "160/459",
+  "rankIn5" : "117/430",
+  "name" : "l'Eau-Vive",
+  "city" : "Québec",
+  "rating" : "6.4",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/L'%c3%89cole_l'Eau-Vive/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "160/459",
+  "rankIn5" : "166/430",
+  "name" : "Jeanne-Mance",
+  "city" : "Drummondville",
+  "rating" : "6.4",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/%c3%89cole_Jeanne-Mance/Drummondville/Report_Card.aspx"
+}, {
+  "rank" : "160/459",
+  "rankIn5" : "175/430",
+  "name" : "Sophie-Barat",
+  "city" : "Montréal",
+  "rating" : "6.4",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_Sophie-Barat/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "160/459",
+  "rankIn5" : "216/430",
+  "name" : "Laurentian",
+  "city" : "Lachute",
+  "rating" : "6.4",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Laurentian_Regional_High_School/Lachute/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "131/430",
+  "name" : "Monts",
+  "city" : "Sainte-Agathe-des-Monts",
+  "rating" : "6.3",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_polyvalente_des_Monts/Sainte-Agathe-des-Monts/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "131/430",
+  "name" : "Quebec",
+  "city" : "Québec",
+  "rating" : "6.3",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Quebec_High_School/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "141/430",
+  "name" : "Pierrefonds",
+  "city" : "Pierrefonds",
+  "rating" : "6.3",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Pierrefonds_Comprehensive_High_School/Pierrefonds/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "141/430",
+  "name" : "Westwood",
+  "city" : "Hudson",
+  "rating" : "6.3",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Westwood_High_School/Hudson/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "154/430",
+  "name" : "Cap-Jeunesse",
+  "city" : "Saint-Jérôme",
+  "rating" : "6.3",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_secondaire_Cap-Jeunesse/Saint-J%c3%a9r%c3%b4me/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "154/430",
+  "name" : "Paspébiac",
+  "city" : "Paspébiac",
+  "rating" : "6.3",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_polyvalente_de_Pasp%c3%a9biac/Pasp%c3%a9biac/Report_Card.aspx"
+}, {
+  "rank" : "166/459",
+  "rankIn5" : "175/430",
+  "name" : "Chanoine-Armand-Racicot",
+  "city" : "Saint-Jean-sur-Richelieu",
+  "rating" : "6.3",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Polyvalente_Chanoine-Armand-Racicot/Saint-Jean-sur-Richelieu/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "124/430",
+  "name" : "Saint-Pierre et des Sentiers",
+  "city" : "Québec",
+  "rating" : "6.2",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/%c3%89cole_Saint-Pierre_et_des_Sentiers/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "154/430",
+  "name" : "Centennial",
+  "city" : "Greenfield Park",
+  "rating" : "6.2",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Centennial_Regional__High_School/Greenfield_Park/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "154/430",
+  "name" : "LaurenHill",
+  "city" : "Saint-Laurent",
+  "rating" : "6.2",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/LaurenHill_Academy/Saint-Laurent/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "166/430",
+  "name" : "FACE",
+  "city" : "Montréal",
+  "rating" : "6.2",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/%c3%89cole_FACE/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "166/430",
+  "name" : "Rivière-du-Loup",
+  "city" : "Rivière-du-Loup",
+  "rating" : "6.2",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Rivi%c3%a8re-du-Loup/Rivi%c3%a8re-du-Loup/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "188/430",
+  "name" : "La Découverte",
+  "city" : "Saint-Léonard-d'Aston",
+  "rating" : "6.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_la_D%c3%a9couverte/Saint-L%c3%a9onard-d'Aston/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "201/430",
+  "name" : "des Sources",
+  "city" : "Dollard-Des Ormeaux",
+  "rating" : "6.2",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_des_Sources/Dollard-Des_Ormeaux/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "201/430",
+  "name" : "Samuel-De Champlain",
+  "city" : "Québec",
+  "rating" : "6.2",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_Samuel-De_Champlain/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "201/430",
+  "name" : "Ste-Agathe",
+  "city" : "Sainte-Agathe-des-Monts",
+  "rating" : "6.2",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Sainte-Agathe_Academy/Sainte-Agathe-des-Monts/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "216/430",
+  "name" : "L'Escale",
+  "city" : "Louiseville",
+  "rating" : "6.2",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_l'Escale/Louiseville/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "231/430",
+  "name" : "des Berges",
+  "city" : "Les Bergeronnes",
+  "rating" : "6.2",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Polyvalente_des_Berges/Les_Bergeronnes/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "231/430",
+  "name" : "du Triolet",
+  "city" : "Sherbrooke",
+  "rating" : "6.2",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_du_Triolet/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "231/430",
+  "name" : "le Tremplin",
+  "city" : "Sainte-Geneviève-de-Batiscan",
+  "rating" : "6.2",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_secondaire_le_Tremplin/Sainte-Genevi%c3%a8ve-de-Batiscan/Report_Card.aspx"
+}, {
+  "rank" : "173/459",
+  "rankIn5" : "301/430",
+  "name" : "MacDonald",
+  "city" : "Sainte-Anne-de-Bellevue",
+  "rating" : "6.2",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Macdonald_High_School/Sainte-Anne-de-Bellevue/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "131/430",
+  "name" : "de la Seigneurie",
+  "city" : "Québec",
+  "rating" : "6.1",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_de_la_Seigneurie/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "141/430",
+  "name" : "D'Arcy McGee",
+  "city" : "Gatineau",
+  "rating" : "6.1",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/D'Arcy_McGee_High_School/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "141/430",
+  "name" : "Saint-Marc",
+  "city" : "Saint-Marc-des-Carrières",
+  "rating" : "6.1",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Saint-Marc/Saint-Marc-des-Carri%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "166/430",
+  "name" : "des Appalaches",
+  "city" : "Sainte-Justine",
+  "rating" : "6.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Polyvalente_des_Appalaches/Sainte-Justine/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "166/430",
+  "name" : "Rosemere",
+  "city" : "Rosemère",
+  "rating" : "6.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Rosemere_High_School/Rosem%c3%a8re/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "188/430",
+  "name" : "Beaconsfield",
+  "city" : "Beaconsfield",
+  "rating" : "6.1",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Beaconsfield_High_School/Beaconsfield/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "201/430",
+  "name" : "de la Rencontre",
+  "city" : "Saint-Pamphile",
+  "rating" : "6.1",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_secondaire_de_la_Rencontre/Saint-Pamphile/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "216/430",
+  "name" : "École Massey-Vanier",
+  "city" : "Cowansville",
+  "rating" : "6.1",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_Massey-Vanier/Cowansville/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "231/430",
+  "name" : "Westmount",
+  "city" : "Westmount",
+  "rating" : "6.1",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Westmount_High_School/Westmount/Report_Card.aspx"
+}, {
+  "rank" : "187/459",
+  "rankIn5" : "322/430",
+  "name" : "Antoine-Roy",
+  "city" : "Gaspé",
+  "rating" : "6.1",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_Antoine-Roy/Gasp%c3%a9/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "114/430",
+  "name" : "Saint-Gabriel",
+  "city" : "Sainte-Thérèse",
+  "rating" : "6.0",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/%c3%89cole_Saint-Gabriel/Sainte-Th%c3%a9r%c3%a8se/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "124/430",
+  "name" : "Centennial",
+  "city" : "Montréal",
+  "rating" : "6.0",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Centennial_Academy/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "124/430",
+  "name" : "Mont-Sainte-Anne",
+  "city" : "Sherbrooke",
+  "rating" : "6.0",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Coll%c3%a8ge_du_Mont_Ste-Anne/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "141/430",
+  "name" : "du Chêne-Bleu",
+  "city" : "Pincourt",
+  "rating" : "6.0",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Ch%c3%aane-Bleu/Pincourt/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "141/430",
+  "name" : "Jean-Paul II",
+  "city" : "Baie-Comeau",
+  "rating" : "6.0",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Jean-Paul_II/Baie-Comeau/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "141/430",
+  "name" : "Liberté-Jeunesse",
+  "city" : "Sainte-Marthe-sur-le-Lac",
+  "rating" : "6.0",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Libert%c3%a9-Jeunesse/Sainte-Marthe-sur-le-Lac/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "175/430",
+  "name" : "De Mortagne",
+  "city" : "Boucherville",
+  "rating" : "6.0",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_De_Mortagne/Boucherville/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "201/430",
+  "name" : "Pointe-Lévy",
+  "city" : "Lévis",
+  "rating" : "6.0",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_Pointe-L%c3%a9vy/L%c3%a9vis/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "216/430",
+  "name" : "Pamphile-Le May",
+  "city" : "Sainte-Croix",
+  "rating" : "6.0",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Pamphile-Le_May/Sainte-Croix/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "216/430",
+  "name" : "St. John's",
+  "city" : "Saint-Jean-sur-Richelieu",
+  "rating" : "6.0",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Saint_John's_School/Saint-Jean-sur-Richelieu/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "231/430",
+  "name" : "Monseigneur-Richard",
+  "city" : "Montréal",
+  "rating" : "6.0",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_Monseigneur-Richard/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "249/430",
+  "name" : "C.-E.-Pouliot",
+  "city" : "Gaspé",
+  "rating" : "6.0",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_C.-E.-Pouliot/Gasp%c3%a9/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "249/430",
+  "name" : "Joseph-François-Perrault",
+  "city" : "Québec",
+  "rating" : "6.0",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_Joseph-Fran%c3%a7ois-Perrault/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "259/430",
+  "name" : "les Seigneuries",
+  "city" : "Saint-Pierre-les-Becquets",
+  "rating" : "6.0",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/%c3%89cole_secondaire_les_Seigneuries/Saint-Pierre-les-Becquets/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "266/430",
+  "name" : "Hormisdas-Gamelin",
+  "city" : "Gatineau",
+  "rating" : "6.0",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Hormisdas-Gamelin/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "286/430",
+  "name" : "Champagnat",
+  "city" : "La Tuque",
+  "rating" : "6.0",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_secondaire_Champagnat/La_Tuque/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "286/430",
+  "name" : "La Frontalière",
+  "city" : "Coaticook",
+  "rating" : "6.0",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_La_Frontali%c3%a8re/Coaticook/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "301/430",
+  "name" : "Armand-Saint-Onge",
+  "city" : "Amqui",
+  "rating" : "6.0",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Polyvalente_Armand-Saint-Onge/Amqui/Report_Card.aspx"
+}, {
+  "rank" : "197/459",
+  "rankIn5" : "330/430",
+  "name" : "Riverside",
+  "city" : "Saguenay",
+  "rating" : "6.0",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Riverside_School/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "123/430",
+  "name" : "Saint-Luc",
+  "city" : "Montréal",
+  "rating" : "5.9",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/%c3%89cole_Saint-Luc/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "141/430",
+  "name" : "Saint-Bernard",
+  "city" : "Drummondville",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Coll%c3%a8ge_Saint-Bernard/Drummondville/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "154/430",
+  "name" : "Bélanger",
+  "city" : "Saint-Martin",
+  "rating" : "5.9",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Polyvalente_B%c3%a9langer/Saint-Martin/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "166/430",
+  "name" : "Heritage Regional",
+  "city" : "Saint-Hubert",
+  "rating" : "5.9",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Heritage_Regional_High_School/Saint-Hubert/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "175/430",
+  "name" : "Curé-Mercure",
+  "city" : "Mont-Tremblant",
+  "rating" : "5.9",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_polyvalente_Cur%c3%a9-Mercure/Mont-Tremblant/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "188/430",
+  "name" : "Ville-Marie",
+  "city" : "Montréal",
+  "rating" : "5.9",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Coll%c3%a8ge_Ville-Marie/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "216/430",
+  "name" : "de la Courvilloise",
+  "city" : "Québec",
+  "rating" : "5.9",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_de_la_Courvilloise/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "231/430",
+  "name" : "Félix-Leclerc",
+  "city" : "Repentigny",
+  "rating" : "5.9",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_F%c3%a9lix-Leclerc/Repentigny/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "249/430",
+  "name" : "Kells",
+  "city" : "Montréal",
+  "rating" : "5.9",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Kells_Academy/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "266/430",
+  "name" : "Paul-Gérin-Lajoie-d'Outremont",
+  "city" : "Montréal",
+  "rating" : "5.9",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Paul-G%c3%a9rin-Lajoie-d'Outremont/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "266/430",
+  "name" : "Wilfrid-Léger",
+  "city" : "Waterloo",
+  "rating" : "5.9",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Wilfrid-L%c3%a9ger/Waterloo/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "286/430",
+  "name" : "Louis-Cyr",
+  "city" : "Napierville",
+  "rating" : "5.9",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_Louis-Cyr/Napierville/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "301/430",
+  "name" : "Henri-Dunant",
+  "city" : "Blainville",
+  "rating" : "5.9",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_Henri-Dunant/Blainville/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "301/430",
+  "name" : "Riverdale",
+  "city" : "Pierrefonds",
+  "rating" : "5.9",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Riverdale_High_School/Pierrefonds/Report_Card.aspx"
+}, {
+  "rank" : "216/459",
+  "rankIn5" : "330/430",
+  "name" : "Lindsay Place",
+  "city" : "Pointe-Claire",
+  "rating" : "5.9",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Lindsay_Place_High_School/Pointe-Claire/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "92/430",
+  "name" : "Arménienne Sourp Hagop",
+  "city" : "Montréal",
+  "rating" : "5.8",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/L'%c3%89cole_arm%c3%a9nienne_Sourp_Hagop/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "154/430",
+  "name" : "Saint-Charles",
+  "city" : "Saint-Charles-de-Bellechasse",
+  "rating" : "5.8",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Saint-Charles/Saint-Charles-de-Bellechasse/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "175/430",
+  "name" : "Henri-Bourassa",
+  "city" : "Montréal",
+  "rating" : "5.8",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Henri-Bourassa/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "175/430",
+  "name" : "Normandin",
+  "city" : "Normandin",
+  "rating" : "5.8",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Polyvalente_de_Normandin/Normandin/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "188/430",
+  "name" : "Deux-Montagnes",
+  "city" : "Deux-Montagnes",
+  "rating" : "5.8",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Polyvalente_Deux-Montagnes/Deux-Montagnes/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "201/430",
+  "name" : "Augustin-Norbert-Morin",
+  "city" : "Sainte-Adèle",
+  "rating" : "5.8",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_secondaire_Augustin-Norbert-Morin/Sainte-Ad%c3%a8le/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "201/430",
+  "name" : "Institut d'Enseignement",
+  "city" : "Sept-Îles",
+  "rating" : "5.8",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Institut_d'Enseignement_de_Sept-%c3%8eles/Sept-%c3%8eles/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "216/430",
+  "name" : "du Rocher",
+  "city" : "Shawinigan",
+  "rating" : "5.8",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Rocher/Shawinigan/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "216/430",
+  "name" : "les Compagnons-de-Cartier",
+  "city" : "Québec",
+  "rating" : "5.8",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Les_Compagnons-de-Cartier/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "231/430",
+  "name" : "Polyno",
+  "city" : "La Sarre",
+  "rating" : "5.8",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Cit%c3%a9_%c3%a9tudiante_Polyno/La_Sarre/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "266/430",
+  "name" : "LaSalle",
+  "city" : "Lasalle",
+  "rating" : "5.8",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/LaSalle_Community_Comprehensive_High_School/Lasalle/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "330/430",
+  "name" : "La Pocatière",
+  "city" : "La Pocatière",
+  "rating" : "5.8",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_polyvalente_La_Pocati%c3%a8re/La_Pocati%c3%a8re/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "330/430",
+  "name" : "l'Horizon",
+  "city" : "Repentigny",
+  "rating" : "5.8",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_l'Horizon/Repentigny/Report_Card.aspx"
+}, {
+  "rank" : "231/459",
+  "rankIn5" : "356/430",
+  "name" : "La Taïga",
+  "city" : "Lebel-sur-Quévillon",
+  "rating" : "5.8",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_La_Ta%c3%afga/Lebel-sur-Qu%c3%a9villon/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "154/430",
+  "name" : "de L'Île",
+  "city" : "Gatineau",
+  "rating" : "5.7",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_secondaire_de_l'%c3%8ele/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "166/430",
+  "name" : "François-Delaplace",
+  "city" : "Waterville",
+  "rating" : "5.7",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Coll%c3%a8ge_Fran%c3%a7ois-Delaplace/Waterville/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "175/430",
+  "name" : "Donnacona",
+  "city" : "Donnacona",
+  "rating" : "5.7",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Donnacona/Donnacona/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "188/430",
+  "name" : "des Trois-Saisons",
+  "city" : "Terrebonne",
+  "rating" : "5.7",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_des_Trois-Saisons/Terrebonne/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "188/430",
+  "name" : "Pierre-Laporte",
+  "city" : "Mont-Royal",
+  "rating" : "5.7",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_Pierre-Laporte/Mont-Royal/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "201/430",
+  "name" : "D'Iberville",
+  "city" : "Rouyn-Noranda",
+  "rating" : "5.7",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_D'Iberville/Rouyn-Noranda/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "231/430",
+  "name" : "Charlesbourg",
+  "city" : "Québec",
+  "rating" : "5.7",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Polyvalente_de_Charlesbourg/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "231/430",
+  "name" : "La Porte-du-Nord",
+  "city" : "Chibougamau",
+  "rating" : "5.7",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_La_Porte-du-Nord/Chibougamau/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "249/430",
+  "name" : "Antoine-de-Saint-Exupéry",
+  "city" : "Montréal",
+  "rating" : "5.7",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_Antoine-de-Saint-Exup%c3%a9ry/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "286/430",
+  "name" : "Pierre-Bédard",
+  "city" : "Saint-Rémi",
+  "rating" : "5.7",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole__Pierre-B%c3%a9dard/Saint-R%c3%a9mi/Report_Card.aspx"
+}, {
+  "rank" : "245/459",
+  "rankIn5" : "nd",
+  "name" : "Vanguard secteur anglophone",
+  "city" : "Montréal",
+  "rating" : "5.7",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_Vanguard_secteur_anglophone/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "175/430",
+  "name" : "des Îles",
+  "city" : "Les Îles-de-la-Madeleine",
+  "rating" : "5.6",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_Polyvalente_des_%c3%8eles/Les_%c3%8eles-de-la-Madeleine/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "188/430",
+  "name" : "des Quatre-Vents",
+  "city" : "Saint-Félicien",
+  "rating" : "5.6",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Polyvalente_des_Quatre-Vents/Saint-F%c3%a9licien/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "201/430",
+  "name" : "Antoine-Bernard",
+  "city" : "Carleton-sur-Mer",
+  "rating" : "5.6",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_Antoine-Bernard/Carleton-sur-Mer/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "216/430",
+  "name" : "du Versant",
+  "city" : "Gatineau",
+  "rating" : "5.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Versant/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "216/430",
+  "name" : "Saint-Joseph",
+  "city" : "Mont-Laurier",
+  "rating" : "5.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_Polyvalente_Saint-Joseph/Mont-Laurier/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "231/430",
+  "name" : "Joliette",
+  "city" : "Joliette",
+  "rating" : "5.6",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Joliette_High_School/Joliette/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "266/430",
+  "name" : "Dorval-Jean XXIII",
+  "city" : "Dorval",
+  "rating" : "5.6",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Dorval-Jean_XXIII/Dorval/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "266/430",
+  "name" : "l'Arc-en-Ciel",
+  "city" : "Trois-Pistoles",
+  "rating" : "5.6",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_secondaire_l'Arc-en-Ciel/Trois-Pistoles/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "266/430",
+  "name" : "Saint-Jérôme",
+  "city" : "Saint-Jérôme",
+  "rating" : "5.6",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_polyvalente_Saint-J%c3%a9r%c3%b4me/Saint-J%c3%a9r%c3%b4me/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "286/430",
+  "name" : "de l'Odyssée",
+  "city" : "Saguenay",
+  "rating" : "5.6",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_secondaire_de_l'Odyss%c3%a9e/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "301/430",
+  "name" : "Frenette",
+  "city" : "Saint-Jérôme",
+  "rating" : "5.6",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_Frenette/Saint-J%c3%a9r%c3%b4me/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "301/430",
+  "name" : "Thérèse-Martin",
+  "city" : "Joliette",
+  "rating" : "5.6",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Th%c3%a9r%c3%a8se-Martin/Joliette/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "390/430",
+  "name" : "Monseigneur-Labrie",
+  "city" : "Havre-Saint-Pierre",
+  "rating" : "5.6",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/%c3%89cole_Monseigneur-Labrie/Havre-Saint-Pierre/Report_Card.aspx"
+}, {
+  "rank" : "256/459",
+  "rankIn5" : "nd",
+  "name" : "Emmanuel, section française",
+  "city" : "Dollard-Des Ormeaux",
+  "rating" : "5.6",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_chr%c3%a9tienne_Emmanuel%2c_section_fran%c3%a7aise/Dollard-Des_Ormeaux/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "166/430",
+  "name" : "Louise-Trichet",
+  "city" : "Montréal",
+  "rating" : "5.5",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/%c3%89cole_Louise-Trichet/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "175/430",
+  "name" : "Ozias-Leduc",
+  "city" : "Mont-Saint-Hilaire",
+  "rating" : "5.5",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Ozias-Leduc/Mont-Saint-Hilaire/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "188/430",
+  "name" : "Horizon Jeunesse",
+  "city" : "Laval",
+  "rating" : "5.5",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_Horizon_Jeunesse/Laval/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "201/430",
+  "name" : "Paul-Arseneau",
+  "city" : "L'Assomption",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/%c3%89cole_Paul-Arseneau/L'Assomption/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "201/430",
+  "name" : "Polyvalente Sainte-Thérèse",
+  "city" : "Sainte-Thérèse",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Polyvalente_Sainte-Th%c3%a9r%c3%a8se/Sainte-Th%c3%a9r%c3%a8se/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "231/430",
+  "name" : "Jean-Nicolet",
+  "city" : "Nicolet",
+  "rating" : "5.5",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Jean-Nicolet/Nicolet/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "231/430",
+  "name" : "Jean-Raimbault",
+  "city" : "Drummondville",
+  "rating" : "5.5",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_Jean-Raimbault/Drummondville/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "249/430",
+  "name" : "du Transcontinental",
+  "city" : "Pohénégamook",
+  "rating" : "5.5",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Transcontinental/Poh%c3%a9n%c3%a9gamook/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "249/430",
+  "name" : "La Cité-des-Jeunes",
+  "city" : "Vaudreuil-Dorion",
+  "rating" : "5.5",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_de_la_Cit%c3%a9-des-Jeunes/Vaudreuil-Dorion/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "259/430",
+  "name" : "des Patriotes",
+  "city" : "Beauharnois",
+  "rating" : "5.5",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Patriotes-de-Beauharnois/Beauharnois/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "266/430",
+  "name" : "André-Laurendeau",
+  "city" : "Longueuil",
+  "rating" : "5.5",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Andr%c3%a9-Laurendeau/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "390/430",
+  "name" : "La Cité étudiante",
+  "city" : "Maniwaki",
+  "rating" : "5.5",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/%c3%89cole_de_la_Cit%c3%a9_%c3%a9tudiante_de_la_Haute-Gatineau/Maniwaki/Report_Card.aspx"
+}, {
+  "rank" : "270/459",
+  "rankIn5" : "nd",
+  "name" : "Notre Dame de Nareg",
+  "city" : "Laval",
+  "rating" : "5.5",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_Notre_Dame_de_Nareg/Laval/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "154/430",
+  "name" : "Marcel-Landry",
+  "city" : "Saint-Jean-sur-Richelieu",
+  "rating" : "5.4",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Polyvalente_Marcel-Landry/Saint-Jean-sur-Richelieu/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "249/430",
+  "name" : "de la Magdeleine",
+  "city" : "La Prairie",
+  "rating" : "5.4",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_de_la_Magdeleine/La_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "259/430",
+  "name" : "de la Ruche",
+  "city" : "Magog",
+  "rating" : "5.4",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/%c3%89cole_secondaire_de_la_Ruche/Magog/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "266/430",
+  "name" : "du Plateau",
+  "city" : "La Malbaie",
+  "rating" : "5.4",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Plateau/La_Malbaie/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "266/430",
+  "name" : "Monseigneur Sévigny",
+  "city" : "Chandler",
+  "rating" : "5.4",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_polyvalente_Monseigneur_S%c3%a9vigny/Chandler/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "301/430",
+  "name" : "du Littoral",
+  "city" : "Grande-Rivière",
+  "rating" : "5.4",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Littoral/Grande-Rivi%c3%a8re/Report_Card.aspx"
+}, {
+  "rank" : "283/459",
+  "rankIn5" : "301/430",
+  "name" : "du Tournesol",
+  "city" : "Windsor",
+  "rating" : "5.4",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Tournesol/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "166/430",
+  "name" : "Saint-Anselme",
+  "city" : "Saint-Anselme",
+  "rating" : "5.3",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Saint-Anselme/Saint-Anselme/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "188/430",
+  "name" : "Dégelis",
+  "city" : "Dégelis",
+  "rating" : "5.3",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_de_D%c3%a9gelis/D%c3%a9gelis/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "201/430",
+  "name" : "Hyacinthe-Delorme",
+  "city" : "Saint-Hyacinthe",
+  "rating" : "5.3",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Polyvalente_Hyacinthe-Delorme/Saint-Hyacinthe/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "231/430",
+  "name" : "Les Estacades",
+  "city" : "Trois-Rivières",
+  "rating" : "5.3",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Acad%c3%a9mie_les_Estacades/Trois-Rivi%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "266/430",
+  "name" : "Robert-Ouimet",
+  "city" : "Acton Vale",
+  "rating" : "5.3",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Polyvalente_Robert-Ouimet/Acton_Vale/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "286/430",
+  "name" : "Dalbé-Viau",
+  "city" : "Montréal",
+  "rating" : "5.3",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_Dalb%c3%a9-Viau/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "301/430",
+  "name" : "des Baies",
+  "city" : "Baie-Comeau",
+  "rating" : "5.3",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Polyvalente_des_Baies/Baie-Comeau/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "322/430",
+  "name" : "Beaurivage",
+  "city" : "Saint-Agapit",
+  "rating" : "5.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Beaurivage/Saint-Agapit/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "322/430",
+  "name" : "Louis-Philippe-Paré",
+  "city" : "Châteauguay",
+  "rating" : "5.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_Louis-Philippe-Par%c3%a9/Ch%c3%a2teauguay/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "330/430",
+  "name" : "Mont-Bleu",
+  "city" : "Gatineau",
+  "rating" : "5.3",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Mont-Bleu/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "330/430",
+  "name" : "Rosemount",
+  "city" : "Montréal",
+  "rating" : "5.3",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Rosemont_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "290/459",
+  "rankIn5" : "nd",
+  "name" : "du Grand-Coteau",
+  "city" : "Sainte-Julie",
+  "rating" : "5.3",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Grand-Coteau/Sainte-Julie/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "216/430",
+  "name" : "de Neufchâtel",
+  "city" : "Québec",
+  "rating" : "5.2",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Neufch%c3%a2tel/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "216/430",
+  "name" : "Polybel",
+  "city" : "Beloeil",
+  "rating" : "5.2",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Polybel/Beloeil/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "266/430",
+  "name" : "Curé-Antoine-Labelle",
+  "city" : "Laval",
+  "rating" : "5.2",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Cur%c3%a9-Antoine-Labelle/Laval/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "266/430",
+  "name" : "Paul-Hubert",
+  "city" : "Rimouski",
+  "rating" : "5.2",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Paul-Hubert/Rimouski/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "301/430",
+  "name" : "de L'Érablière",
+  "city" : "Gatineau",
+  "rating" : "5.2",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Polyvalente_de_l'%c3%89rabli%c3%a8re/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "301/430",
+  "name" : "Louis-Joseph-Papineau",
+  "city" : "Papineauville",
+  "rating" : "5.2",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Louis-Joseph-Papineau/Papineauville/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "322/430",
+  "name" : "Jonquière",
+  "city" : "Saguenay",
+  "rating" : "5.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_polyvalente_Jonqui%c3%a8re/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "302/459",
+  "rankIn5" : "342/430",
+  "name" : "Louis-Saint-Laurent",
+  "city" : "East Angus",
+  "rating" : "5.2",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Polyvalente_Louis-Saint-Laurent/East_Angus/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "216/430",
+  "name" : "Monseigneur-Euclide-Théberge",
+  "city" : "Marieville",
+  "rating" : "5.1",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_Monseigneur-Euclide-Th%c3%a9berge/Marieville/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "231/430",
+  "name" : "Soulanges",
+  "city" : "Saint-Polycarpe",
+  "rating" : "5.1",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Soulanges/Saint-Polycarpe/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "231/430",
+  "name" : "Veilleux",
+  "city" : "Saint-Joseph-de-Beauce",
+  "rating" : "5.1",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Veilleux/Saint-Joseph-de-Beauce/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "249/430",
+  "name" : "Saint-Damien",
+  "city" : "Saint-Damien-de-Buckland",
+  "rating" : "5.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_de_Saint-Damien/Saint-Damien-de-Buckland/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "259/430",
+  "name" : "de L'Escale",
+  "city" : "Asbestos",
+  "rating" : "5.1",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/%c3%89cole_secondaire_de_l'Escale/Asbestos/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "259/430",
+  "name" : "Jean-Dolbeau",
+  "city" : "Dolbeau-Mistassini",
+  "rating" : "5.1",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Polyvalente_Jean-Dolbeau/Dolbeau-Mistassini/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "266/430",
+  "name" : "du Mont-Bruno",
+  "city" : "Saint-Bruno-de-Montarville",
+  "rating" : "5.1",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Mont-Bruno/Saint-Bruno-de-Montarville/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "266/430",
+  "name" : "Laurier MacDonald",
+  "city" : "Montréal",
+  "rating" : "5.1",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Laurier_Macdonald_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "266/430",
+  "name" : "le Tremplin",
+  "city" : "Malartic",
+  "rating" : "5.1",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Le_Tremplin/Malartic/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "286/430",
+  "name" : "des Chutes",
+  "city" : "Shawinigan",
+  "rating" : "5.1",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Chutes/Shawinigan/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "286/430",
+  "name" : "Matane",
+  "city" : "Matane",
+  "rating" : "5.1",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_Marie-Guyart_-_Polyvalente_de_Matane/Matane/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "301/430",
+  "name" : "Lake of Two Mountains",
+  "city" : "Deux-Montagnes",
+  "rating" : "5.1",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Lake_of_Two_Mountains_High_School/Deux-Montagnes/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "382/430",
+  "name" : "Saint-Henri",
+  "city" : "Montréal",
+  "rating" : "5.1",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_Saint-Henri/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "310/459",
+  "rankIn5" : "nd",
+  "name" : "de la Haute-Ville",
+  "city" : "Granby",
+  "rating" : "5.1",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_de_la_Haute-Ville/Granby/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "216/430",
+  "name" : "Antoine-Brossard",
+  "city" : "Brossard",
+  "rating" : "5.0",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/%c3%89cole_Antoine-Brossard/Brossard/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "286/430",
+  "name" : "les Etchemins",
+  "city" : "Lévis",
+  "rating" : "5.0",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_secondaire_les_Etchemins/L%c3%a9vis/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "301/430",
+  "name" : "Jeanne-Normandin",
+  "city" : "Montréal",
+  "rating" : "5.0",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Coll%c3%a8ge_Jeanne_Normandin/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "330/430",
+  "name" : "Lakeside",
+  "city" : "Lachine",
+  "rating" : "5.0",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Lakeside_Academy/Lachine/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "342/430",
+  "name" : "le Prélude",
+  "city" : "Mascouche",
+  "rating" : "5.0",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/%c3%89cole_Le_Pr%c3%a9lude/Mascouche/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "342/430",
+  "name" : "Lester B. Pearson",
+  "city" : "Montréal-Nord",
+  "rating" : "5.0",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Lester_B._Pearson_High_School/Montr%c3%a9al-Nord/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "373/430",
+  "name" : "des Abénaquis",
+  "city" : "Saint-Prosper",
+  "rating" : "5.0",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Polyvalente_des_Ab%c3%a9naquis/Saint-Prosper/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "390/430",
+  "name" : "Cavelier-De LaSalle",
+  "city" : "Montréal",
+  "rating" : "5.0",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/%c3%89cole_Cavelier-De_LaSalle/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "324/459",
+  "rankIn5" : "nd",
+  "name" : "le Carrefour",
+  "city" : "Varennes",
+  "rating" : "5.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_secondaire_le_Carrefour/Varennes/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "231/430",
+  "name" : "de la Forêt",
+  "city" : "Amos",
+  "rating" : "4.9",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_polyvalente_de_la_For%c3%aat/Amos/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "266/430",
+  "name" : "Gabriel-Le Courtois",
+  "city" : "Sainte-Anne-des-Monts",
+  "rating" : "4.9",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_de_Gabriel-Le_Courtois/Sainte-Anne-des-Monts/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "266/430",
+  "name" : "Laval Liberty",
+  "city" : "Laval",
+  "rating" : "4.9",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Laval_Liberty_High_School/Laval/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "286/430",
+  "name" : "des Rivières",
+  "city" : "Forestville",
+  "rating" : "4.9",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Polyvalente_des_Rivi%c3%a8res/Forestville/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "301/430",
+  "name" : "Nicolas-Gatineau",
+  "city" : "Gatineau",
+  "rating" : "4.9",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Polyvalente_Nicolas-Gatineau/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "322/430",
+  "name" : "Pontiac",
+  "city" : "Shawville",
+  "rating" : "4.9",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Pontiac_High_School/Shawville/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "356/430",
+  "name" : "du Phare",
+  "city" : "Sherbrooke",
+  "rating" : "4.9",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_du_Phare/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "373/430",
+  "name" : "Leblanc",
+  "city" : "Laval",
+  "rating" : "4.9",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_Leblanc/Laval/Report_Card.aspx"
+}, {
+  "rank" : "333/459",
+  "rankIn5" : "399/430",
+  "name" : "Amos",
+  "city" : "Montréal",
+  "rating" : "4.9",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/%c3%89cole_Amos/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "141/430",
+  "name" : "Bon-Pasteur",
+  "city" : "L'Islet",
+  "rating" : "4.8",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Bon-Pasteur/L'Islet/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "188/430",
+  "name" : "Dunton",
+  "city" : "Montréal",
+  "rating" : "4.8",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Acad%c3%a9mie_Dunton/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "249/430",
+  "name" : "Grande-Rivière",
+  "city" : "Gatineau",
+  "rating" : "4.8",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_Grande-Rivi%c3%a8re/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "301/430",
+  "name" : "des Pionniers",
+  "city" : "Trois-Rivières",
+  "rating" : "4.8",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Pionniers/Trois-Rivi%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "301/430",
+  "name" : "La Voie",
+  "city" : "Montréal",
+  "rating" : "4.8",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_La_Voie/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "330/430",
+  "name" : "Beaulieu",
+  "city" : "Saint-Jean-sur-Richelieu",
+  "rating" : "4.8",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_Beaulieu/Saint-Jean-sur-Richelieu/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "330/430",
+  "name" : "Le Carrefour",
+  "city" : "Gatineau",
+  "rating" : "4.8",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_Polyvalente_Le_Carrefour/Gatineau/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "349/430",
+  "name" : "Howard S. Billings",
+  "city" : "Châteauguay",
+  "rating" : "4.8",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Howard_S._Billings_Regional_High_School/Ch%c3%a2teauguay/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "373/430",
+  "name" : "de l'Odyssée",
+  "city" : "Terrebonne",
+  "rating" : "4.8",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_de_l'Odyss%c3%a9e/Terrebonne/Report_Card.aspx"
+}, {
+  "rank" : "342/459",
+  "rankIn5" : "396/430",
+  "name" : "Jean-Grou",
+  "city" : "Montréal",
+  "rating" : "4.8",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/%c3%89cole_secondaire_Jean-Grou/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "231/430",
+  "name" : "des Montagnes",
+  "city" : "Saint-Michel-des-Saints",
+  "rating" : "4.7",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_des_Montagnes/Saint-Michel-des-Saints/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "266/430",
+  "name" : "Benoît-Vachon",
+  "city" : "Sainte-Marie",
+  "rating" : "4.7",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Polyvalente_Beno%c3%aet-Vachon/Sainte-Marie/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "301/430",
+  "name" : "Paul-Germain-Ostiguy",
+  "city" : "Saint-Césaire",
+  "rating" : "4.7",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Paul-Germain-Ostiguy/Saint-C%c3%a9saire/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "342/430",
+  "name" : "Alexander Galt",
+  "city" : "Sherbrooke",
+  "rating" : "4.7",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Alexander_Galt_Regional_High_School/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "349/430",
+  "name" : "Joseph-Hermas-Leclerc",
+  "city" : "Granby",
+  "rating" : "4.7",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/%c3%89cole_Joseph-Hermas-Leclerc/Granby/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "356/430",
+  "name" : "de la Baie-Saint-François",
+  "city" : "Salaberry-de-Valleyfield",
+  "rating" : "4.7",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_de_la_Baie-Saint-Fran%c3%a7ois/Salaberry-de-Valleyfield/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "366/430",
+  "name" : "Disraëli",
+  "city" : "Disraeli",
+  "rating" : "4.7",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/Polyvalente_de_Disraeli/Disraeli/Report_Card.aspx"
+}, {
+  "rank" : "352/459",
+  "rankIn5" : "390/430",
+  "name" : "Wilbrod-Dufour",
+  "city" : "Alma",
+  "rating" : "4.7",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/Pavillon_Wilbrod-Dufour/Alma/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "175/430",
+  "name" : "Laurier",
+  "city" : "Montréal",
+  "rating" : "4.6",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Coll%c3%a8ge_Laurier/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "259/430",
+  "name" : "Thetford Mines",
+  "city" : "Thetford Mines",
+  "rating" : "4.6",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Polyvalente_de_Thetford_Mines/Thetford_Mines/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "286/430",
+  "name" : "Louis-Jobin",
+  "city" : "Saint-Raymond",
+  "rating" : "4.6",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_secondaire_Louis-Jobin/Saint-Raymond/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "301/430",
+  "name" : "Chambly",
+  "city" : "Saint-Lambert",
+  "rating" : "4.6",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Chambly_Academy/Saint-Lambert/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "330/430",
+  "name" : "de L'Érablière",
+  "city" : "Saint-Félix-de-Valois",
+  "rating" : "4.6",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_de_l'%c3%89rabli%c3%a8re/Saint-F%c3%a9lix-de-Valois/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "342/430",
+  "name" : "Lucille-Teasdale",
+  "city" : "Blainville",
+  "rating" : "4.6",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/%c3%89cole_secondaire_Lucille-Teasdale/Blainville/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "349/430",
+  "name" : "Des Rives",
+  "city" : "Terrebonne",
+  "rating" : "4.6",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/%c3%89cole_Des_Rives/Terrebonne/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "356/430",
+  "name" : "Serge-Bouchard",
+  "city" : "Baie-Comeau",
+  "rating" : "4.6",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Serge-Bouchard/Baie-Comeau/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "373/430",
+  "name" : "Arthur Pigeon",
+  "city" : "Huntingdon",
+  "rating" : "4.6",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_Arthur-Pigeon/Huntingdon/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "382/430",
+  "name" : "Jean-Gauthier",
+  "city" : "Alma",
+  "rating" : "4.6",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_Jean-Gauthier/Alma/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "399/430",
+  "name" : "Père-Marquette",
+  "city" : "Montréal",
+  "rating" : "4.6",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/%c3%89cole_P%c3%a8re-Marquette/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "360/459",
+  "rankIn5" : "409/430",
+  "name" : "Honoré-Mercier",
+  "city" : "Montréal",
+  "rating" : "4.6",
+  "ratingIn5" : "3.7",
+  "url" : "/secondary/%c3%89cole_Honor%c3%a9-Mercier/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "249/430",
+  "name" : "Rivière-des-Quinze",
+  "city" : "Notre-Dame-du-Nord",
+  "rating" : "4.5",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_Rivi%c3%a8re-des-Quinze/Notre-Dame-du-Nord/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "286/430",
+  "name" : "Arvida",
+  "city" : "Saguenay",
+  "rating" : "4.5",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_polyvalente_Arvida/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "286/430",
+  "name" : "Saint-Maxime",
+  "city" : "Laval",
+  "rating" : "4.5",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_Saint-Maxime/Laval/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "301/430",
+  "name" : "Charles-Gravel",
+  "city" : "Saguenay",
+  "rating" : "4.5",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_Charles-Gravel/Saguenay/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "301/430",
+  "name" : "Jean-du-Nord / Manikoutai",
+  "city" : "Sept-Îles",
+  "rating" : "4.5",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Jean-du-Nord_%2f_Manikoutai/Sept-%c3%8eles/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "330/430",
+  "name" : "Chanoine-Beaudet",
+  "city" : "Saint-Pascal",
+  "rating" : "4.5",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Chanoine-Beaudet/Saint-Pascal/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "349/430",
+  "name" : "Saint-Georges",
+  "city" : "Saint-Georges",
+  "rating" : "4.5",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Polyvalente_de_Saint-Georges/Saint-Georges/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "356/430",
+  "name" : "le Sommet",
+  "city" : "Québec",
+  "rating" : "4.5",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_Le_Sommet/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "356/430",
+  "name" : "Richmond",
+  "city" : "Richmond",
+  "rating" : "4.5",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Richmond_Regional_High_School/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "366/430",
+  "name" : "de la Montée",
+  "city" : "Sherbrooke",
+  "rating" : "4.5",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/%c3%89cole_de_la_Mont%c3%a9e/Sherbrooke/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "366/430",
+  "name" : "Marguerite-De Lajemmerais",
+  "city" : "Montréal",
+  "rating" : "4.5",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/%c3%89cole_Marguerite-De_Lajemmerais/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "372/459",
+  "rankIn5" : "399/430",
+  "name" : "Massey-Vanier",
+  "city" : "Cowansville",
+  "rating" : "4.5",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Massey-Vanier_High_School/Cowansville/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "231/430",
+  "name" : "Marie-Reine-du-Clergé",
+  "city" : "Métabetchouan--Lac-à-la-Croix",
+  "rating" : "4.4",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/S%c3%a9minaire_Marie-Reine-du-Clerg%c3%a9/M%c3%a9tabetchouan--Lac-%c3%a0-la-Croix/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "259/430",
+  "name" : "Paul-Le Jeune",
+  "city" : "Saint-Tite",
+  "rating" : "4.4",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/%c3%89cole_secondaire_Paul-Le_Jeune/Saint-Tite/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "322/430",
+  "name" : "Châteauguay Valley",
+  "city" : "Ormstown",
+  "rating" : "4.4",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Ch%c3%a2teauguay_Valley_Regional_High_School/Ormstown/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "366/430",
+  "name" : "Pierre-de-Lestage",
+  "city" : "Berthierville",
+  "rating" : "4.4",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/%c3%89cole_Pierre-de-Lestage/Berthierville/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "382/430",
+  "name" : "École sec. Anjou",
+  "city" : "Montréal",
+  "rating" : "4.4",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Anjou/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "382/430",
+  "name" : "Georges-Vanier",
+  "city" : "Montréal",
+  "rating" : "4.4",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_Georges-Vanier/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "396/430",
+  "name" : "du Coteau",
+  "city" : "Mascouche",
+  "rating" : "4.4",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/%c3%89cole_du_Coteau/Mascouche/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "411/430",
+  "name" : "John F. Kennedy",
+  "city" : "Montréal",
+  "rating" : "4.4",
+  "ratingIn5" : "3.6",
+  "url" : "/secondary/John_F._Kennedy_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "384/459",
+  "rankIn5" : "415/430",
+  "name" : "Eulalie-Durocher",
+  "city" : "Montréal",
+  "rating" : "4.4",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/%c3%89cole_Eulalie-Durocher/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "301/430",
+  "name" : "Jacques-Rousseau",
+  "city" : "Longueuil",
+  "rating" : "4.3",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_Jacques-Rousseau/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "322/430",
+  "name" : "Saint-Laurent",
+  "city" : "Montréal",
+  "rating" : "4.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_Saint-Laurent/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "330/430",
+  "name" : "Georges-Vanier",
+  "city" : "Laval",
+  "rating" : "4.3",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/%c3%89cole_Georges-Vanier/Laval/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "342/430",
+  "name" : "Évangéline",
+  "city" : "Montréal",
+  "rating" : "4.3",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/%c3%89cole_%c3%89vang%c3%a9line/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "356/430",
+  "name" : "du le Mistral",
+  "city" : "Mont-Joli",
+  "rating" : "4.3",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_du_Mistral/Mont-Joli/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "390/430",
+  "name" : "de l'Amitié",
+  "city" : "L'Assomption",
+  "rating" : "4.3",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/%c3%89cole_de_l'Amiti%c3%a9/L'Assomption/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "399/430",
+  "name" : "Lavigne",
+  "city" : "Lachute",
+  "rating" : "4.3",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/%c3%89cole_polyvalente_Lavigne/Lachute/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "nd",
+  "name" : "Fadette",
+  "city" : "Saint-Hyacinthe",
+  "rating" : "4.3",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_secondaire_Fadette/Saint-Hyacinthe/Report_Card.aspx"
+}, {
+  "rank" : "393/459",
+  "rankIn5" : "nd",
+  "name" : "Greaves Adventist",
+  "city" : "Montréal",
+  "rating" : "4.3",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Acad%c3%a9mie_adventiste_Greaves%2c_Campus_de_Montr%c3%a9al/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "286/430",
+  "name" : "Louis-Jacques-Casault",
+  "city" : "Montmagny",
+  "rating" : "4.2",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_secondaire_Louis-Jacques-Casault/Montmagny/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "322/430",
+  "name" : "La Camaradière",
+  "city" : "Québec",
+  "rating" : "4.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_secondaire_La_Camaradi%c3%a8re/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "342/430",
+  "name" : "Le Carrefour",
+  "city" : "Val-d'Or",
+  "rating" : "4.2",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Polyvalente_Le_Carrefour/Val-d'Or/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "356/430",
+  "name" : "La Concorde",
+  "city" : "Senneterre",
+  "rating" : "4.2",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_secondaire_La_Concorde/Senneterre/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "366/430",
+  "name" : "Louis-Riel",
+  "city" : "Montréal",
+  "rating" : "4.2",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/%c3%89cole_Louis-Riel/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "382/430",
+  "name" : "Mont-de-La Salle",
+  "city" : "Laval",
+  "rating" : "4.2",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_Mont-de-La_Salle/Laval/Report_Card.aspx"
+}, {
+  "rank" : "402/459",
+  "rankIn5" : "399/430",
+  "name" : "Daniel-Johnson",
+  "city" : "Montréal",
+  "rating" : "4.2",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Daniel-Johnson/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "409/459",
+  "rankIn5" : "349/430",
+  "name" : "Jean-Jacques-Rousseau",
+  "city" : "Boisbriand",
+  "rating" : "4.1",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Jean-Jacques-Rousseau/Boisbriand/Report_Card.aspx"
+}, {
+  "rank" : "409/459",
+  "rankIn5" : "373/430",
+  "name" : "La Poudrière",
+  "city" : "Drummondville",
+  "rating" : "4.1",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_La_Poudri%c3%a8re/Drummondville/Report_Card.aspx"
+}, {
+  "rank" : "409/459",
+  "rankIn5" : "nd",
+  "name" : "Casavant",
+  "city" : "Saint-Hyacinthe",
+  "rating" : "4.1",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_secondaire_Casavant/Saint-Hyacinthe/Report_Card.aspx"
+}, {
+  "rank" : "409/459",
+  "rankIn5" : "nd",
+  "name" : "Collège Boisbriand",
+  "city" : "Boisbriand",
+  "rating" : "4.1",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Coll%c3%a8ge_Boisbriand/Boisbriand/Report_Card.aspx"
+}, {
+  "rank" : "413/459",
+  "rankIn5" : "366/430",
+  "name" : "des Lacs",
+  "city" : "La Pêche",
+  "rating" : "4.0",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Lacs/La_P%c3%aache/Report_Card.aspx"
+}, {
+  "rank" : "413/459",
+  "rankIn5" : "390/430",
+  "name" : "des Patriotes",
+  "city" : "Saint-Eustache",
+  "rating" : "4.0",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/%c3%89cole_secondaire_des_Patriotes/Saint-Eustache/Report_Card.aspx"
+}, {
+  "rank" : "413/459",
+  "rankIn5" : "407/430",
+  "name" : "L'Agora",
+  "city" : "Longueuil",
+  "rating" : "4.0",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/%c3%89cole_secondaire_participative_L'Agora/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "416/459",
+  "rankIn5" : "266/430",
+  "name" : "Chavigny",
+  "city" : "Trois-Rivières",
+  "rating" : "3.9",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89cole_Chavigny/Trois-Rivi%c3%a8res/Report_Card.aspx"
+}, {
+  "rank" : "416/459",
+  "rankIn5" : "349/430",
+  "name" : "Monseigneur-A.-M.-Parent",
+  "city" : "Longueuil",
+  "rating" : "3.9",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/%c3%89cole_Monseigneur-A.-M.-Parent/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "416/459",
+  "rankIn5" : "373/430",
+  "name" : "L'Abri",
+  "city" : "Port-Cartier",
+  "rating" : "3.9",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Centre_%c3%a9ducatif_l'Abri/Port-Cartier/Report_Card.aspx"
+}, {
+  "rank" : "416/459",
+  "rankIn5" : "373/430",
+  "name" : "Léopold-Gravel",
+  "city" : "Terrebonne",
+  "rating" : "3.9",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_L%c3%a9opold-Gravel/Terrebonne/Report_Card.aspx"
+}, {
+  "rank" : "420/459",
+  "rankIn5" : "396/430",
+  "name" : "des Deux-Rivières",
+  "city" : "Matapédia",
+  "rating" : "3.8",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/%c3%89cole_des_Deux-Rivi%c3%a8res/Matap%c3%a9dia/Report_Card.aspx"
+}, {
+  "rank" : "421/459",
+  "rankIn5" : "373/430",
+  "name" : "Pointe-aux-Trembles",
+  "city" : "Montréal",
+  "rating" : "3.7",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_secondaire_Pointe-aux-Trembles/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "421/459",
+  "rankIn5" : "373/430",
+  "name" : "Roger-Comtois",
+  "city" : "Québec",
+  "rating" : "3.7",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_secondaire_Roger-Comtois/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "421/459",
+  "rankIn5" : "382/430",
+  "name" : "Lucien-Pagé",
+  "city" : "Montréal",
+  "rating" : "3.7",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_Lucien-Pag%c3%a9/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "421/459",
+  "rankIn5" : "419/430",
+  "name" : "Marie-Anne",
+  "city" : "Montréal",
+  "rating" : "3.7",
+  "ratingIn5" : "3.1",
+  "url" : "/secondary/%c3%89cole_Marie-Anne/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "421/459",
+  "rankIn5" : "nd",
+  "name" : "James Lyng",
+  "city" : "Montréal",
+  "rating" : "3.7",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/James_Lyng_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "426/459",
+  "rankIn5" : "286/430",
+  "name" : "Sainte-Marie",
+  "city" : "Princeville",
+  "rating" : "3.6",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/%c3%89cole_Sainte-Marie/Princeville/Report_Card.aspx"
+}, {
+  "rank" : "426/459",
+  "rankIn5" : "366/430",
+  "name" : "Cité étudiante",
+  "city" : "Roberval",
+  "rating" : "3.6",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/%c3%89cole_Cit%c3%a9_%c3%a9tudiante/Roberval/Report_Card.aspx"
+}, {
+  "rank" : "426/459",
+  "rankIn5" : "404/430",
+  "name" : "Fernand-Lefebvre",
+  "city" : "Sorel-Tracy",
+  "rating" : "3.6",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Fernand-Lefebvre/Sorel-Tracy/Report_Card.aspx"
+}, {
+  "rank" : "426/459",
+  "rankIn5" : "409/430",
+  "name" : "Gérard-Filion",
+  "city" : "Longueuil",
+  "rating" : "3.6",
+  "ratingIn5" : "3.7",
+  "url" : "/secondary/%c3%89cole_G%c3%a9rard-Filion/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "426/459",
+  "rankIn5" : "413/430",
+  "name" : "du Harfang",
+  "city" : "Sainte-Anne-des-Plaines",
+  "rating" : "3.6",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Harfang/Sainte-Anne-des-Plaines/Report_Card.aspx"
+}, {
+  "rank" : "431/459",
+  "rankIn5" : "382/430",
+  "name" : "Sieur-de-Coulonge",
+  "city" : "Fort-Coulonge",
+  "rating" : "3.5",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Sieur-de-Coulonge/Fort-Coulonge/Report_Card.aspx"
+}, {
+  "rank" : "431/459",
+  "rankIn5" : "415/430",
+  "name" : "Édouard-Montpetit",
+  "city" : "Montréal",
+  "rating" : "3.5",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/%c3%89cole_%c3%89douard-Montpetit/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "433/459",
+  "rankIn5" : "425/430",
+  "name" : "du Coeur-de-la-Gatineau",
+  "city" : "Gracefield",
+  "rating" : "3.4",
+  "ratingIn5" : "2.7",
+  "url" : "/secondary/%c3%89cole_du_Coeur-de-la-Gatineau/Gracefield/Report_Card.aspx"
+}, {
+  "rank" : "434/459",
+  "rankIn5" : "382/430",
+  "name" : "Curé-Hébert",
+  "city" : "Hébertville",
+  "rating" : "3.3",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/%c3%89cole_Cur%c3%a9-H%c3%a9bert/H%c3%a9bertville/Report_Card.aspx"
+}, {
+  "rank" : "434/459",
+  "rankIn5" : "nd",
+  "name" : "Gilbert-Théberge",
+  "city" : "Témiscaming",
+  "rating" : "3.3",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/%c3%89cole_Gilbert-Th%c3%a9berge_-_secondaire/T%c3%a9miscaming/Report_Card.aspx"
+}, {
+  "rank" : "436/459",
+  "rankIn5" : "349/430",
+  "name" : "Calixa-Lavallée",
+  "city" : "Montréal",
+  "rating" : "3.2",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Calixa-Lavall%c3%a9e/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "436/459",
+  "rankIn5" : "356/430",
+  "name" : "Barthélemy-Joliette",
+  "city" : "Joliette",
+  "rating" : "3.2",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_Barth%c3%a9lemy-Joliette/Joliette/Report_Card.aspx"
+}, {
+  "rank" : "436/459",
+  "rankIn5" : "413/430",
+  "name" : "Louis-Joseph-Papineau",
+  "city" : "Montréal",
+  "rating" : "3.2",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/%c3%89cole_Louis-Joseph-Papineau/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "439/459",
+  "rankIn5" : "356/430",
+  "name" : "Natagan",
+  "city" : "Barraute",
+  "rating" : "3.1",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Natagan/Barraute/Report_Card.aspx"
+}, {
+  "rank" : "440/459",
+  "rankIn5" : "404/430",
+  "name" : "La MFR",
+  "city" : "Saint-Romain",
+  "rating" : "3.0",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Maison_familiale_rurale_du_Granit/Saint-Romain/Report_Card.aspx"
+}, {
+  "rank" : "440/459",
+  "rankIn5" : "407/430",
+  "name" : "Jean-de-Brébeuf",
+  "city" : "Québec",
+  "rating" : "3.0",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/%c3%89cole_Jean-de-Br%c3%a9beuf/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "440/459",
+  "rankIn5" : "417/430",
+  "name" : "de la Rive",
+  "city" : "Lavaltrie",
+  "rating" : "3.0",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/%c3%89cole_de_la_Rive/Lavaltrie/Report_Card.aspx"
+}, {
+  "rank" : "443/459",
+  "rankIn5" : "417/430",
+  "name" : "Marymount",
+  "city" : "Montréal",
+  "rating" : "2.9",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/Marymount_Academy/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "443/459",
+  "rankIn5" : "426/430",
+  "name" : "Pierre-Dupuy",
+  "city" : "Montréal",
+  "rating" : "2.9",
+  "ratingIn5" : "2.5",
+  "url" : "/secondary/%c3%89cole_Pierre-Dupuy/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "445/459",
+  "rankIn5" : "422/430",
+  "name" : "des Hauts Sommets",
+  "city" : "Saint-Tite-des-Caps",
+  "rating" : "2.8",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/Coll%c3%a8ge_des_Hauts_Sommets/Saint-Tite-des-Caps/Report_Card.aspx"
+}, {
+  "rank" : "445/459",
+  "rankIn5" : "422/430",
+  "name" : "Vanier",
+  "city" : "Québec",
+  "rating" : "2.8",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Vanier/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "447/459",
+  "rankIn5" : "424/430",
+  "name" : "Boudreau",
+  "city" : "Québec",
+  "rating" : "2.7",
+  "ratingIn5" : "2.8",
+  "url" : "/secondary/%c3%89cole_Boudreau/Qu%c3%a9bec/Report_Card.aspx"
+}, {
+  "rank" : "448/459",
+  "rankIn5" : "404/430",
+  "name" : "Saint-Jean-Baptiste",
+  "city" : "Longueuil",
+  "rating" : "2.6",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/%c3%89cole_Saint-Jean-Baptiste/Longueuil/Report_Card.aspx"
+}, {
+  "rank" : "449/459",
+  "rankIn5" : "411/430",
+  "name" : "de L'Achigan",
+  "city" : "Saint-Roch-de-l'Achigan",
+  "rating" : "2.4",
+  "ratingIn5" : "3.6",
+  "url" : "/secondary/%c3%89cole_de_l'Achigan/Saint-Roch-de-l'Achigan/Report_Card.aspx"
+}, {
+  "rank" : "449/459",
+  "rankIn5" : "428/430",
+  "name" : "Jeanne-Mance",
+  "city" : "Montréal",
+  "rating" : "2.4",
+  "ratingIn5" : "2.4",
+  "url" : "/secondary/%c3%89cole_Jeanne-Mance/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "451/459",
+  "rankIn5" : "420/430",
+  "name" : "Beurling",
+  "city" : "Verdun",
+  "rating" : "2.2",
+  "ratingIn5" : "3.0",
+  "url" : "/secondary/Beurling_Academy/Verdun/Report_Card.aspx"
+}, {
+  "rank" : "452/459",
+  "rankIn5" : "nd",
+  "name" : "Phoenix",
+  "city" : "Laval",
+  "rating" : "2.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Phoenix_Alternative_High_School/Laval/Report_Card.aspx"
+}, {
+  "rank" : "453/459",
+  "rankIn5" : "429/430",
+  "name" : "Chomedey-De-Maisonneuve",
+  "city" : "Montréal",
+  "rating" : "1.8",
+  "ratingIn5" : "2.0",
+  "url" : "/secondary/%c3%89cole_Chomedey-De_Maisonneuve/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "454/459",
+  "rankIn5" : "420/430",
+  "name" : "des Chutes",
+  "city" : "Rawdon",
+  "rating" : "1.6",
+  "ratingIn5" : "3.0",
+  "url" : "/secondary/%c3%89cole_des_Chutes/Rawdon/Report_Card.aspx"
+}, {
+  "rank" : "455/459",
+  "rankIn5" : "426/430",
+  "name" : "du Havre-Jeunesse",
+  "city" : "Sainte-Julienne",
+  "rating" : "1.5",
+  "ratingIn5" : "2.5",
+  "url" : "/secondary/%c3%89cole_du_Havre-Jeunesse/Sainte-Julienne/Report_Card.aspx"
+}, {
+  "rank" : "456/459",
+  "rankIn5" : "430/430",
+  "name" : "du Tournant",
+  "city" : "Saint-Constant",
+  "rating" : "0.1",
+  "ratingIn5" : "0.9",
+  "url" : "/secondary/%c3%89cole_du_Tournant/Saint-Constant/Report_Card.aspx"
+}, {
+  "rank" : "457/459",
+  "rankIn5" : "nd",
+  "name" : "Horizon",
+  "city" : "Pointe-Claire",
+  "rating" : "0.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Horizon_School/Pointe-Claire/Report_Card.aspx"
+}, {
+  "rank" : "457/459",
+  "rankIn5" : "nd",
+  "name" : "Options II",
+  "city" : "Montréal",
+  "rating" : "0.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Options_II_High_School/Montr%c3%a9al/Report_Card.aspx"
+}, {
+  "rank" : "457/459",
+  "rankIn5" : "nd",
+  "name" : "Perspectives II",
+  "city" : "Montréal",
+  "rating" : "0.0",
+  "ratingIn5" : "nd",
+  "url" : "/secondary/Ecole_secondaire_Perspectives_II/Montr%c3%a9al/Report_Card.aspx"
+} ]

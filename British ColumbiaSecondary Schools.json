@@ -1,0 +1,2353 @@
+[ {
+  "rank" : "1/294",
+  "rankIn5" : "1/262",
+  "name" : "York House",
+  "city" : "Vancouver",
+  "rating" : "10.0",
+  "ratingIn5" : "10.0",
+  "url" : "/secondary/York_House_School/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "1/294",
+  "rankIn5" : "2/262",
+  "name" : "Crofton House",
+  "city" : "Vancouver",
+  "rating" : "10.0",
+  "ratingIn5" : "9.9",
+  "url" : "/secondary/Crofton_House/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "1/294",
+  "rankIn5" : "3/262",
+  "name" : "Little Flower",
+  "city" : "Vancouver",
+  "rating" : "10.0",
+  "ratingIn5" : "9.7",
+  "url" : "/secondary/Little_Flower_Academy/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "4/294",
+  "rankIn5" : "5/262",
+  "name" : "St George's",
+  "city" : "Vancouver",
+  "rating" : "9.9",
+  "ratingIn5" : "9.6",
+  "url" : "/secondary/St_George's_School/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "5/294",
+  "rankIn5" : "7/262",
+  "name" : "Collingwood",
+  "city" : "West Vancouver",
+  "rating" : "9.8",
+  "ratingIn5" : "9.3",
+  "url" : "/secondary/Collingwood_School/West_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "6/294",
+  "rankIn5" : "3/262",
+  "name" : "Southridge",
+  "city" : "Surrey",
+  "rating" : "9.6",
+  "ratingIn5" : "9.7",
+  "url" : "/secondary/Southridge_School/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "7/294",
+  "rankIn5" : "8/262",
+  "name" : "Relevant",
+  "city" : "Surrey",
+  "rating" : "9.5",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Relevant_High/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "7/294",
+  "rankIn5" : "n/a",
+  "name" : "Glenlyon Norfolk",
+  "city" : "Victoria",
+  "rating" : "9.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Glenlyon_Norfolk_School/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "9/294",
+  "rankIn5" : "6/262",
+  "name" : "West Point Grey",
+  "city" : "Vancouver",
+  "rating" : "9.4",
+  "ratingIn5" : "9.5",
+  "url" : "/secondary/West_Point_Grey_Academy/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "9/294",
+  "rankIn5" : "13/262",
+  "name" : "Shawnigan Lake",
+  "city" : "Shawnigan Lake",
+  "rating" : "9.4",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/Shawnigan_Lake/Shawnigan_Lake/Report_Card.aspx"
+}, {
+  "rank" : "11/294",
+  "rankIn5" : "8/262",
+  "name" : "Brentwood College",
+  "city" : "Mill Bay",
+  "rating" : "9.2",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Brentwood_College/Mill_Bay/Report_Card.aspx"
+}, {
+  "rank" : "12/294",
+  "rankIn5" : "n/a",
+  "name" : "Mulgrave",
+  "city" : "West Vancouver",
+  "rating" : "9.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Mulgrave_School/West_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "13/294",
+  "rankIn5" : "10/262",
+  "name" : "St Michaels",
+  "city" : "Victoria",
+  "rating" : "9.0",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/St_Michaels_University_School_-_Senior/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "13/294",
+  "rankIn5" : "n/a",
+  "name" : "Timothy Christian",
+  "city" : "Chilliwack",
+  "rating" : "9.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Timothy_Christian_School/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "15/294",
+  "rankIn5" : "13/262",
+  "name" : "Richmond Christian",
+  "city" : "Richmond",
+  "rating" : "8.9",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/Richmond_Christian_School/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "16/294",
+  "rankIn5" : "15/262",
+  "name" : "Southpointe",
+  "city" : "Delta",
+  "rating" : "8.8",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Southpointe_Academy/Delta/Report_Card.aspx"
+}, {
+  "rank" : "17/294",
+  "rankIn5" : "16/262",
+  "name" : "Lord Byng",
+  "city" : "Vancouver",
+  "rating" : "8.7",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Lord_Byng_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "17/294",
+  "rankIn5" : "21/262",
+  "name" : "St John's",
+  "city" : "Vancouver",
+  "rating" : "8.7",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/St_John's_School/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "19/294",
+  "rankIn5" : "16/262",
+  "name" : "St Thomas More",
+  "city" : "Burnaby",
+  "rating" : "8.6",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/St_Thomas_More_Collegiate/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "20/294",
+  "rankIn5" : "11/262",
+  "name" : "Vancouver College",
+  "city" : "Vancouver",
+  "rating" : "8.5",
+  "ratingIn5" : "8.9",
+  "url" : "/secondary/Vancouver_College/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "20/294",
+  "rankIn5" : "16/262",
+  "name" : "King David",
+  "city" : "Vancouver",
+  "rating" : "8.5",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/King_David_High_School/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "20/294",
+  "rankIn5" : "28/262",
+  "name" : "Vernon Christian",
+  "city" : "Vernon",
+  "rating" : "8.5",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Vernon_Christian_School/Vernon/Report_Card.aspx"
+}, {
+  "rank" : "23/294",
+  "rankIn5" : "11/262",
+  "name" : "Meadowridge",
+  "city" : "Maple Ridge",
+  "rating" : "8.4",
+  "ratingIn5" : "8.9",
+  "url" : "/secondary/Meadowridge_School/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "23/294",
+  "rankIn5" : "21/262",
+  "name" : "Okanagan Mission",
+  "city" : "Kelowna",
+  "rating" : "8.4",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Okanagan_Mission_Secondary/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "23/294",
+  "rankIn5" : "74/262",
+  "name" : "Carver Christian",
+  "city" : "Burnaby",
+  "rating" : "8.4",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Carver_Christian_High_School/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "26/294",
+  "rankIn5" : "19/262",
+  "name" : "Kelowna Christian",
+  "city" : "Kelowna",
+  "rating" : "8.2",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Kelowna_Christian_School/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "26/294",
+  "rankIn5" : "21/262",
+  "name" : "Sentinel",
+  "city" : "West Vancouver",
+  "rating" : "8.2",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Sentinel_Secondary/West_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "28/294",
+  "rankIn5" : "19/262",
+  "name" : "University Hill",
+  "city" : "Vancouver",
+  "rating" : "8.1",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/University_Hill_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "28/294",
+  "rankIn5" : "n/a",
+  "name" : "Deer Lake SDA",
+  "city" : "Burnaby",
+  "rating" : "8.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Deer_Lake_SDA_School/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "30/294",
+  "rankIn5" : "21/262",
+  "name" : "St Thomas Aquinas",
+  "city" : "North Vancouver",
+  "rating" : "8.0",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/St_Thomas_Aquinas/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "30/294",
+  "rankIn5" : "26/262",
+  "name" : "Archbishop Carney",
+  "city" : "Port Coquitlam",
+  "rating" : "8.0",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Archbishop_Carney_Secondary/Port_Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "30/294",
+  "rankIn5" : "n/a",
+  "name" : "Stratford Hall",
+  "city" : "Vancouver",
+  "rating" : "8.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Stratford_Hall/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "33/294",
+  "rankIn5" : "21/262",
+  "name" : "Pacific Academy",
+  "city" : "Surrey",
+  "rating" : "7.9",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Pacific_Academy/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "33/294",
+  "rankIn5" : "28/262",
+  "name" : "Credo Christian",
+  "city" : "Langley",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Credo_Christian_Schools/Langley/Report_Card.aspx"
+}, {
+  "rank" : "33/294",
+  "rankIn5" : "28/262",
+  "name" : "Mark R. Isfeld",
+  "city" : "Courtenay",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Mark_R._Isfeld_Senior_Secondary/Courtenay/Report_Card.aspx"
+}, {
+  "rank" : "33/294",
+  "rankIn5" : "33/262",
+  "name" : "Prince Of Wales",
+  "city" : "Vancouver",
+  "rating" : "7.9",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Prince_of_Wales_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "37/294",
+  "rankIn5" : "41/262",
+  "name" : "Rockridge",
+  "city" : "West Vancouver",
+  "rating" : "7.8",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Rockridge_Secondary/West_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "37/294",
+  "rankIn5" : "52/262",
+  "name" : "Semiahmoo",
+  "city" : "Surrey",
+  "rating" : "7.8",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Semiahmoo_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "37/294",
+  "rankIn5" : "n/a",
+  "name" : "St Margaret's",
+  "city" : "Victoria",
+  "rating" : "7.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/St_Margaret's/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "40/294",
+  "rankIn5" : "35/262",
+  "name" : "Robert Alexander McMath",
+  "city" : "Richmond",
+  "rating" : "7.7",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Robert_Alexander_McMath_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "40/294",
+  "rankIn5" : "41/262",
+  "name" : "Revelstoke",
+  "city" : "Revelstoke",
+  "rating" : "7.7",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Revelstoke_Secondary/Revelstoke/Report_Card.aspx"
+}, {
+  "rank" : "40/294",
+  "rankIn5" : "52/262",
+  "name" : "Holy Cross",
+  "city" : "Surrey",
+  "rating" : "7.7",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Holy_Cross_Regional_High_School/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "40/294",
+  "rankIn5" : "n/a",
+  "name" : "Aberdeen Hall Senior",
+  "city" : "Kelowna",
+  "rating" : "7.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Aberdeen_Hall_Senior/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "40/294",
+  "rankIn5" : "n/a",
+  "name" : "Dasmesh Punjabi",
+  "city" : "Abbotsford",
+  "rating" : "7.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Dasmesh_Punjabi_School/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "45/294",
+  "rankIn5" : "26/262",
+  "name" : "Highroad",
+  "city" : "Chilliwack",
+  "rating" : "7.6",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Highroad_Academy/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "45/294",
+  "rankIn5" : "28/262",
+  "name" : "Heritage Woods",
+  "city" : "Port Moody",
+  "rating" : "7.6",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Heritage_Woods_Secondary/Port_Moody/Report_Card.aspx"
+}, {
+  "rank" : "45/294",
+  "rankIn5" : "35/262",
+  "name" : "Steveston-London",
+  "city" : "Richmond",
+  "rating" : "7.6",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Steveston-London_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "48/294",
+  "rankIn5" : "41/262",
+  "name" : "Langley Fine Arts",
+  "city" : "Fort Langley",
+  "rating" : "7.5",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Langley_Fine_Arts_Secondary_School/Fort_Langley/Report_Card.aspx"
+}, {
+  "rank" : "48/294",
+  "rankIn5" : "46/262",
+  "name" : "Magee",
+  "city" : "Vancouver",
+  "rating" : "7.5",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Magee_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "48/294",
+  "rankIn5" : "108/262",
+  "name" : "Osoyoos",
+  "city" : "Osoyoos",
+  "rating" : "7.5",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Osoyoos_Secondary/Osoyoos/Report_Card.aspx"
+}, {
+  "rank" : "48/294",
+  "rankIn5" : "n/a",
+  "name" : "Fountainview",
+  "city" : "Lillooet",
+  "rating" : "7.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Fountainview_Academy/Lillooet/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "28/262",
+  "name" : "Dr. Charles Best",
+  "city" : "Coquitlam",
+  "rating" : "7.4",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Dr._Charles_Best_Secondary_School/Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "41/262",
+  "name" : "St Andrew's",
+  "city" : "Victoria",
+  "rating" : "7.4",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/St_Andrew's_Regional_High/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "46/262",
+  "name" : "Point Grey",
+  "city" : "Vancouver",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Point_Grey_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "46/262",
+  "name" : "Richmond",
+  "city" : "Richmond",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Richmond_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "58/262",
+  "name" : "New Westminster",
+  "city" : "New Westminster",
+  "rating" : "7.4",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/New_Westminster_Secondary/New_Westminster/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "58/262",
+  "name" : "Sir Winston Churchill",
+  "city" : "Vancouver",
+  "rating" : "7.4",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Sir_Winston_Churchill_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "78/262",
+  "name" : "White Rock Christian",
+  "city" : "Surrey",
+  "rating" : "7.4",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/White_Rock_Christian_Academy/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "52/294",
+  "rankIn5" : "88/262",
+  "name" : "Eric Hamber",
+  "city" : "Vancouver",
+  "rating" : "7.4",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Eric_Hamber_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "60/294",
+  "rankIn5" : "33/262",
+  "name" : "MEI",
+  "city" : "Abbotsford",
+  "rating" : "7.3",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Mennonite_Educational_Institute/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "60/294",
+  "rankIn5" : "35/262",
+  "name" : "Abbotsford Christian",
+  "city" : "Abbotsford",
+  "rating" : "7.3",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Abbotsford_Christian_School/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "60/294",
+  "rankIn5" : "35/262",
+  "name" : "Handsworth",
+  "city" : "North Vancouver",
+  "rating" : "7.3",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Handsworth_Secondary_School/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "60/294",
+  "rankIn5" : "n/a",
+  "name" : "Mount Cheam Christian",
+  "city" : "Chilliwack",
+  "rating" : "7.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Mount_Cheam_Christian_School/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "60/294",
+  "rankIn5" : "n/a",
+  "name" : "Queen Margaret's",
+  "city" : "Duncan",
+  "rating" : "7.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Queen_Margaret's/Duncan/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "46/262",
+  "name" : "Elgin Park",
+  "city" : "Surrey",
+  "rating" : "7.2",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Elgin_Park_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "46/262",
+  "name" : "Heritage Christian",
+  "city" : "Kelowna",
+  "rating" : "7.2",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Heritage_Christian_School/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "46/262",
+  "name" : "Langley Christian",
+  "city" : "Langley",
+  "rating" : "7.2",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Langley_Christian/Langley/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "52/262",
+  "name" : "Hugh McRoberts",
+  "city" : "Richmond",
+  "rating" : "7.2",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Hugh_McRoberts_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "52/262",
+  "name" : "Immaculata",
+  "city" : "Kelowna",
+  "rating" : "7.2",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Immaculata_Regional_High_School/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "61/262",
+  "name" : "Selkirk",
+  "city" : "Kimberley",
+  "rating" : "7.2",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Selkirk_Secondary_School/Kimberley/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "83/262",
+  "name" : "Cedars Christian",
+  "city" : "Prince George",
+  "rating" : "7.2",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Cedars_Christian_School/Prince_George/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "83/262",
+  "name" : "King's Christian",
+  "city" : "Salmon Arm",
+  "rating" : "7.2",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/King's_Christian_School/Salmon_Arm/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "88/262",
+  "name" : "Moscrop",
+  "city" : "Burnaby",
+  "rating" : "7.2",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Moscrop_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "88/262",
+  "name" : "Princess Margaret",
+  "city" : "Penticton",
+  "rating" : "7.2",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Princess_Margaret_Secondary/Penticton/Report_Card.aspx"
+}, {
+  "rank" : "65/294",
+  "rankIn5" : "n/a",
+  "name" : "Westside Preparatory",
+  "city" : "Vancouver",
+  "rating" : "7.2",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Westside_Preparatory_High_School/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "76/294",
+  "rankIn5" : "35/262",
+  "name" : "Langley Fundamental",
+  "city" : "Langley",
+  "rating" : "7.1",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Langley_Fundamental_Middle%2fSecondary_Sch/Langley/Report_Card.aspx"
+}, {
+  "rank" : "76/294",
+  "rankIn5" : "78/262",
+  "name" : "Elphinstone",
+  "city" : "Gibsons",
+  "rating" : "7.1",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Elphinstone_Secondary/Gibsons/Report_Card.aspx"
+}, {
+  "rank" : "76/294",
+  "rankIn5" : "n/a",
+  "name" : "Kamloops Christian",
+  "city" : "Kamloops",
+  "rating" : "7.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Kamloops_Christian_School/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "35/262",
+  "name" : "Pacific Christian",
+  "city" : "Victoria",
+  "rating" : "7.0",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Pacific_Christian_School/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "41/262",
+  "name" : "St Ann's",
+  "city" : "Kamloops",
+  "rating" : "7.0",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/St_Ann's_Academy/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "61/262",
+  "name" : "Fleetwood Park",
+  "city" : "Surrey",
+  "rating" : "7.0",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Fleetwood_Park_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "61/262",
+  "name" : "Mount Douglas",
+  "city" : "Victoria",
+  "rating" : "7.0",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Mount_Douglas_Secondary/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "83/262",
+  "name" : "North Surrey",
+  "city" : "Surrey",
+  "rating" : "7.0",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/North_Surrey_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "97/262",
+  "name" : "Port Moody",
+  "city" : "Port Moody",
+  "rating" : "7.0",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Port_Moody_Secondary/Port_Moody/Report_Card.aspx"
+}, {
+  "rank" : "79/294",
+  "rankIn5" : "n/a",
+  "name" : "Maple Ridge Christian",
+  "city" : "Maple Ridge",
+  "rating" : "7.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Maple_Ridge_Christian_School/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "52/262",
+  "name" : "Windsor",
+  "city" : "North Vancouver",
+  "rating" : "6.9",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Windsor_Secondary/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "58/262",
+  "name" : "J N Burnett",
+  "city" : "Richmond",
+  "rating" : "6.9",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/J_N_Burnett_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "61/262",
+  "name" : "Kelowna",
+  "city" : "Kelowna",
+  "rating" : "6.9",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Kelowna_Secondary/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "61/262",
+  "name" : "Oak Bay",
+  "city" : "Victoria",
+  "rating" : "6.9",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Oak_Bay_Secondary/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "68/262",
+  "name" : "Walnut Grove",
+  "city" : "Langley",
+  "rating" : "6.9",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Walnut_Grove_Secondary/Langley/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "78/262",
+  "name" : "St Patrick's",
+  "city" : "Vancouver",
+  "rating" : "6.9",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/St_Patrick_Regional_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "88/262",
+  "name" : "Fraser Heights",
+  "city" : "Surrey",
+  "rating" : "6.9",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Fraser_Heights_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "138/262",
+  "name" : "Princess Margaret",
+  "city" : "Surrey",
+  "rating" : "6.9",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Princess_Margaret_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "n/a",
+  "name" : "Beattie",
+  "city" : "Kamloops",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Beattie_School_of_the_Arts/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "86/294",
+  "rankIn5" : "n/a",
+  "name" : "Lighthouse Christian",
+  "city" : "Victoria",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Lighthouse_Christian_Academy/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "61/262",
+  "name" : "Kalamalka",
+  "city" : "Vernon",
+  "rating" : "6.8",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Kalamalka_Secondary/Vernon/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "68/262",
+  "name" : "Kitsilano",
+  "city" : "Vancouver",
+  "rating" : "6.8",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Kitsilano_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "68/262",
+  "name" : "Pinetree",
+  "city" : "Coquitlam",
+  "rating" : "6.8",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Pinetree_Secondary_School/Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "74/262",
+  "name" : "Seycove",
+  "city" : "North Vancouver",
+  "rating" : "6.8",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Seycove_Secondary_Community/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "83/262",
+  "name" : "George Elliot",
+  "city" : "Winfield",
+  "rating" : "6.8",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/George_Elliot_Secondary/Winfield/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "108/262",
+  "name" : "Lake Cowichan",
+  "city" : "Lake Cowichan",
+  "rating" : "6.8",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Lake_Cowichan_Secondary_School/Lake_Cowichan/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "111/262",
+  "name" : "Grand Forks",
+  "city" : "Grand Forks",
+  "rating" : "6.8",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Grand_Forks_Secondary_School/Grand_Forks/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "120/262",
+  "name" : "Mount Baker",
+  "city" : "Cranbrook",
+  "rating" : "6.8",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Mount_Baker_Secondary/Cranbrook/Report_Card.aspx"
+}, {
+  "rank" : "96/294",
+  "rankIn5" : "n/a",
+  "name" : "Lions Gate Christian",
+  "city" : "North Vancouver",
+  "rating" : "6.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Lions_Gate_Christian_Academy/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "105/294",
+  "rankIn5" : "68/262",
+  "name" : "Surrey Christian",
+  "city" : "Surrey",
+  "rating" : "6.7",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Surrey_Christian/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "61/262",
+  "name" : "Gleneagle",
+  "city" : "Coquitlam",
+  "rating" : "6.6",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Gleneagle_Secondary_School/Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "68/262",
+  "name" : "Dover Bay",
+  "city" : "Nanaimo",
+  "rating" : "6.6",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Dover_Bay_Secondary/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "74/262",
+  "name" : "Notre Dame",
+  "city" : "Vancouver",
+  "rating" : "6.6",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Notre_Dame_Regional_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "83/262",
+  "name" : "Yale",
+  "city" : "Abbotsford",
+  "rating" : "6.6",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Yale_Secondary/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "97/262",
+  "name" : "Earl Marriott",
+  "city" : "Surrey",
+  "rating" : "6.6",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Earl_Marriott_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "97/262",
+  "name" : "Seaquam",
+  "city" : "Delta",
+  "rating" : "6.6",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Seaquam_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "111/262",
+  "name" : "J Lloyd Crowe",
+  "city" : "Trail",
+  "rating" : "6.6",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/J_Lloyd_Crowe_Secondary/Trail/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "111/262",
+  "name" : "Timberline",
+  "city" : "Campbell River",
+  "rating" : "6.6",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Timberline_Secondary_School/Campbell_River/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "120/262",
+  "name" : "Chemainus",
+  "city" : "Chemainus",
+  "rating" : "6.6",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Chemainus_Secondary/Chemainus/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "120/262",
+  "name" : "David Thompson",
+  "city" : "Invermere",
+  "rating" : "6.6",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/David_Thompson_Secondary/Invermere/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "130/262",
+  "name" : "Abbotsford Traditional",
+  "city" : "Abbotsford",
+  "rating" : "6.6",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Abbotsford_Traditional_Senior_Secondary/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "106/294",
+  "rankIn5" : "130/262",
+  "name" : "Sullivan Heights",
+  "city" : "Surrey",
+  "rating" : "6.6",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Sullivan_Heights_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "118/294",
+  "rankIn5" : "68/262",
+  "name" : "Whistler",
+  "city" : "Whistler",
+  "rating" : "6.5",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Whistler_Secondary/Whistler/Report_Card.aspx"
+}, {
+  "rank" : "118/294",
+  "rankIn5" : "97/262",
+  "name" : "Burnsview",
+  "city" : "Delta",
+  "rating" : "6.5",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Burnsview_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "118/294",
+  "rankIn5" : "97/262",
+  "name" : "South Delta",
+  "city" : "Delta",
+  "rating" : "6.5",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/South_Delta_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "118/294",
+  "rankIn5" : "138/262",
+  "name" : "Carihi",
+  "city" : "Campbell River",
+  "rating" : "6.5",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Carihi_Secondary/Campbell_River/Report_Card.aspx"
+}, {
+  "rank" : "118/294",
+  "rankIn5" : "156/262",
+  "name" : "Chatelech",
+  "city" : "Sechelt",
+  "rating" : "6.5",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Chatelech_Secondary/Sechelt/Report_Card.aspx"
+}, {
+  "rank" : "123/294",
+  "rankIn5" : "74/262",
+  "name" : "R. E. Mountain",
+  "city" : "Langley",
+  "rating" : "6.4",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/R_E_Mountain_Secondary/Langley/Report_Card.aspx"
+}, {
+  "rank" : "123/294",
+  "rankIn5" : "78/262",
+  "name" : "West Vancouver",
+  "city" : "West Vancouver",
+  "rating" : "6.4",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/West_Vancouver_Secondary/West_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "123/294",
+  "rankIn5" : "88/262",
+  "name" : "Riverside",
+  "city" : "Port Coquitlam",
+  "rating" : "6.4",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Riverside_Secondary/Port_Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "123/294",
+  "rankIn5" : "111/262",
+  "name" : "Summerland",
+  "city" : "Summerland",
+  "rating" : "6.4",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Summerland_Secondary/Summerland/Report_Card.aspx"
+}, {
+  "rank" : "123/294",
+  "rankIn5" : "120/262",
+  "name" : "David Thompson",
+  "city" : "Vancouver",
+  "rating" : "6.4",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/David_Thompson_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "123/294",
+  "rankIn5" : "174/262",
+  "name" : "A L Fortune",
+  "city" : "Enderby",
+  "rating" : "6.4",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/A_L_Fortune_Secondary/Enderby/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "88/262",
+  "name" : "L V Rogers",
+  "city" : "Nelson",
+  "rating" : "6.3",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/L_V_Rogers_Secondary/Nelson/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "108/262",
+  "name" : "Penticton",
+  "city" : "Penticton",
+  "rating" : "6.3",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Penticton_Secondary/Penticton/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "111/262",
+  "name" : "R C Palmer",
+  "city" : "Richmond",
+  "rating" : "6.3",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/R_C_Palmer_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "130/262",
+  "name" : "Terry Fox",
+  "city" : "Port Coquitlam",
+  "rating" : "6.3",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Terry_Fox_Secondary/Port_Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "151/262",
+  "name" : "Rick Hansen",
+  "city" : "Abbotsford",
+  "rating" : "6.3",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Rick_Hansen_Secondary/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "156/262",
+  "name" : "Johnston Heights",
+  "city" : "Surrey",
+  "rating" : "6.3",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Johnston_Heights_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "129/294",
+  "rankIn5" : "156/262",
+  "name" : "Thomas Haney",
+  "city" : "Maple Ridge",
+  "rating" : "6.3",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Thomas_Haney_Centre/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "97/262",
+  "name" : "W J Mouat",
+  "city" : "Abbotsford",
+  "rating" : "6.2",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/W_J_Mouat_Secondary/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "138/262",
+  "name" : "Enver Creek",
+  "city" : "Surrey",
+  "rating" : "6.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Enver_Creek_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "138/262",
+  "name" : "Fernie",
+  "city" : "Fernie",
+  "rating" : "6.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Fernie_Secondary_School/Fernie/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "138/262",
+  "name" : "Valleyview",
+  "city" : "Kamloops",
+  "rating" : "6.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Valleyview_Secondary/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "151/262",
+  "name" : "Tamanawis",
+  "city" : "Surrey",
+  "rating" : "6.2",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Tamanawis_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "187/262",
+  "name" : "ASIA - Sumas Mountain",
+  "city" : "Abbotsford",
+  "rating" : "6.2",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Abbotsford_School_of_Integrated_Arts_%e2%80%93_Sumas_Mountain_9-12/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "196/262",
+  "name" : "North Delta",
+  "city" : "Delta",
+  "rating" : "6.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/North_Delta_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "n/a",
+  "name" : "British Columbia Christian",
+  "city" : "Port Coquitlam",
+  "rating" : "6.2",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/British_Columbia_Christian_Academy/Port_Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "136/294",
+  "rankIn5" : "n/a",
+  "name" : "Malaspina International",
+  "city" : "Nanaimo",
+  "rating" : "6.2",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Malaspina_International_High_School/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "78/262",
+  "name" : "Claremont",
+  "city" : "Victoria",
+  "rating" : "6.1",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Claremont_Secondary_School/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "88/262",
+  "name" : "Argyle",
+  "city" : "North Vancouver",
+  "rating" : "6.1",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Argyle_Secondary/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "88/262",
+  "name" : "Southern Okanagan",
+  "city" : "Oliver",
+  "rating" : "6.1",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Southern_Okanagan_Secondary/Oliver/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "111/262",
+  "name" : "Lord Tweedsmuir",
+  "city" : "Surrey",
+  "rating" : "6.1",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Lord_Tweedsmuir_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "120/262",
+  "name" : "Sands",
+  "city" : "Delta",
+  "rating" : "6.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Sands_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "120/262",
+  "name" : "Vancouver Technical",
+  "city" : "Vancouver",
+  "rating" : "6.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Vancouver_Technical_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "156/262",
+  "name" : "South Kamloops",
+  "city" : "Kamloops",
+  "rating" : "6.1",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/South_Kamloops_Secondary/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "145/294",
+  "rankIn5" : "164/262",
+  "name" : "Guildford Park",
+  "city" : "Surrey",
+  "rating" : "6.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Guildford_Park_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "153/294",
+  "rankIn5" : "103/262",
+  "name" : "Burnaby Mountain",
+  "city" : "Burnaby",
+  "rating" : "6.0",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Burnaby_Mountain_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "153/294",
+  "rankIn5" : "111/262",
+  "name" : "Sardis",
+  "city" : "Chilliwack",
+  "rating" : "6.0",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Sardis_Secondary/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "153/294",
+  "rankIn5" : "174/262",
+  "name" : "Gladstone",
+  "city" : "Vancouver",
+  "rating" : "6.0",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Gladstone_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "153/294",
+  "rankIn5" : "226/262",
+  "name" : "King George",
+  "city" : "Vancouver",
+  "rating" : "6.0",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/King_George_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "103/262",
+  "name" : "Burnaby North",
+  "city" : "Burnaby",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Burnaby_North_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "103/262",
+  "name" : "Delta",
+  "city" : "Delta",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Delta_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "111/262",
+  "name" : "Brookswood",
+  "city" : "Langley",
+  "rating" : "5.9",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Brookswood_Secondary/Langley/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "120/262",
+  "name" : "Panorama Ridge",
+  "city" : "Surrey",
+  "rating" : "5.9",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Panorama_Ridge_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "130/262",
+  "name" : "Maple Ridge",
+  "city" : "Maple Ridge",
+  "rating" : "5.9",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Maple_Ridge_Secondary/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "130/262",
+  "name" : "Vernon",
+  "city" : "Vernon",
+  "rating" : "5.9",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Vernon_Secondary/Vernon/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "164/262",
+  "name" : "Sutherland",
+  "city" : "North Vancouver",
+  "rating" : "5.9",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Sutherland_Secondary/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "157/294",
+  "rankIn5" : "208/262",
+  "name" : "Norkam",
+  "city" : "Kamloops",
+  "rating" : "5.9",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Norkam_Secondary/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "52/262",
+  "name" : "Regent Christian",
+  "city" : "Surrey",
+  "rating" : "5.8",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Regent_Christian_Academy/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "144/262",
+  "name" : "Howe Sound",
+  "city" : "Squamish",
+  "rating" : "5.8",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Howe_Sound_Secondary/Squamish/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "144/262",
+  "name" : "Salmon Arm",
+  "city" : "Salmon Arm",
+  "rating" : "5.8",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Salmon_Arm_Secondary/Salmon_Arm/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "164/262",
+  "name" : "Mount Boucherie",
+  "city" : "West Kelowna",
+  "rating" : "5.8",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Mount_Boucherie_Senior_Secondary/West_Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "179/262",
+  "name" : "Centennial",
+  "city" : "Coquitlam",
+  "rating" : "5.8",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Centennial_School/Coquitlam/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "179/262",
+  "name" : "College Heights",
+  "city" : "Prince George",
+  "rating" : "5.8",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/College_Heights_Secondary/Prince_George/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "189/262",
+  "name" : "John Oliver",
+  "city" : "Vancouver",
+  "rating" : "5.8",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/John_Oliver_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "165/294",
+  "rankIn5" : "196/262",
+  "name" : "Nechako Valley",
+  "city" : "Vanderhoof",
+  "rating" : "5.8",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Nechako_Valley_Secondary/Vanderhoof/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "103/262",
+  "name" : "Highland",
+  "city" : "Comox",
+  "rating" : "5.7",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Highland_Secondary/Comox/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "130/262",
+  "name" : "Robert Bateman",
+  "city" : "Abbotsford",
+  "rating" : "5.7",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Robert_Bateman_Secondary/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "144/262",
+  "name" : "Duchess Park",
+  "city" : "Prince George",
+  "rating" : "5.7",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Duchess_Park_Secondary/Prince_George/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "151/262",
+  "name" : "Reynolds",
+  "city" : "Victoria",
+  "rating" : "5.7",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Reynolds_Secondary/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "156/262",
+  "name" : "Spectrum",
+  "city" : "Victoria",
+  "rating" : "5.7",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Spectrum_Community/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "164/262",
+  "name" : "Killarney",
+  "city" : "Vancouver",
+  "rating" : "5.7",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Killarney_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "173/294",
+  "rankIn5" : "179/262",
+  "name" : "Templeton",
+  "city" : "Vancouver",
+  "rating" : "5.7",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Templeton_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "180/294",
+  "rankIn5" : "88/262",
+  "name" : "Queen Charlotte",
+  "city" : "Queen Charlotte",
+  "rating" : "5.6",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Queen_Charlotte_Secondary/Queen_Charlotte/Report_Card.aspx"
+}, {
+  "rank" : "180/294",
+  "rankIn5" : "156/262",
+  "name" : "Rutland",
+  "city" : "Kelowna",
+  "rating" : "5.6",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Rutland_Senior_Secondary/Kelowna/Report_Card.aspx"
+}, {
+  "rank" : "180/294",
+  "rankIn5" : "189/262",
+  "name" : "Alberni District",
+  "city" : "Port Alberni",
+  "rating" : "5.6",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Alberni_District_Secondary/Port_Alberni/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "120/262",
+  "name" : "Burnaby Central",
+  "city" : "Burnaby",
+  "rating" : "5.5",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Burnaby_Central_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "144/262",
+  "name" : "Houston",
+  "city" : "Houston",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Houston_Secondary/Houston/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "156/262",
+  "name" : "Clayton Heights",
+  "city" : "Surrey",
+  "rating" : "5.5",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Clayton_Heights_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "174/262",
+  "name" : "Hugh Boyd",
+  "city" : "Richmond",
+  "rating" : "5.5",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Hugh_Boyd_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "179/262",
+  "name" : "Cowichan",
+  "city" : "Duncan",
+  "rating" : "5.5",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Cowichan_Secondary/Duncan/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "196/262",
+  "name" : "Agassiz",
+  "city" : "Agassiz",
+  "rating" : "5.5",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Agassiz_Elem-Secondary/Agassiz/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "196/262",
+  "name" : "Alpha",
+  "city" : "Burnaby",
+  "rating" : "5.5",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Alpha_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "183/294",
+  "rankIn5" : "231/262",
+  "name" : "Caledonia",
+  "city" : "Terrace",
+  "rating" : "5.5",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/Caledonia_Sr_Secondary/Terrace/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "111/262",
+  "name" : "Smithers",
+  "city" : "Smithers",
+  "rating" : "5.4",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Smithers_Secondary/Smithers/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "130/262",
+  "name" : "Similkameen",
+  "city" : "Keremeos",
+  "rating" : "5.4",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Similkameen_Elem-Secondary/Keremeos/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "144/262",
+  "name" : "D P Todd",
+  "city" : "Prince George",
+  "rating" : "5.4",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/D_P_Todd_Secondary/Prince_George/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "156/262",
+  "name" : "Stanley Humphries",
+  "city" : "Castlegar",
+  "rating" : "5.4",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Stanley_Humphries_Secondary/Castlegar/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "164/262",
+  "name" : "Kwalikum",
+  "city" : "Qualicum Beach",
+  "rating" : "5.4",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Kwalikum_Secondary/Qualicum_Beach/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "164/262",
+  "name" : "Prince George",
+  "city" : "Prince George",
+  "rating" : "5.4",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Prince_George_Secondary_School/Prince_George/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "164/262",
+  "name" : "Windermere",
+  "city" : "Vancouver",
+  "rating" : "5.4",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Windermere_Community_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "179/262",
+  "name" : "Frances Kelsey",
+  "city" : "Mill Bay",
+  "rating" : "5.4",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Frances_Kelsey_Secondary/Mill_Bay/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "179/262",
+  "name" : "Heritage Park",
+  "city" : "Mission",
+  "rating" : "5.4",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Heritage_Park_Secondary/Mission/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "189/262",
+  "name" : "Kwantlen Park",
+  "city" : "Surrey",
+  "rating" : "5.4",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Kwantlen_Park_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "189/262",
+  "name" : "Pemberton",
+  "city" : "Pemberton",
+  "rating" : "5.4",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Pemberton_Secondary_School/Pemberton/Report_Card.aspx"
+}, {
+  "rank" : "191/294",
+  "rankIn5" : "196/262",
+  "name" : "GW Graham",
+  "city" : "Chilliwack",
+  "rating" : "5.4",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/GW_Graham_Middle_Secondary/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "120/262",
+  "name" : "Nanaimo Christian",
+  "city" : "Nanaimo",
+  "rating" : "5.3",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Nanaimo_Christian_School/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "144/262",
+  "name" : "Nanaimo District",
+  "city" : "Nanaimo",
+  "rating" : "5.3",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Nanaimo_District_Secondary/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "151/262",
+  "name" : "Stelly's",
+  "city" : "Saanichton",
+  "rating" : "5.3",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Stelly's_Secondary_School/Saanichton/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "164/262",
+  "name" : "Delview",
+  "city" : "Delta",
+  "rating" : "5.3",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Delview_Secondary/Delta/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "196/262",
+  "name" : "Peter Skene Ogden",
+  "city" : "100 Mile House",
+  "rating" : "5.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Peter_Skene_Ogden_Secondary/100_Mile_House/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "196/262",
+  "name" : "Sir Charles Tupper",
+  "city" : "Vancouver",
+  "rating" : "5.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Sir_Charles_Tupper_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "212/262",
+  "name" : "Abbotsford Collegiate",
+  "city" : "Abbotsford",
+  "rating" : "5.3",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Abbotsford_Collegiate/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "218/262",
+  "name" : "Mount Elizabeth",
+  "city" : "Kitimat",
+  "rating" : "5.3",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Mount_Elizabeth_Middle%2fSecondary_School/Kitimat/Report_Card.aspx"
+}, {
+  "rank" : "203/294",
+  "rankIn5" : "n/a",
+  "name" : "Bodwell High",
+  "city" : "North Vancouver",
+  "rating" : "5.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Bodwell_High_School/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "120/262",
+  "name" : "Clarence Fulton",
+  "city" : "Vernon",
+  "rating" : "5.2",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Clarence_Fulton_Secondary/Vernon/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "138/262",
+  "name" : "Sa-Hali",
+  "city" : "Kamloops",
+  "rating" : "5.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Sa-hali_Secondary/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "164/262",
+  "name" : "W L Seaton",
+  "city" : "Vernon",
+  "rating" : "5.2",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/W_L_Seaton_Secondary/Vernon/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "174/262",
+  "name" : "Ladysmith",
+  "city" : "Ladysmith",
+  "rating" : "5.2",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Ladysmith_Secondary/Ladysmith/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "174/262",
+  "name" : "Westview",
+  "city" : "Maple Ridge",
+  "rating" : "5.2",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Westview_Secondary/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "179/262",
+  "name" : "Burnaby South",
+  "city" : "Burnaby",
+  "rating" : "5.2",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Burnaby_South_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "187/262",
+  "name" : "Pleasant Valley",
+  "city" : "Armstrong",
+  "rating" : "5.2",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Pleasant_Valley_Secondary/Armstrong/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "189/262",
+  "name" : "Cariboo Hill",
+  "city" : "Burnaby",
+  "rating" : "5.2",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Cariboo_Hill_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "212/294",
+  "rankIn5" : "196/262",
+  "name" : "Frank Hurt",
+  "city" : "Surrey",
+  "rating" : "5.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Frank_Hurt_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "221/294",
+  "rankIn5" : "189/262",
+  "name" : "Boundary Central",
+  "city" : "Midway",
+  "rating" : "5.1",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Boundary_Central_Secondary/Midway/Report_Card.aspx"
+}, {
+  "rank" : "221/294",
+  "rankIn5" : "218/262",
+  "name" : "Esquimalt",
+  "city" : "Victoria",
+  "rating" : "5.1",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Esquimalt_High_School/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "223/294",
+  "rankIn5" : "130/262",
+  "name" : "St John Brebeuf",
+  "city" : "Abbotsford",
+  "rating" : "5.0",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/St_John_Brebeuf/Abbotsford/Report_Card.aspx"
+}, {
+  "rank" : "223/294",
+  "rankIn5" : "196/262",
+  "name" : "Golden",
+  "city" : "Golden",
+  "rating" : "5.0",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Golden_Secondary/Golden/Report_Card.aspx"
+}, {
+  "rank" : "223/294",
+  "rankIn5" : "196/262",
+  "name" : "Pitt Meadows",
+  "city" : "Pitt Meadows",
+  "rating" : "5.0",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Pitt_Meadows_Secondary/Pitt_Meadows/Report_Card.aspx"
+}, {
+  "rank" : "223/294",
+  "rankIn5" : "226/262",
+  "name" : "Princeton",
+  "city" : "Princeton",
+  "rating" : "5.0",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Princeton_Secondary/Princeton/Report_Card.aspx"
+}, {
+  "rank" : "223/294",
+  "rankIn5" : "240/262",
+  "name" : "Westsyde",
+  "city" : "Kamloops",
+  "rating" : "5.0",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/Westsyde_Secondary/Kamloops/Report_Card.aspx"
+}, {
+  "rank" : "223/294",
+  "rankIn5" : "n/a",
+  "name" : "Dwight International",
+  "city" : "Shawnigan Lake",
+  "rating" : "5.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Dwight_International_School/Shawnigan_Lake/Report_Card.aspx"
+}, {
+  "rank" : "229/294",
+  "rankIn5" : "103/262",
+  "name" : "Unity Christian",
+  "city" : "Chilliwack",
+  "rating" : "4.9",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Unity_Christian_School/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "229/294",
+  "rankIn5" : "235/262",
+  "name" : "Correlieu",
+  "city" : "Quesnel",
+  "rating" : "4.9",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Correlieu_Secondary_School/Quesnel/Report_Card.aspx"
+}, {
+  "rank" : "229/294",
+  "rankIn5" : "n/a",
+  "name" : "Ucluelet",
+  "city" : "Ucluelet",
+  "rating" : "4.9",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Ucluelet_Secondary/Ucluelet/Report_Card.aspx"
+}, {
+  "rank" : "232/294",
+  "rankIn5" : "179/262",
+  "name" : "Georges P Vanier",
+  "city" : "Courtenay",
+  "rating" : "4.8",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Georges_P_Vanier_Secondary/Courtenay/Report_Card.aspx"
+}, {
+  "rank" : "232/294",
+  "rankIn5" : "208/262",
+  "name" : "Carson Graham",
+  "city" : "North Vancouver",
+  "rating" : "4.8",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Carson_Graham_Secondary/North_Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "232/294",
+  "rankIn5" : "212/262",
+  "name" : "Edward Milne",
+  "city" : "Sooke",
+  "rating" : "4.8",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Edward_Milne_Community_School/Sooke/Report_Card.aspx"
+}, {
+  "rank" : "232/294",
+  "rankIn5" : "233/262",
+  "name" : "Mission",
+  "city" : "Mission",
+  "rating" : "4.8",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Mission_Middle_Secondary/Mission/Report_Card.aspx"
+}, {
+  "rank" : "236/294",
+  "rankIn5" : "212/262",
+  "name" : "Sparwood",
+  "city" : "Sparwood",
+  "rating" : "4.7",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Sparwood_Secondary_School/Sparwood/Report_Card.aspx"
+}, {
+  "rank" : "237/294",
+  "rankIn5" : "144/262",
+  "name" : "Parkland",
+  "city" : "Sidney",
+  "rating" : "4.6",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Parkland_Secondary_School/Sidney/Report_Card.aspx"
+}, {
+  "rank" : "237/294",
+  "rankIn5" : "218/262",
+  "name" : "Belmont",
+  "city" : "Victoria",
+  "rating" : "4.6",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Belmont_Secondary/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "237/294",
+  "rankIn5" : "244/262",
+  "name" : "Fort Nelson",
+  "city" : "Fort Nelson",
+  "rating" : "4.6",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Fort_Nelson_Secondary/Fort_Nelson/Report_Card.aspx"
+}, {
+  "rank" : "240/294",
+  "rankIn5" : "208/262",
+  "name" : "Hope",
+  "city" : "Hope",
+  "rating" : "4.5",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Hope_Secondary/Hope/Report_Card.aspx"
+}, {
+  "rank" : "240/294",
+  "rankIn5" : "233/262",
+  "name" : "Kelly Road",
+  "city" : "Prince George",
+  "rating" : "4.5",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Kelly_Road_Secondary/Prince_George/Report_Card.aspx"
+}, {
+  "rank" : "242/294",
+  "rankIn5" : "189/262",
+  "name" : "A.R. MacNeill",
+  "city" : "Richmond",
+  "rating" : "4.4",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/A.R._MacNeill_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "242/294",
+  "rankIn5" : "218/262",
+  "name" : "Matthew McNair",
+  "city" : "Richmond",
+  "rating" : "4.4",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Matthew_McNair_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "242/294",
+  "rankIn5" : "235/262",
+  "name" : "Lakes District",
+  "city" : "Burns Lake",
+  "rating" : "4.4",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Lakes_District_Secondary/Burns_Lake/Report_Card.aspx"
+}, {
+  "rank" : "245/294",
+  "rankIn5" : "151/262",
+  "name" : "Lambrick Park",
+  "city" : "Victoria",
+  "rating" : "4.3",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Lambrick_Park_Secondary/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "245/294",
+  "rankIn5" : "196/262",
+  "name" : "Gulf Islands",
+  "city" : "Salt Spring Island",
+  "rating" : "4.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Gulf_Islands_Secondary/Salt_Spring_Island/Report_Card.aspx"
+}, {
+  "rank" : "245/294",
+  "rankIn5" : "212/262",
+  "name" : "Aldergrove Community",
+  "city" : "Aldergrove",
+  "rating" : "4.3",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Aldergrove_Community_Secondary_School/Aldergrove/Report_Card.aspx"
+}, {
+  "rank" : "245/294",
+  "rankIn5" : "212/262",
+  "name" : "Ballenas",
+  "city" : "Parksville",
+  "rating" : "4.3",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Ecole_Secondaire_Ballenas_Secondary/Parksville/Report_Card.aspx"
+}, {
+  "rank" : "245/294",
+  "rankIn5" : "241/262",
+  "name" : "North Island",
+  "city" : "Port McNeill",
+  "rating" : "4.3",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/North_Island_Secondary/Port_McNeill/Report_Card.aspx"
+}, {
+  "rank" : "250/294",
+  "rankIn5" : "196/262",
+  "name" : "Mount Sentinel",
+  "city" : "South Slocan",
+  "rating" : "4.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Mount_Sentinel_Secondary/South_Slocan/Report_Card.aspx"
+}, {
+  "rank" : "250/294",
+  "rankIn5" : "208/262",
+  "name" : "Cambie",
+  "city" : "Richmond",
+  "rating" : "4.2",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Cambie_Secondary/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "250/294",
+  "rankIn5" : "218/262",
+  "name" : "Clearwater",
+  "city" : "Clearwater",
+  "rating" : "4.2",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Clearwater_Secondary_School/Clearwater/Report_Card.aspx"
+}, {
+  "rank" : "250/294",
+  "rankIn5" : "226/262",
+  "name" : "Wellington",
+  "city" : "Nanaimo",
+  "rating" : "4.2",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Wellington_Secondary/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "254/294",
+  "rankIn5" : "164/262",
+  "name" : "D W Poppy",
+  "city" : "Langley",
+  "rating" : "4.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/D_W_Poppy_Secondary/Langley/Report_Card.aspx"
+}, {
+  "rank" : "254/294",
+  "rankIn5" : "231/262",
+  "name" : "Hatzic",
+  "city" : "Mission",
+  "rating" : "4.1",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/Hatzic_Secondary_School/Mission/Report_Card.aspx"
+}, {
+  "rank" : "254/294",
+  "rankIn5" : "235/262",
+  "name" : "Queen Elizabeth",
+  "city" : "Surrey",
+  "rating" : "4.1",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Queen_Elizabeth_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "254/294",
+  "rankIn5" : "n/a",
+  "name" : "Duncan Christian",
+  "city" : "Duncan",
+  "rating" : "4.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Duncan_Christian_School/Duncan/Report_Card.aspx"
+}, {
+  "rank" : "254/294",
+  "rankIn5" : "n/a",
+  "name" : "Fraser Valley Adventist",
+  "city" : "Aldergrove",
+  "rating" : "4.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Fraser_Valley_Adventist_Academy/Aldergrove/Report_Card.aspx"
+}, {
+  "rank" : "259/294",
+  "rankIn5" : "218/262",
+  "name" : "Chilliwack",
+  "city" : "Chilliwack",
+  "rating" : "4.0",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Chilliwack_Secondary/Chilliwack/Report_Card.aspx"
+}, {
+  "rank" : "260/294",
+  "rankIn5" : "212/262",
+  "name" : "Prince Charles",
+  "city" : "Creston",
+  "rating" : "3.9",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Prince_Charles_Secondary/Creston/Report_Card.aspx"
+}, {
+  "rank" : "260/294",
+  "rankIn5" : "218/262",
+  "name" : "Brooks",
+  "city" : "Powell River",
+  "rating" : "3.9",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Brooks_Secondary/Powell_River/Report_Card.aspx"
+}, {
+  "rank" : "260/294",
+  "rankIn5" : "251/262",
+  "name" : "Charles Hays",
+  "city" : "Prince Rupert",
+  "rating" : "3.9",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/Charles_Hays_Secondary/Prince_Rupert/Report_Card.aspx"
+}, {
+  "rank" : "263/294",
+  "rankIn5" : "226/262",
+  "name" : "Langley",
+  "city" : "Langley",
+  "rating" : "3.8",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Langley_Secondary/Langley/Report_Card.aspx"
+}, {
+  "rank" : "263/294",
+  "rankIn5" : "244/262",
+  "name" : "Woodlands",
+  "city" : "Nanaimo",
+  "rating" : "3.8",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Woodlands_Secondary/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "263/294",
+  "rankIn5" : "247/262",
+  "name" : "L A Matheson",
+  "city" : "Surrey",
+  "rating" : "3.8",
+  "ratingIn5" : "3.7",
+  "url" : "/secondary/L_A_Matheson_Secondary/Surrey/Report_Card.aspx"
+}, {
+  "rank" : "263/294",
+  "rankIn5" : "253/262",
+  "name" : "Fort St James",
+  "city" : "Fort St James",
+  "rating" : "3.8",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Fort_St_James_Secondary/Fort_St_James/Report_Card.aspx"
+}, {
+  "rank" : "263/294",
+  "rankIn5" : "n/a",
+  "name" : "McBride",
+  "city" : "McBride",
+  "rating" : "3.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/McBride_Secondary/McBride/Report_Card.aspx"
+}, {
+  "rank" : "268/294",
+  "rankIn5" : "218/262",
+  "name" : "Charles Bloom",
+  "city" : "Lumby",
+  "rating" : "3.7",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Charles_Bloom_Elementary_Secondary/Lumby/Report_Card.aspx"
+}, {
+  "rank" : "268/294",
+  "rankIn5" : "235/262",
+  "name" : "Victoria High",
+  "city" : "Victoria",
+  "rating" : "3.7",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Victoria_High_School/Victoria/Report_Card.aspx"
+}, {
+  "rank" : "270/294",
+  "rankIn5" : "235/262",
+  "name" : "Eagle River",
+  "city" : "Sicamous",
+  "rating" : "3.6",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Eagle_River_Secondary/Sicamous/Report_Card.aspx"
+}, {
+  "rank" : "270/294",
+  "rankIn5" : "241/262",
+  "name" : "Britannia",
+  "city" : "Vancouver",
+  "rating" : "3.6",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Britannia_Community_Secondary/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "270/294",
+  "rankIn5" : "253/262",
+  "name" : "Chase",
+  "city" : "Chase",
+  "rating" : "3.6",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Chase_Secondary/Chase/Report_Card.aspx"
+}, {
+  "rank" : "273/294",
+  "rankIn5" : "246/262",
+  "name" : "Samuel Robertson Tech",
+  "city" : "Maple Ridge",
+  "rating" : "3.5",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/Samuel_Robertson_Technical_Secondary/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "273/294",
+  "rankIn5" : "256/262",
+  "name" : "Merritt",
+  "city" : "Merritt",
+  "rating" : "3.5",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/Merritt_Secondary/Merritt/Report_Card.aspx"
+}, {
+  "rank" : "273/294",
+  "rankIn5" : "259/262",
+  "name" : "Chetwynd",
+  "city" : "Chetwynd",
+  "rating" : "3.5",
+  "ratingIn5" : "2.8",
+  "url" : "/secondary/Chetwynd_Secondary/Chetwynd/Report_Card.aspx"
+}, {
+  "rank" : "276/294",
+  "rankIn5" : "241/262",
+  "name" : "Byrne Creek",
+  "city" : "Burnaby",
+  "rating" : "3.4",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Byrne_Creek_Secondary/Burnaby/Report_Card.aspx"
+}, {
+  "rank" : "277/294",
+  "rankIn5" : "256/262",
+  "name" : "North Peace",
+  "city" : "Fort St John",
+  "rating" : "3.3",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/North_Peace_Secondary/Fort_St_John/Report_Card.aspx"
+}, {
+  "rank" : "278/294",
+  "rankIn5" : "247/262",
+  "name" : "South Peace",
+  "city" : "Dawson Creek",
+  "rating" : "3.2",
+  "ratingIn5" : "3.7",
+  "url" : "/secondary/South_Peace_Secondary/Dawson_Creek/Report_Card.aspx"
+}, {
+  "rank" : "279/294",
+  "rankIn5" : "n/a",
+  "name" : "Ashcroft",
+  "city" : "Ashcroft",
+  "rating" : "3.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Ashcroft_Secondary/Ashcroft/Report_Card.aspx"
+}, {
+  "rank" : "280/294",
+  "rankIn5" : "251/262",
+  "name" : "Garibaldi",
+  "city" : "Maple Ridge",
+  "rating" : "2.8",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/Garibaldi_Secondary/Maple_Ridge/Report_Card.aspx"
+}, {
+  "rank" : "280/294",
+  "rankIn5" : "n/a",
+  "name" : "J V Humphries",
+  "city" : "Kaslo",
+  "rating" : "2.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/J_V_Humphries_Elem-Secondary/Kaslo/Report_Card.aspx"
+}, {
+  "rank" : "282/294",
+  "rankIn5" : "n/a",
+  "name" : "Lake City",
+  "city" : "Williams Lake",
+  "rating" : "2.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Lake_City_Secondary_School/Williams_Lake/Report_Card.aspx"
+}, {
+  "rank" : "283/294",
+  "rankIn5" : "226/262",
+  "name" : "Nakusp",
+  "city" : "Nakusp",
+  "rating" : "2.4",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Nakusp_Secondary/Nakusp/Report_Card.aspx"
+}, {
+  "rank" : "283/294",
+  "rankIn5" : "261/262",
+  "name" : "Lillooet",
+  "city" : "Lillooet",
+  "rating" : "2.4",
+  "ratingIn5" : "2.3",
+  "url" : "/secondary/Lillooet_Secondary/Lillooet/Report_Card.aspx"
+}, {
+  "rank" : "285/294",
+  "rankIn5" : "249/262",
+  "name" : "Fraser Lake",
+  "city" : "Fraser Lake",
+  "rating" : "2.3",
+  "ratingIn5" : "3.6",
+  "url" : "/secondary/Fraser_Lake_Elem-Secondary/Fraser_Lake/Report_Card.aspx"
+}, {
+  "rank" : "286/294",
+  "rankIn5" : "249/262",
+  "name" : "MacKenzie",
+  "city" : "Mackenzie",
+  "rating" : "2.1",
+  "ratingIn5" : "3.6",
+  "url" : "/secondary/Mackenzie_Secondary/Mackenzie/Report_Card.aspx"
+}, {
+  "rank" : "287/294",
+  "rankIn5" : "260/262",
+  "name" : "John Barsby",
+  "city" : "Nanaimo",
+  "rating" : "1.9",
+  "ratingIn5" : "2.6",
+  "url" : "/secondary/John_Barsby_Community_School/Nanaimo/Report_Card.aspx"
+}, {
+  "rank" : "287/294",
+  "rankIn5" : "n/a",
+  "name" : "Pender Harbour",
+  "city" : "Madeira Park",
+  "rating" : "1.9",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Pender_Harbour_Elem-Secondary/Madeira_Park/Report_Card.aspx"
+}, {
+  "rank" : "289/294",
+  "rankIn5" : "256/262",
+  "name" : "Port Hardy",
+  "city" : "Port Hardy",
+  "rating" : "1.7",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/Port_Hardy_Secondary/Port_Hardy/Report_Card.aspx"
+}, {
+  "rank" : "290/294",
+  "rankIn5" : "262/262",
+  "name" : "Hazelton",
+  "city" : "Hazelton",
+  "rating" : "1.4",
+  "ratingIn5" : "1.4",
+  "url" : "/secondary/Hazelton_Secondary/Hazelton/Report_Card.aspx"
+}, {
+  "rank" : "291/294",
+  "rankIn5" : "253/262",
+  "name" : "Barriere",
+  "city" : "Barriere",
+  "rating" : "1.0",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Barriere_Secondary/Barriere/Report_Card.aspx"
+}, {
+  "rank" : "292/294",
+  "rankIn5" : "n/a",
+  "name" : "Pattison",
+  "city" : "Vancouver",
+  "rating" : "0.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Pattison_High_School/Vancouver/Report_Card.aspx"
+}, {
+  "rank" : "293/294",
+  "rankIn5" : "n/a",
+  "name" : "Prespatou",
+  "city" : "Prespatou",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Prespatou_Elem-Secondary/Prespatou/Report_Card.aspx"
+}, {
+  "rank" : "293/294",
+  "rankIn5" : "n/a",
+  "name" : "St John's International",
+  "city" : "Vancouver",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/St_John's_International/Vancouver/Report_Card.aspx"
+} ]

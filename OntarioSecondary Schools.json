@@ -1,0 +1,5409 @@
+[ {
+  "rank" : "1/676",
+  "rankIn5" : "1/627",
+  "name" : "St Michael's Choir (Sr)",
+  "city" : "Toronto",
+  "rating" : "9.7",
+  "ratingIn5" : "9.3",
+  "url" : "/secondary/St_Michael's_Choir_(Sr)_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "2/676",
+  "rankIn5" : "1/627",
+  "name" : "London Central",
+  "city" : "London",
+  "rating" : "9.3",
+  "ratingIn5" : "9.3",
+  "url" : "/secondary/London_Central_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "2/676",
+  "rankIn5" : "n/a",
+  "name" : "Khalsa School Malton",
+  "city" : "Mississauga",
+  "rating" : "9.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Khalsa_School_Malton/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "4/676",
+  "rankIn5" : "3/627",
+  "name" : "Colonel By",
+  "city" : "Gloucester",
+  "rating" : "9.2",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Colonel_By_Secondary_School/Gloucester/Report_Card.aspx"
+}, {
+  "rank" : "4/676",
+  "rankIn5" : "10/627",
+  "name" : "St Robert",
+  "city" : "Thornhill",
+  "rating" : "9.2",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/St_Robert_Catholic_High_School/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "4/676",
+  "rankIn5" : "20/627",
+  "name" : "Earl of March",
+  "city" : "Kanata",
+  "rating" : "9.2",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Earl_of_March_Secondary_School/Kanata/Report_Card.aspx"
+}, {
+  "rank" : "4/676",
+  "rankIn5" : "34/627",
+  "name" : "Le Sommet",
+  "city" : "Hawkesbury",
+  "rating" : "9.2",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_Le_Sommet/Hawkesbury/Report_Card.aspx"
+}, {
+  "rank" : "8/676",
+  "rankIn5" : "8/627",
+  "name" : "Oakville Trafalgar",
+  "city" : "Oakville",
+  "rating" : "9.1",
+  "ratingIn5" : "8.9",
+  "url" : "/secondary/Oakville_Trafalgar_High_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "8/676",
+  "rankIn5" : "23/627",
+  "name" : "Middlefield",
+  "city" : "Markham",
+  "rating" : "9.1",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Middlefield_Collegiate_Institute/Markham/Report_Card.aspx"
+}, {
+  "rank" : "10/676",
+  "rankIn5" : "5/627",
+  "name" : "Pierre Elliott Trudeau",
+  "city" : "Markham",
+  "rating" : "9.0",
+  "ratingIn5" : "9.1",
+  "url" : "/secondary/Pierre_Elliott_Trudeau_High_School/Markham/Report_Card.aspx"
+}, {
+  "rank" : "10/676",
+  "rankIn5" : "6/627",
+  "name" : "Unionville",
+  "city" : "Unionville",
+  "rating" : "9.0",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/Unionville_High_School/Unionville/Report_Card.aspx"
+}, {
+  "rank" : "10/676",
+  "rankIn5" : "10/627",
+  "name" : "Abbey Park",
+  "city" : "Oakville",
+  "rating" : "9.0",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/Abbey_Park_High_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "10/676",
+  "rankIn5" : "10/627",
+  "name" : "Bur Oak",
+  "city" : "Markham",
+  "rating" : "9.0",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/Bur_Oak_Secondary_School/Markham/Report_Card.aspx"
+}, {
+  "rank" : "10/676",
+  "rankIn5" : "15/627",
+  "name" : "St Augustine",
+  "city" : "Markham",
+  "rating" : "9.0",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/St_Augustine_Catholic_High_School/Markham/Report_Card.aspx"
+}, {
+  "rank" : "10/676",
+  "rankIn5" : "15/627",
+  "name" : "Ursula Franklin",
+  "city" : "Toronto",
+  "rating" : "9.0",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/Ursula_Franklin_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "16/676",
+  "rankIn5" : "3/627",
+  "name" : "Bayview",
+  "city" : "Richmond Hill",
+  "rating" : "8.9",
+  "ratingIn5" : "9.2",
+  "url" : "/secondary/Bayview_Secondary_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "16/676",
+  "rankIn5" : "6/627",
+  "name" : "St Therese of Lisieux",
+  "city" : "Richmond Hill",
+  "rating" : "8.9",
+  "ratingIn5" : "9.0",
+  "url" : "/secondary/St_Therese_of_Lisieux_Catholic_High_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "16/676",
+  "rankIn5" : "20/627",
+  "name" : "Iroquois Ridge",
+  "city" : "Oakville",
+  "rating" : "8.9",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Iroquois_Ridge_High_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "16/676",
+  "rankIn5" : "48/627",
+  "name" : "St Joseph's",
+  "city" : "Renfrew",
+  "rating" : "8.9",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/St_Joseph's_High_School/Renfrew/Report_Card.aspx"
+}, {
+  "rank" : "16/676",
+  "rankIn5" : "78/627",
+  "name" : "Bloor",
+  "city" : "Toronto",
+  "rating" : "8.9",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Bloor_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "21/676",
+  "rankIn5" : "15/627",
+  "name" : "North Toronto",
+  "city" : "Toronto",
+  "rating" : "8.8",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/North_Toronto_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "21/676",
+  "rankIn5" : "15/627",
+  "name" : "William Lyon Mackenzie",
+  "city" : "Toronto",
+  "rating" : "8.8",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/William_Lyon_Mackenzie_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "21/676",
+  "rankIn5" : "23/627",
+  "name" : "St Aloysius Gonzaga",
+  "city" : "Mississauga",
+  "rating" : "8.8",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/St_Aloysius_Gonzaga_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "21/676",
+  "rankIn5" : "27/627",
+  "name" : "John McCrae",
+  "city" : "Nepean",
+  "rating" : "8.8",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/John_McCrae_Secondary_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "25/676",
+  "rankIn5" : "10/627",
+  "name" : "Richmond Hill",
+  "city" : "Richmond Hill",
+  "rating" : "8.7",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/Richmond_Hill_High_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "25/676",
+  "rankIn5" : "23/627",
+  "name" : "Markville",
+  "city" : "Markham",
+  "rating" : "8.7",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Markville_Secondary_School/Markham/Report_Card.aspx"
+}, {
+  "rank" : "27/676",
+  "rankIn5" : "23/627",
+  "name" : "Etobicoke School of the Arts",
+  "city" : "Toronto",
+  "rating" : "8.6",
+  "ratingIn5" : "8.5",
+  "url" : "/secondary/Etobicoke_School_of_the_Arts/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "27/676",
+  "rankIn5" : "27/627",
+  "name" : "Earl Haig",
+  "city" : "Toronto",
+  "rating" : "8.6",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Earl_Haig_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "27/676",
+  "rankIn5" : "34/627",
+  "name" : "Bishop Allen",
+  "city" : "Toronto",
+  "rating" : "8.6",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Bishop_Allen_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "27/676",
+  "rankIn5" : "67/627",
+  "name" : "Sacred Heart",
+  "city" : "Stittsville",
+  "rating" : "8.6",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Sacred_Heart_High_School/Stittsville/Report_Card.aspx"
+}, {
+  "rank" : "27/676",
+  "rankIn5" : "147/627",
+  "name" : "Glebe",
+  "city" : "Ottawa",
+  "rating" : "8.6",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Glebe_Collegiate_Institute/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "32/676",
+  "rankIn5" : "10/627",
+  "name" : "West Carleton",
+  "city" : "Dunrobin",
+  "rating" : "8.5",
+  "ratingIn5" : "8.8",
+  "url" : "/secondary/West_Carleton_Secondary_School/Dunrobin/Report_Card.aspx"
+}, {
+  "rank" : "32/676",
+  "rankIn5" : "15/627",
+  "name" : "St Michael",
+  "city" : "Kemptville",
+  "rating" : "8.5",
+  "ratingIn5" : "8.7",
+  "url" : "/secondary/St_Michael_High_School/Kemptville/Report_Card.aspx"
+}, {
+  "rank" : "32/676",
+  "rankIn5" : "31/627",
+  "name" : "Centennial",
+  "city" : "Guelph",
+  "rating" : "8.5",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Centennial_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "32/676",
+  "rankIn5" : "n/a",
+  "name" : "ISNA",
+  "city" : "Mississauga",
+  "rating" : "8.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/ISNA_High_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "36/676",
+  "rankIn5" : "8/627",
+  "name" : "Cardinal Carter Academy for the Arts",
+  "city" : "Toronto",
+  "rating" : "8.4",
+  "ratingIn5" : "8.9",
+  "url" : "/secondary/Cardinal_Carter_Academy_for_the_Arts/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "36/676",
+  "rankIn5" : "27/627",
+  "name" : "Lawrence Park",
+  "city" : "Toronto",
+  "rating" : "8.4",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/Lawrence_Park_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "36/676",
+  "rankIn5" : "34/627",
+  "name" : "Thornhill",
+  "city" : "Thornhill",
+  "rating" : "8.4",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Thornhill_Secondary_School/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "36/676",
+  "rankIn5" : "42/627",
+  "name" : "Aurora",
+  "city" : "Aurora",
+  "rating" : "8.4",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Aurora_High_School/Aurora/Report_Card.aspx"
+}, {
+  "rank" : "36/676",
+  "rankIn5" : "42/627",
+  "name" : "Forest Hill",
+  "city" : "Toronto",
+  "rating" : "8.4",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Forest_Hill_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "36/676",
+  "rankIn5" : "113/627",
+  "name" : "St Mark",
+  "city" : "Manotick",
+  "rating" : "8.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/St_Mark_High_School/Manotick/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "20/627",
+  "name" : "Holy Name of Mary",
+  "city" : "Brampton",
+  "rating" : "8.3",
+  "ratingIn5" : "8.6",
+  "url" : "/secondary/Holy_Name_of_Mary_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "34/627",
+  "name" : "Humberside",
+  "city" : "Toronto",
+  "rating" : "8.3",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Humberside_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "42/627",
+  "name" : "Garneau",
+  "city" : "Gloucester",
+  "rating" : "8.3",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Garneau/Gloucester/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "42/627",
+  "name" : "Vincent Massey",
+  "city" : "Windsor",
+  "rating" : "8.3",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Vincent_Massey_Secondary_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "42/627",
+  "name" : "White Oaks",
+  "city" : "Oakville",
+  "rating" : "8.3",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/White_Oaks_High_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "48/627",
+  "name" : "De La Salle",
+  "city" : "Ottawa",
+  "rating" : "8.3",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_De_La_Salle/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "48/627",
+  "name" : "Elmira",
+  "city" : "Elmira",
+  "rating" : "8.3",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Elmira_District_Secondary_School/Elmira/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "60/627",
+  "name" : "Agincourt",
+  "city" : "Toronto",
+  "rating" : "8.3",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Agincourt_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "60/627",
+  "name" : "All Saints",
+  "city" : "Kanata",
+  "rating" : "8.3",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/All_Saints_Catholic_High_School/Kanata/Report_Card.aspx"
+}, {
+  "rank" : "42/676",
+  "rankIn5" : "128/627",
+  "name" : "Delphi Alternative",
+  "city" : "Toronto",
+  "rating" : "8.3",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Delphi_Secondary_Alternative_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "27/627",
+  "name" : "St Marcellinus",
+  "city" : "Mississauga",
+  "rating" : "8.2",
+  "ratingIn5" : "8.4",
+  "url" : "/secondary/St_Marcellinus_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "31/627",
+  "name" : "St Joseph",
+  "city" : "Nepean",
+  "rating" : "8.2",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/St_Joseph_High_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "48/627",
+  "name" : "Bishop Paul Francis Reding",
+  "city" : "Milton",
+  "rating" : "8.2",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Bishop_Paul_Francis_Reding_Secondary_School/Milton/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "48/627",
+  "name" : "Richview",
+  "city" : "Toronto",
+  "rating" : "8.2",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Richview_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "67/627",
+  "name" : "Christ the King",
+  "city" : "Georgetown",
+  "rating" : "8.2",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Christ_the_King_Catholic_Secondary_School/Georgetown/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "78/627",
+  "name" : "Markham",
+  "city" : "Markham",
+  "rating" : "8.2",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Markham_District_High_School/Markham/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "78/627",
+  "name" : "St Benedict",
+  "city" : "Sudbury",
+  "rating" : "8.2",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/St_Benedict_Catholic_Secondary_School/Sudbury/Report_Card.aspx"
+}, {
+  "rank" : "52/676",
+  "rankIn5" : "179/627",
+  "name" : "St Martin",
+  "city" : "Mississauga",
+  "rating" : "8.2",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/St_Martin_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "42/627",
+  "name" : "Corpus Christi",
+  "city" : "Burlington",
+  "rating" : "8.1",
+  "ratingIn5" : "8.1",
+  "url" : "/secondary/Corpus_Christi_Catholic_Secondary_School_Secondary/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "48/627",
+  "name" : "Father John Redmond",
+  "city" : "Toronto",
+  "rating" : "8.1",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Father_John_Redmond_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "48/627",
+  "name" : "Regiopolis/Notre-Dame",
+  "city" : "Kingston",
+  "rating" : "8.1",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Regiopolis%2fNotre-Dame_Catholic_High_School/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "48/627",
+  "name" : "Richmond Green",
+  "city" : "Richmond Hill",
+  "rating" : "8.1",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Richmond_Green_Secondary_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "60/627",
+  "name" : "Malvern",
+  "city" : "Toronto",
+  "rating" : "8.1",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Malvern_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "60/627",
+  "name" : "Newmarket",
+  "city" : "Newmarket",
+  "rating" : "8.1",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Newmarket_High_School/Newmarket/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "67/627",
+  "name" : "Our Lady of Mount Carmel",
+  "city" : "Mississauga",
+  "rating" : "8.1",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Our_Lady_of_Mount_Carmel_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "128/627",
+  "name" : "St. Thomas Aquinas",
+  "city" : "Russell",
+  "rating" : "8.1",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/St._Thomas_Aquinas_Catholic_High_School/Russell/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "n/a",
+  "name" : "Garth Webb",
+  "city" : "Oakville",
+  "rating" : "8.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Garth_Webb_Secondary_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "60/676",
+  "rankIn5" : "n/a",
+  "name" : "Toronto Ouest",
+  "city" : "Toronto",
+  "rating" : "8.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Toronto_Ouest/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "31/627",
+  "name" : "Mother Teresa",
+  "city" : "Nepean",
+  "rating" : "8.0",
+  "ratingIn5" : "8.3",
+  "url" : "/secondary/Mother_Teresa_High_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "34/627",
+  "name" : "Nelson",
+  "city" : "Burlington",
+  "rating" : "8.0",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Nelson_High_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "34/627",
+  "name" : "Westmount",
+  "city" : "Thornhill",
+  "rating" : "8.0",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Westmount_Collegiate_Institute/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "78/627",
+  "name" : "Sir John A Macdonald",
+  "city" : "Waterloo",
+  "rating" : "8.0",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Sir_John_A_Macdonald_Secondary_School/Waterloo/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "104/627",
+  "name" : "Assumption",
+  "city" : "Burlington",
+  "rating" : "8.0",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Assumption_Roman_Catholic_Secondary_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "113/627",
+  "name" : "Aldershot",
+  "city" : "Burlington",
+  "rating" : "8.0",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Aldershot_High_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "113/627",
+  "name" : "Eden",
+  "city" : "St Catharines",
+  "rating" : "8.0",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Eden_High_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "128/627",
+  "name" : "Resurrection",
+  "city" : "Kitchener",
+  "rating" : "8.0",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Resurrection_Catholic_Secondary_School/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "128/627",
+  "name" : "Saint Michael",
+  "city" : "Niagara Falls",
+  "rating" : "8.0",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Saint_Michael_High_School/Niagara_Falls/Report_Card.aspx"
+}, {
+  "rank" : "70/676",
+  "rankIn5" : "311/627",
+  "name" : "St Thomas Aquinas",
+  "city" : "Lindsay",
+  "rating" : "8.0",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/St._Thomas_Aquinas_Catholic_Secondary_School/Lindsay/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "34/627",
+  "name" : "Bill Crothers",
+  "city" : "Unionville",
+  "rating" : "7.9",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Bill_Crothers_Secondary_School/Unionville/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "48/627",
+  "name" : "Guelph",
+  "city" : "Guelph",
+  "rating" : "7.9",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Guelph_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "60/627",
+  "name" : "Langstaff",
+  "city" : "Richmond Hill",
+  "rating" : "7.9",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Langstaff_Secondary_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "60/627",
+  "name" : "St Francis Xavier",
+  "city" : "Mississauga",
+  "rating" : "7.9",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/St_Francis_Xavier_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "67/627",
+  "name" : "R H King",
+  "city" : "Toronto",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/R_H_King_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "67/627",
+  "name" : "St Elizabeth",
+  "city" : "Thornhill",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/St_Elizabeth_Catholic_High_School/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "67/627",
+  "name" : "St Ignatius of Loyola",
+  "city" : "Oakville",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/St_Ignatius_of_Loyola_Secondary_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "78/627",
+  "name" : "Holy Trinity",
+  "city" : "Kanata",
+  "rating" : "7.9",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Holy_Trinity_Catholic_High_School/Kanata/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "78/627",
+  "name" : "Longfields Davidson Heights",
+  "city" : "Nepean",
+  "rating" : "7.9",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Longfields_Davidson_Heights_Secondary_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "113/627",
+  "name" : "Philip Pocock",
+  "city" : "Mississauga",
+  "rating" : "7.9",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Philip_Pocock_Catholic_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "113/627",
+  "name" : "St. Brother André",
+  "city" : "Markham",
+  "rating" : "7.9",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/St._Brother_Andr%c3%a9_Catholic_High_School/Markham/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "128/627",
+  "name" : "Jeanne-Lajoie",
+  "city" : "Pembroke",
+  "rating" : "7.9",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Jeanne-Lajoie%2c_pavillo/Pembroke/Report_Card.aspx"
+}, {
+  "rank" : "80/676",
+  "rankIn5" : "147/627",
+  "name" : "A.Y. Jackson",
+  "city" : "Kanata",
+  "rating" : "7.9",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/A.Y._Jackson_Secondary_School/Kanata/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "48/627",
+  "name" : "Dr Norman Bethune",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Dr_Norman_Bethune_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "48/627",
+  "name" : "Leaside",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Leaside_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "48/627",
+  "name" : "Neil McNeil",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "8.0",
+  "url" : "/secondary/Neil_McNeil_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "67/627",
+  "name" : "Loretto Abbey",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Loretto_Abbey_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "78/627",
+  "name" : "Notre Dame",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Notre_Dame_Catholic_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "93/627",
+  "name" : "Belle River",
+  "city" : "Belle River",
+  "rating" : "7.8",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Belle_River_District_High_School/Belle_River/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "93/627",
+  "name" : "Stephen Lewis",
+  "city" : "Thornhill",
+  "rating" : "7.8",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Stephen_Lewis_Secondary_School/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "104/627",
+  "name" : "Harbord",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Harbord_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "113/627",
+  "name" : "St Joseph",
+  "city" : "Mississauga",
+  "rating" : "7.8",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/St_Joseph_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "113/627",
+  "name" : "Vaughan",
+  "city" : "Thornhill",
+  "rating" : "7.8",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Vaughan_Secondary_School/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "128/627",
+  "name" : "Blessed Trinity",
+  "city" : "Grimsby",
+  "rating" : "7.8",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Blessed_Trinity_Secondary_School/Grimsby/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "128/627",
+  "name" : "Holy Trinity",
+  "city" : "Simcoe",
+  "rating" : "7.8",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Holy_Trinity_Catholic_High_School/Simcoe/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "147/627",
+  "name" : "Michael Power/St Joseph",
+  "city" : "Toronto",
+  "rating" : "7.8",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Michael_Power%2fSt_Joseph_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "147/627",
+  "name" : "Sir Winston Churchill",
+  "city" : "St Catharines",
+  "rating" : "7.8",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Sir_Winston_Churchill_Secondary_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "93/676",
+  "rankIn5" : "179/627",
+  "name" : "Chesley",
+  "city" : "Chesley",
+  "rating" : "7.8",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Chesley_District_High_School/Chesley/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "67/627",
+  "name" : "Marymount",
+  "city" : "Sudbury",
+  "rating" : "7.7",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Marymount_Academy_Catholic_School/Sudbury/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "78/627",
+  "name" : "St Joseph's",
+  "city" : "Toronto",
+  "rating" : "7.7",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/St_Joseph's_College_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "78/627",
+  "name" : "St Mary's",
+  "city" : "Brockville",
+  "rating" : "7.7",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/St_Mary's_High_School/Brockville/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "93/627",
+  "name" : "Iona",
+  "city" : "Mississauga",
+  "rating" : "7.7",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Iona_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "93/627",
+  "name" : "Rosedale Heights School of the Arts",
+  "city" : "Toronto",
+  "rating" : "7.7",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Rosedale_Heights_School_of_the_Arts/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "93/627",
+  "name" : "W A Porter",
+  "city" : "Toronto",
+  "rating" : "7.7",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/SATEC_%40_W_A_Porter_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "104/627",
+  "name" : "St. Joan of Arc",
+  "city" : "Mississauga",
+  "rating" : "7.7",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/St._Joan_of_Arc_Catholic_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "128/627",
+  "name" : "Renaissance",
+  "city" : "Aurora",
+  "rating" : "7.7",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/%c3%89SC_Renaissance/Aurora/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "164/627",
+  "name" : "Sainte-Famille",
+  "city" : "Mississauga",
+  "rating" : "7.7",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/%c3%89SC_Sainte-Famille/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "209/627",
+  "name" : "St. Michael",
+  "city" : "Bolton",
+  "rating" : "7.7",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/St._Michael_Catholic_Secondary_School/Bolton/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "253/627",
+  "name" : "Béatrice-Desloges",
+  "city" : "Orléans",
+  "rating" : "7.7",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_B%c3%a9atrice-Desloges/Orl%c3%a9ans/Report_Card.aspx"
+}, {
+  "rank" : "108/676",
+  "rankIn5" : "n/a",
+  "name" : "Tommy Douglas",
+  "city" : "Woodbridge",
+  "rating" : "7.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Tommy_Douglas_Secondary_School/Woodbridge/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "67/627",
+  "name" : "Bishop Macdonell",
+  "city" : "Guelph",
+  "rating" : "7.6",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Bishop_Macdonell_Catholic_Secondary_School/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "67/627",
+  "name" : "Notre Dame",
+  "city" : "Burlington",
+  "rating" : "7.6",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Notre_Dame_Roman_Catholic_Secondary_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "78/627",
+  "name" : "John Cabot",
+  "city" : "Mississauga",
+  "rating" : "7.6",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/John_Cabot_Catholic_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "78/627",
+  "name" : "St Peter",
+  "city" : "Orléans",
+  "rating" : "7.6",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/St_Peter_High_School/Orl%c3%a9ans/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "147/627",
+  "name" : "General Amherst",
+  "city" : "Amherstburg",
+  "rating" : "7.6",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/General_Amherst_High_School/Amherstburg/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "164/627",
+  "name" : "E L Crossley",
+  "city" : "Fonthill",
+  "rating" : "7.6",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/E_L_Crossley_Secondary_School/Fonthill/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "209/627",
+  "name" : "Holy Cross",
+  "city" : "St Catharines",
+  "rating" : "7.6",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Holy_Cross_Secondary_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "253/627",
+  "name" : "Bishop Tonnos",
+  "city" : "Ancaster",
+  "rating" : "7.6",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Bishop_Tonnos_Catholic_Secondary_School/Ancaster/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "285/627",
+  "name" : "Marie-Rivier",
+  "city" : "Kingston",
+  "rating" : "7.6",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Marie-Rivier/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "120/676",
+  "rankIn5" : "483/627",
+  "name" : "Georges-P-Vanier",
+  "city" : "Hamilton",
+  "rating" : "7.6",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_secondaire_Georges-P-Vanier/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "60/627",
+  "name" : "Thomas A Blakelock",
+  "city" : "Oakville",
+  "rating" : "7.5",
+  "ratingIn5" : "7.9",
+  "url" : "/secondary/Thomas_A_Blakelock_High_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "67/627",
+  "name" : "Sacred Heart",
+  "city" : "Newmarket",
+  "rating" : "7.5",
+  "ratingIn5" : "7.8",
+  "url" : "/secondary/Sacred_Heart_Catholic_High_School/Newmarket/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "78/627",
+  "name" : "Bluevale",
+  "city" : "Waterloo",
+  "rating" : "7.5",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Bluevale_Collegiate_Institute/Waterloo/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "78/627",
+  "name" : "Kingston",
+  "city" : "Kingston",
+  "rating" : "7.5",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Kingston_Collegiate_and_Vocational_Institute/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "78/627",
+  "name" : "St Anne",
+  "city" : "Tecumseh",
+  "rating" : "7.5",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/St_Anne/Tecumseh/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "93/627",
+  "name" : "Jeunes sans frontières",
+  "city" : "Brampton",
+  "rating" : "7.5",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/%c3%89cole_secondaire_Jeunes_sans_fronti%c3%a8res/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "104/627",
+  "name" : "Cardinal Carter",
+  "city" : "Aurora",
+  "rating" : "7.5",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Cardinal_Carter_Secondary_School/Aurora/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "128/627",
+  "name" : "Loyola",
+  "city" : "Mississauga",
+  "rating" : "7.5",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Loyola_Catholic_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "147/627",
+  "name" : "Thornlea",
+  "city" : "Thornhill",
+  "rating" : "7.5",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Thornlea_Secondary_School/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "164/627",
+  "name" : "Sandwich",
+  "city" : "LaSalle",
+  "rating" : "7.5",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Sandwich_Secondary_School/LaSalle/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "179/627",
+  "name" : "L'Héritage",
+  "city" : "Cornwall",
+  "rating" : "7.5",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_L'H%c3%a9ritage/Cornwall/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "192/627",
+  "name" : "St Anne's",
+  "city" : "Clinton",
+  "rating" : "7.5",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/St_Anne's_Catholic_School/Clinton/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "226/627",
+  "name" : "Lord Dorchester",
+  "city" : "Dorchester",
+  "rating" : "7.5",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Lord_Dorchester_Secondary_School/Dorchester/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "226/627",
+  "name" : "St David",
+  "city" : "Waterloo",
+  "rating" : "7.5",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/St_David_Catholic_Secondary_School/Waterloo/Report_Card.aspx"
+}, {
+  "rank" : "130/676",
+  "rankIn5" : "n/a",
+  "name" : "Gaétan Gervais",
+  "city" : "Oakville",
+  "rating" : "7.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Ga%c3%a9tan_Gervais/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "34/627",
+  "name" : "Stratford Central",
+  "city" : "Stratford",
+  "rating" : "7.4",
+  "ratingIn5" : "8.2",
+  "url" : "/secondary/Stratford_Central_Secondary_School/Stratford/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "93/627",
+  "name" : "John F Ross",
+  "city" : "Guelph",
+  "rating" : "7.4",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/John_F_Ross_Collegiate_and_Vocational_Institute/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "93/627",
+  "name" : "Mary Ward",
+  "city" : "Toronto",
+  "rating" : "7.4",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Mary_Ward_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "93/627",
+  "name" : "North Grenville",
+  "city" : "Kemptville",
+  "rating" : "7.4",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/North_Grenville_District_High_School/Kemptville/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "113/627",
+  "name" : "Alexander MacKenzie",
+  "city" : "Richmond Hill",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Alexander_MacKenzie_High_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "113/627",
+  "name" : "Etobicoke",
+  "city" : "Toronto",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Etobicoke_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "113/627",
+  "name" : "Georgetown",
+  "city" : "Georgetown",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Georgetown_District_High_School/Georgetown/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "113/627",
+  "name" : "Victoria Park",
+  "city" : "Toronto",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Victoria_Park_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "128/627",
+  "name" : "Père-René-de-Galinée",
+  "city" : "Cambridge",
+  "rating" : "7.4",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/%c3%89SC_P%c3%a8re-Ren%c3%a9-de-Galin%c3%a9e/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "128/627",
+  "name" : "St Thomas of Villanova",
+  "city" : "LaSalle",
+  "rating" : "7.4",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/St_Thomas_of_Villanova/LaSalle/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "128/627",
+  "name" : "Waterloo",
+  "city" : "Waterloo",
+  "rating" : "7.4",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Waterloo_Collegiate_Institute/Waterloo/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "147/627",
+  "name" : "A B Lucas",
+  "city" : "London",
+  "rating" : "7.4",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/A_B_Lucas_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "147/627",
+  "name" : "St Maximilian Kolbe",
+  "city" : "Aurora",
+  "rating" : "7.4",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/St_Maximilian_Kolbe_High_School/Aurora/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "179/627",
+  "name" : "Étienne-Brûlé",
+  "city" : "Toronto",
+  "rating" : "7.4",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_secondaire_%c3%89tienne-Br%c3%bbl%c3%a9/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "179/627",
+  "name" : "Holy Cross",
+  "city" : "Kingston",
+  "rating" : "7.4",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Holy_Cross_Catholic_Secondary_School/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "179/627",
+  "name" : "Stouffville District",
+  "city" : "Stouffville",
+  "rating" : "7.4",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Stouffville_District_Secondary_School/Stouffville/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "192/627",
+  "name" : "St Mary",
+  "city" : "Cobourg",
+  "rating" : "7.4",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/St._Mary_Secondary_School/Cobourg/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "192/627",
+  "name" : "St Matthew",
+  "city" : "Orléans",
+  "rating" : "7.4",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/St_Matthew_High_School/Orl%c3%a9ans/Report_Card.aspx"
+}, {
+  "rank" : "145/676",
+  "rankIn5" : "n/a",
+  "name" : "Craig Kielburger",
+  "city" : "Milton",
+  "rating" : "7.4",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Craig_Kielburger_Secondary_School/Milton/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "104/627",
+  "name" : "Milliken Mills",
+  "city" : "Unionville",
+  "rating" : "7.3",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Milliken_Mills_High_School/Unionville/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "113/627",
+  "name" : "Holy Trinity",
+  "city" : "Oakville",
+  "rating" : "7.3",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/Holy_Trinity_Catholic_Secondary_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "128/627",
+  "name" : "Northern",
+  "city" : "Toronto",
+  "rating" : "7.3",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Northern_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "164/627",
+  "name" : "Martingrove",
+  "city" : "Toronto",
+  "rating" : "7.3",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Martingrove_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "164/627",
+  "name" : "South Huron",
+  "city" : "Exeter",
+  "rating" : "7.3",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/South_Huron_District_High_School/Exeter/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "192/627",
+  "name" : "St Mary's",
+  "city" : "Hamilton",
+  "rating" : "7.3",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/St_Mary's_Separate_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "209/627",
+  "name" : "Northview Heights",
+  "city" : "Toronto",
+  "rating" : "7.3",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Northview_Heights_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "209/627",
+  "name" : "St Francis",
+  "city" : "St Catharines",
+  "rating" : "7.3",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/St_Francis_Secondary_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "209/627",
+  "name" : "St James",
+  "city" : "Guelph",
+  "rating" : "7.3",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/St_James_Catholic_School/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "269/627",
+  "name" : "Erin",
+  "city" : "Erin",
+  "rating" : "7.3",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Erin_District_High_School/Erin/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "n/a",
+  "name" : "Dr. Frank J. Hayden",
+  "city" : "Burlington",
+  "rating" : "7.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Dr._Frank_J._Hayden_Secondary_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "164/676",
+  "rankIn5" : "n/a",
+  "name" : "Sainte-Trinité",
+  "city" : "Oakville",
+  "rating" : "7.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89SC_Sainte-Trinit%c3%a9/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "78/627",
+  "name" : "Oakridge",
+  "city" : "London",
+  "rating" : "7.2",
+  "ratingIn5" : "7.7",
+  "url" : "/secondary/Oakridge_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "104/627",
+  "name" : "Westmount",
+  "city" : "Hamilton",
+  "rating" : "7.2",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Westmount_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "113/627",
+  "name" : "St Joseph's",
+  "city" : "Cornwall",
+  "rating" : "7.2",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/St_Joseph's_Secondary_School/Cornwall/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "128/627",
+  "name" : "F J Brennan",
+  "city" : "Windsor",
+  "rating" : "7.2",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/F_J_Brennan_Catholic/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "128/627",
+  "name" : "Father Michael McGivney",
+  "city" : "Markham",
+  "rating" : "7.2",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Father_Michael_McGivney_Catholic_Academy_High_Scho/Markham/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "147/627",
+  "name" : "St Francis Xavier",
+  "city" : "Gloucester",
+  "rating" : "7.2",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/St._Francis_Xavier_(9-12)_Catholic_School/Gloucester/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "147/627",
+  "name" : "St Thomas Aquinas",
+  "city" : "London",
+  "rating" : "7.2",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/St_Thomas_Aquinas_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "164/627",
+  "name" : "Nicholson",
+  "city" : "Belleville",
+  "rating" : "7.2",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Nicholson_Catholic_College/Belleville/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "179/627",
+  "name" : "Medway",
+  "city" : "Arva",
+  "rating" : "7.2",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Medway_High_School/Arva/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "179/627",
+  "name" : "South Carleton",
+  "city" : "Richmond",
+  "rating" : "7.2",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/South_Carleton_High_School/Richmond/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "192/627",
+  "name" : "Merivale",
+  "city" : "Nepean",
+  "rating" : "7.2",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Merivale_High_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "226/627",
+  "name" : "St Patrick's",
+  "city" : "Sarnia",
+  "rating" : "7.2",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/St_Patrick's_Catholic_Secondary_School/Sarnia/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "269/627",
+  "name" : "Haliburton Highland",
+  "city" : "Haliburton",
+  "rating" : "7.2",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Haliburton_Highland_Secondary_School/Haliburton/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "285/627",
+  "name" : "Walkerville",
+  "city" : "Windsor",
+  "rating" : "7.2",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Walkerville_Secondary_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "483/627",
+  "name" : "l'Odyssée",
+  "city" : "North Bay",
+  "rating" : "7.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_l'Odyss%c3%a9e/North_Bay/Report_Card.aspx"
+}, {
+  "rank" : "176/676",
+  "rankIn5" : "n/a",
+  "name" : "Maurice-Lapointe",
+  "city" : "Kanata",
+  "rating" : "7.2",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_Maurice-Lapointe/Kanata/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "93/627",
+  "name" : "St Thomas Aquinas",
+  "city" : "Oakville",
+  "rating" : "7.1",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/St_Thomas_Aquinas_Roman_Catholic_Secondary_School/Oakville/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "104/627",
+  "name" : "Don Mills",
+  "city" : "Toronto",
+  "rating" : "7.1",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Don_Mills_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "113/627",
+  "name" : "St Edmund Campion",
+  "city" : "Brampton",
+  "rating" : "7.1",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/St_Edmund_Campion_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "128/627",
+  "name" : "Northern",
+  "city" : "Sarnia",
+  "rating" : "7.1",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Northern_Collegiate_Institute_and_Vocational_Schoo/Sarnia/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "147/627",
+  "name" : "Bracebridge and Muskoka Lakes",
+  "city" : "Bracebridge",
+  "rating" : "7.1",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Bracebridge_and_Muskoka_Lakes_Secondary_School/Bracebridge/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "147/627",
+  "name" : "Milton",
+  "city" : "Milton",
+  "rating" : "7.1",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Milton_District_High_School/Milton/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "147/627",
+  "name" : "Sir William Mulock",
+  "city" : "Newmarket",
+  "rating" : "7.1",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Sir_William_Mulock_Secondary_School/Newmarket/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "164/627",
+  "name" : "Samuel-Genest",
+  "city" : "Ottawa",
+  "rating" : "7.1",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Coll%c3%a8ge_Catholique_Samuel-Genest/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "179/627",
+  "name" : "Westdale",
+  "city" : "Hamilton",
+  "rating" : "7.1",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Westdale_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "209/627",
+  "name" : "Clarke",
+  "city" : "Newcastle",
+  "rating" : "7.1",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Clarke_High_School/Newcastle/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "226/627",
+  "name" : "A N Myer",
+  "city" : "Niagara Falls",
+  "rating" : "7.1",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/A_N_Myer_Secondary_School/Niagara_Falls/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "226/627",
+  "name" : "Norwell",
+  "city" : "Palmerston",
+  "rating" : "7.1",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Norwell_District_Secondary_School/Palmerston/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "226/627",
+  "name" : "Orangeville",
+  "city" : "Orangeville",
+  "rating" : "7.1",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Orangeville_District_Secondary_School/Orangeville/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "253/627",
+  "name" : "Notre Dame",
+  "city" : "Carleton Place",
+  "rating" : "7.1",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Notre_Dame_Catholic_High_School/Carleton_Place/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "285/627",
+  "name" : "Franco-Cité",
+  "city" : "Ottawa",
+  "rating" : "7.1",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Franco-Cit%c3%a9/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "285/627",
+  "name" : "St Joseph's",
+  "city" : "Windsor",
+  "rating" : "7.1",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/St_Joseph's/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "335/627",
+  "name" : "Assumption",
+  "city" : "Windsor",
+  "rating" : "7.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Assumption_College/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "335/627",
+  "name" : "Governor Simcoe",
+  "city" : "St Catharines",
+  "rating" : "7.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Governor_Simcoe_Secondary_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "n/a",
+  "name" : "Notre-Dame-des-Grands-Lacs",
+  "city" : "Sault Ste. Marie",
+  "rating" : "7.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Notre-Dame-des-Grands-Lacs/Sault_Ste._Marie/Report_Card.aspx"
+}, {
+  "rank" : "192/676",
+  "rankIn5" : "n/a",
+  "name" : "St. Andre Bessette",
+  "city" : "London",
+  "rating" : "7.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/St._Andre_Bessette_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "128/627",
+  "name" : "Waterdown",
+  "city" : "Waterdown",
+  "rating" : "7.0",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Waterdown_District_High_School/Waterdown/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "164/627",
+  "name" : "St Peter's",
+  "city" : "Peterborough",
+  "rating" : "7.0",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/St._Peter's_Secondary_School/Peterborough/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "192/627",
+  "name" : "Our Lady of Lourdes",
+  "city" : "Guelph",
+  "rating" : "7.0",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Our_Lady_of_Lourdes_Catholic_School/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "209/627",
+  "name" : "Courtice",
+  "city" : "Courtice",
+  "rating" : "7.0",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Courtice_Secondary_School/Courtice/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "226/627",
+  "name" : "Dr G W Williams",
+  "city" : "Aurora",
+  "rating" : "7.0",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Dr_G_W_Williams_Secondary_School/Aurora/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "226/627",
+  "name" : "West Hill",
+  "city" : "Owen Sound",
+  "rating" : "7.0",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/West_Hill_Secondary_School/Owen_Sound/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "226/627",
+  "name" : "Woodbridge",
+  "city" : "Woodbridge",
+  "rating" : "7.0",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Woodbridge_College/Woodbridge/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "285/627",
+  "name" : "Centre Wellington",
+  "city" : "Fergus",
+  "rating" : "7.0",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Centre_Wellington_District_High_School/Fergus/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "311/627",
+  "name" : "Adam Scott",
+  "city" : "Peterborough",
+  "rating" : "7.0",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Adam_Scott_Collegiate_and_Vocational_Institute/Peterborough/Report_Card.aspx"
+}, {
+  "rank" : "212/676",
+  "rankIn5" : "335/627",
+  "name" : "Immaculata",
+  "city" : "Ottawa",
+  "rating" : "7.0",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Immaculata_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "104/627",
+  "name" : "Gisèle-Lalonde",
+  "city" : "Orléans",
+  "rating" : "6.9",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_Gis%c3%a8le-Lalonde/Orl%c3%a9ans/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "113/627",
+  "name" : "St Pius X",
+  "city" : "Ottawa",
+  "rating" : "6.9",
+  "ratingIn5" : "7.4",
+  "url" : "/secondary/St_Pius_X_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "192/627",
+  "name" : "Bradford",
+  "city" : "Bradford",
+  "rating" : "6.9",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Bradford_District_High_School/Bradford/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "192/627",
+  "name" : "Highland",
+  "city" : "Dundas",
+  "rating" : "6.9",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Highland_Secondary_School/Dundas/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "209/627",
+  "name" : "Cairine Wilson",
+  "city" : "Ottawa",
+  "rating" : "6.9",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Cairine_Wilson_Secondary_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "209/627",
+  "name" : "Saint Paul",
+  "city" : "Niagara Falls",
+  "rating" : "6.9",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Saint_Paul_High_School/Niagara_Falls/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "226/627",
+  "name" : "Albert Campbell",
+  "city" : "Toronto",
+  "rating" : "6.9",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Albert_Campbell_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "226/627",
+  "name" : "Holy Trinity",
+  "city" : "Courtice",
+  "rating" : "6.9",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Holy_Trinity_Catholic_Secondary_School/Courtice/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "269/627",
+  "name" : "North Park",
+  "city" : "Brantford",
+  "rating" : "6.9",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/North_Park_Collegiate_and_Vocational_School/Brantford/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "285/627",
+  "name" : "St Mary's",
+  "city" : "Kitchener",
+  "rating" : "6.9",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/St_Mary's_High_School/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "222/676",
+  "rankIn5" : "365/627",
+  "name" : "Centennial",
+  "city" : "Welland",
+  "rating" : "6.9",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Centennial_Secondary_School/Welland/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "93/627",
+  "name" : "Lester B Pearson",
+  "city" : "Burlington",
+  "rating" : "6.8",
+  "ratingIn5" : "7.6",
+  "url" : "/secondary/Lester_B._Pearson/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "104/627",
+  "name" : "Jean Vanier",
+  "city" : "Richmond Hill",
+  "rating" : "6.8",
+  "ratingIn5" : "7.5",
+  "url" : "/secondary/Jean_Vanier_Catholic_High_School/Richmond_Hill/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "128/627",
+  "name" : "Emily Carr",
+  "city" : "Woodbridge",
+  "rating" : "6.8",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/Emily_Carr_Secondary_School/Woodbridge/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "147/627",
+  "name" : "St Ignatius",
+  "city" : "Thunder Bay",
+  "rating" : "6.8",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/St_Ignatius_High_School/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "164/627",
+  "name" : "La Salle",
+  "city" : "Kingston",
+  "rating" : "6.8",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/La_Salle_Secondary_School/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "164/627",
+  "name" : "Sir John A Macdonald",
+  "city" : "Toronto",
+  "rating" : "6.8",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Sir_John_A_Macdonald_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "164/627",
+  "name" : "St John's",
+  "city" : "Brantford",
+  "rating" : "6.8",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/St_John's_College/Brantford/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "192/627",
+  "name" : "Ancaster",
+  "city" : "Ancaster",
+  "rating" : "6.8",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Ancaster_High_School/Ancaster/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "192/627",
+  "name" : "Father Michael Goetz",
+  "city" : "Mississauga",
+  "rating" : "6.8",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Father_Michael_Goetz_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "192/627",
+  "name" : "Vankleek Hill",
+  "city" : "Vankleek Hill",
+  "rating" : "6.8",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Vankleek_Hill_Collegiate_Institute/Vankleek_Hill/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "209/627",
+  "name" : "Grimsby",
+  "city" : "Grimsby",
+  "rating" : "6.8",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Grimsby_Secondary_School/Grimsby/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "209/627",
+  "name" : "I E Weldon",
+  "city" : "Lindsay",
+  "rating" : "6.8",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/I_E_Weldon_Secondary_School/Lindsay/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "226/627",
+  "name" : "Eastview",
+  "city" : "Barrie",
+  "rating" : "6.8",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Eastview_Secondary_School/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "253/627",
+  "name" : "Kincardine",
+  "city" : "Kincardine",
+  "rating" : "6.8",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Kincardine_District_Secondary_School/Kincardine/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "269/627",
+  "name" : "Assumption",
+  "city" : "Brantford",
+  "rating" : "6.8",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Assumption_College_School/Brantford/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "269/627",
+  "name" : "Robert Bateman",
+  "city" : "Burlington",
+  "rating" : "6.8",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Robert_Bateman_High_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "285/627",
+  "name" : "Dr John M Denison",
+  "city" : "Newmarket",
+  "rating" : "6.8",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Dr_John_M_Denison_Secondary_School/Newmarket/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "285/627",
+  "name" : "Maple",
+  "city" : "Maple",
+  "rating" : "6.8",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Maple_High_School/Maple/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "285/627",
+  "name" : "Ursuline (The Pines)",
+  "city" : "Chatham",
+  "rating" : "6.8",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Ursuline_College_(The_Pines)_Catholic_Secondary_Sc/Chatham/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "311/627",
+  "name" : "Gravenhurst",
+  "city" : "Gravenhurst",
+  "rating" : "6.8",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Gravenhurst_High_School/Gravenhurst/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "311/627",
+  "name" : "Innisdale",
+  "city" : "Barrie",
+  "rating" : "6.8",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Innisdale_Secondary_School/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "335/627",
+  "name" : "Sydenham",
+  "city" : "Sydenham",
+  "rating" : "6.8",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Sydenham_High_School/Sydenham/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "396/627",
+  "name" : "Marc Garneau",
+  "city" : "Toronto",
+  "rating" : "6.8",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Marc_Garneau_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "233/676",
+  "rankIn5" : "483/627",
+  "name" : "Jean-Vanier",
+  "city" : "Welland",
+  "rating" : "6.8",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89SC_Jean-Vanier/Welland/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "128/627",
+  "name" : "King City",
+  "city" : "King City",
+  "rating" : "6.7",
+  "ratingIn5" : "7.3",
+  "url" : "/secondary/King_City_Secondary_School/King_City/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "147/627",
+  "name" : "Riverdale",
+  "city" : "Toronto",
+  "rating" : "6.7",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Riverdale_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "192/627",
+  "name" : "Holy Trinity",
+  "city" : "Cornwall",
+  "rating" : "6.7",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Holy_Trinity_Catholic_Secondary_School/Cornwall/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "253/627",
+  "name" : "Huntsville",
+  "city" : "Huntsville",
+  "rating" : "6.7",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Huntsville_High_School/Huntsville/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "253/627",
+  "name" : "Orchard Park",
+  "city" : "Stoney Creek",
+  "rating" : "6.7",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Orchard_Park_Secondary_School/Stoney_Creek/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "285/627",
+  "name" : "Marshall McLuhan",
+  "city" : "Toronto",
+  "rating" : "6.7",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Marshall_McLuhan_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "311/627",
+  "name" : "Crestwood",
+  "city" : "Peterborough",
+  "rating" : "6.7",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Crestwood_Secondary_School/Peterborough/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "326/627",
+  "name" : "Francis Libermann",
+  "city" : "Toronto",
+  "rating" : "6.7",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Francis_Libermann_Catholic_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "326/627",
+  "name" : "St Patrick",
+  "city" : "Toronto",
+  "rating" : "6.7",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/St_Patrick_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "335/627",
+  "name" : "Southwood",
+  "city" : "Cambridge",
+  "rating" : "6.7",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Southwood_Secondary_School/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "379/627",
+  "name" : "Denis Morris",
+  "city" : "St Catharines",
+  "rating" : "6.7",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Denis_Morris_High_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "426/627",
+  "name" : "Hawkesbury",
+  "city" : "Hawkesbury",
+  "rating" : "6.7",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_r%c3%a9gionale_de_Hawkesbur/Hawkesbury/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "n/a",
+  "name" : "Jeunesse-Nord",
+  "city" : "Blind River",
+  "rating" : "6.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Jeunesse-Nord/Blind_River/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "n/a",
+  "name" : "Tecumseh Vista",
+  "city" : "Tecumseh",
+  "rating" : "6.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Tecumseh_Vista_Academy_-_Secondary/Tecumseh/Report_Card.aspx"
+}, {
+  "rank" : "257/676",
+  "rankIn5" : "n/a",
+  "name" : "Valour",
+  "city" : "Petawawa",
+  "rating" : "6.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Valour_JK_to_12_School_-_Secondary_School/Petawawa/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "164/627",
+  "name" : "Holy Names",
+  "city" : "Windsor",
+  "rating" : "6.6",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Holy_Names_High_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "179/627",
+  "name" : "Atikokan",
+  "city" : "Atikokan",
+  "rating" : "6.6",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Atikokan_High_School/Atikokan/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "192/627",
+  "name" : "Waterloo-Oxford",
+  "city" : "Baden",
+  "rating" : "6.6",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Waterloo-Oxford_District_Secondary_School/Baden/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "226/627",
+  "name" : "All Saints",
+  "city" : "Whitby",
+  "rating" : "6.6",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/All_Saints_Catholic_Secondary_School/Whitby/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "253/627",
+  "name" : "Senator O'Connor",
+  "city" : "Toronto",
+  "rating" : "6.6",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Senator_O'Connor_College_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "253/627",
+  "name" : "St John",
+  "city" : "Perth",
+  "rating" : "6.6",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/St_John_Catholic_High_School/Perth/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "269/627",
+  "name" : "Glengarry",
+  "city" : "Alexandria",
+  "rating" : "6.6",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Glengarry_District_High_School/Alexandria/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "269/627",
+  "name" : "MacKenzie",
+  "city" : "Deep River",
+  "rating" : "6.6",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/MacKenzie_High_School/Deep_River/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "285/627",
+  "name" : "Bishop Smith",
+  "city" : "Pembroke",
+  "rating" : "6.6",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Bishop_Smith_Catholic_High_School/Pembroke/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "311/627",
+  "name" : "Monarch Park",
+  "city" : "Toronto",
+  "rating" : "6.6",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Monarch_Park_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "335/627",
+  "name" : "Lakeshore",
+  "city" : "Port Colborne",
+  "rating" : "6.6",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Lakeshore_Catholic_High_School/Port_Colborne/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "396/627",
+  "name" : "Huron Heights",
+  "city" : "Newmarket",
+  "rating" : "6.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Huron_Heights_Secondary_School/Newmarket/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "410/627",
+  "name" : "St Thomas Aquinas",
+  "city" : "Tottenham",
+  "rating" : "6.6",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/St_Thomas_Aquinas_Catholic_Secondary_School/Tottenham/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "440/627",
+  "name" : "North Lambton",
+  "city" : "Forest",
+  "rating" : "6.6",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/North_Lambton_Secondary_School/Forest/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "483/627",
+  "name" : "Deslauriers",
+  "city" : "Nepean",
+  "rating" : "6.6",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_Deslauriers/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "n/a",
+  "name" : "Jean Vanier",
+  "city" : "Milton",
+  "rating" : "6.6",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Jean_Vanier_Catholic_Secondary_School/Milton/Report_Card.aspx"
+}, {
+  "rank" : "272/676",
+  "rankIn5" : "n/a",
+  "name" : "Saint-Frère-André",
+  "city" : "Toronto",
+  "rating" : "6.6",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89SC_Saint-Fr%c3%a8re-Andr%c3%a9/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "192/627",
+  "name" : "Louis-Riel",
+  "city" : "Gloucester",
+  "rating" : "6.5",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_Louis-Riel/Gloucester/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "192/627",
+  "name" : "Sir Frederick Banting",
+  "city" : "London",
+  "rating" : "6.5",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Sir_Frederick_Banting_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "209/627",
+  "name" : "Brockville",
+  "city" : "Brockville",
+  "rating" : "6.5",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Brockville_Collegiate_Institute/Brockville/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "209/627",
+  "name" : "St Paul",
+  "city" : "Trenton",
+  "rating" : "6.5",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/St_Paul_Catholic_Secondary_School/Trenton/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "226/627",
+  "name" : "Bell",
+  "city" : "Nepean",
+  "rating" : "6.5",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Bell_High_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "226/627",
+  "name" : "Chatham-Kent",
+  "city" : "Chatham",
+  "rating" : "6.5",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Chatham-Kent_Secondary_School/Chatham/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "226/627",
+  "name" : "Father Bressani",
+  "city" : "Woodbridge",
+  "rating" : "6.5",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Father_Bressani_Catholic_High_School/Woodbridge/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "253/627",
+  "name" : "Barrie North",
+  "city" : "Barrie",
+  "rating" : "6.5",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Barrie_North_Collegiate_Institute/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "253/627",
+  "name" : "St. Roch",
+  "city" : "Brampton",
+  "rating" : "6.5",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/St._Roch_Catholic_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "269/627",
+  "name" : "South Lincoln",
+  "city" : "Smithville",
+  "rating" : "6.5",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/South_Lincoln_High_School/Smithville/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "285/627",
+  "name" : "St Marguerite d'Youville",
+  "city" : "Brampton",
+  "rating" : "6.5",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/St_Marguerite_d'Youville_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "311/627",
+  "name" : "Holy Cross",
+  "city" : "Woodbridge",
+  "rating" : "6.5",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Holy_Cross_Catholic_Academy_High_School/Woodbridge/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "335/627",
+  "name" : "St Stephen's",
+  "city" : "Bowmanville",
+  "rating" : "6.5",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/St._Stephen's_Secondary_School/Bowmanville/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "365/627",
+  "name" : "Franco-Cité",
+  "city" : "Sturgeon Falls",
+  "rating" : "6.5",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Franco-Cit%c3%a9/Sturgeon_Falls/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "365/627",
+  "name" : "Theriault",
+  "city" : "Timmins",
+  "rating" : "6.5",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Theriault/Timmins/Report_Card.aspx"
+}, {
+  "rank" : "289/676",
+  "rankIn5" : "396/627",
+  "name" : "Cardinal Carter",
+  "city" : "Leamington",
+  "rating" : "6.5",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Cardinal_Carter_Catholic/Leamington/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "147/627",
+  "name" : "Bayside",
+  "city" : "Belleville",
+  "rating" : "6.4",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Bayside_Secondary_School/Belleville/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "164/627",
+  "name" : "Franco-Ouest",
+  "city" : "Nepean",
+  "rating" : "6.4",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Coll%c3%a8ge_catholique_Franco-Ouest/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "164/627",
+  "name" : "Peninsula Shores",
+  "city" : "Wiarton",
+  "rating" : "6.4",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Peninsula_Shores_District_School/Wiarton/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "179/627",
+  "name" : "de Casselman",
+  "city" : "Casselman",
+  "rating" : "6.4",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_de_Casselman/Casselman/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "192/627",
+  "name" : "Banting Memorial",
+  "city" : "Alliston",
+  "rating" : "6.4",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Banting_Memorial_District_High_School/Alliston/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "192/627",
+  "name" : "Cardinal Newman",
+  "city" : "Stoney Creek",
+  "rating" : "6.4",
+  "ratingIn5" : "6.9",
+  "url" : "/secondary/Cardinal_Newman_Catholic_Secondary_School/Stoney_Creek/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "226/627",
+  "name" : "Listowel",
+  "city" : "Listowel",
+  "rating" : "6.4",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Listowel_District_Secondary_School/Listowel/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "226/627",
+  "name" : "St Marys",
+  "city" : "St Marys",
+  "rating" : "6.4",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/St_Marys_District_Collegiate_and_Vocational_Instit/St_Marys/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "253/627",
+  "name" : "Frontenac",
+  "city" : "Kingston",
+  "rating" : "6.4",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Frontenac_Secondary_School/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "269/627",
+  "name" : "Lambton Central",
+  "city" : "Petrolia",
+  "rating" : "6.4",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Lambton_Central_Collegiate_and_Vocational_Institut/Petrolia/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "269/627",
+  "name" : "Robert F Hall",
+  "city" : "Caledon East",
+  "rating" : "6.4",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Robert_F_Hall_Catholic_Secondary_School/Caledon_East/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "285/627",
+  "name" : "Arnprior",
+  "city" : "Arnprior",
+  "rating" : "6.4",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Arnprior_District_High_School/Arnprior/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "285/627",
+  "name" : "Notre Dame",
+  "city" : "Brampton",
+  "rating" : "6.4",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Notre_Dame_Catholic_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "326/627",
+  "name" : "Grand River",
+  "city" : "Kitchener",
+  "rating" : "6.4",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Grand_River_Collegiate_Institute/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "326/627",
+  "name" : "St Thomas Aquinas",
+  "city" : "Brampton",
+  "rating" : "6.4",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/St_Thomas_Aquinas_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "351/627",
+  "name" : "Simcoe",
+  "city" : "Simcoe",
+  "rating" : "6.4",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Simcoe_Composite_School/Simcoe/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "351/627",
+  "name" : "Westside",
+  "city" : "Orangeville",
+  "rating" : "6.4",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Westside_Secondary_School/Orangeville/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "365/627",
+  "name" : "East Northumberland",
+  "city" : "Brighton",
+  "rating" : "6.4",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/East_Northumberland_Secondary_School/Brighton/Report_Card.aspx"
+}, {
+  "rank" : "305/676",
+  "rankIn5" : "410/627",
+  "name" : "Plantagenet",
+  "city" : "Plantagenet",
+  "rating" : "6.4",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_de_Plantagenet/Plantagenet/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "179/627",
+  "name" : "Cardinal Ambrozic",
+  "city" : "Brampton",
+  "rating" : "6.3",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/Cardinal_Ambrozic_Catholic_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "226/627",
+  "name" : "Pain Court",
+  "city" : "Pain Court",
+  "rating" : "6.3",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_%c3%89cole_secondaire_de_Pa/Pain_Court/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "226/627",
+  "name" : "St Michael",
+  "city" : "Stratford",
+  "rating" : "6.3",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/St_Michael_Catholic_Secondary_School/Stratford/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "269/627",
+  "name" : "Gabriel-Dumont",
+  "city" : "London",
+  "rating" : "6.3",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/%c3%89cole_secondaire_Gabriel-Dumont/London/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "285/627",
+  "name" : "Notre Dame",
+  "city" : "Welland",
+  "rating" : "6.3",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Notre_Dame_College_School/Welland/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "285/627",
+  "name" : "Rideau",
+  "city" : "Elgin",
+  "rating" : "6.3",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Rideau_District_High_School/Elgin/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "351/627",
+  "name" : "Sacred Heart",
+  "city" : "Walkerton",
+  "rating" : "6.3",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Sacred_Heart_High_School/Walkerton/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "351/627",
+  "name" : "St Mary",
+  "city" : "Pickering",
+  "rating" : "6.3",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/St_Mary_Catholic_Secondary_School/Pickering/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "365/627",
+  "name" : "Silverthorn",
+  "city" : "Toronto",
+  "rating" : "6.3",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Silverthorn_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "379/627",
+  "name" : "Kitchener Waterloo",
+  "city" : "Kitchener",
+  "rating" : "6.3",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Kitchener_Waterloo_Collegiate_and_Vocational_Schoo/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "426/627",
+  "name" : "Korah",
+  "city" : "Sault Ste. Marie",
+  "rating" : "6.3",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Korah_Collegiate_Institute/Sault_Ste._Marie/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "496/627",
+  "name" : "Campbellford",
+  "city" : "Campbellford",
+  "rating" : "6.3",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Campbellford_District_High_School/Campbellford/Report_Card.aspx"
+}, {
+  "rank" : "324/676",
+  "rankIn5" : "n/a",
+  "name" : "Jean-Vanier",
+  "city" : "Kirkland Lake",
+  "rating" : "6.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Jean-Vanier/Kirkland_Lake/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "164/627",
+  "name" : "Jean Vanier",
+  "city" : "Collingwood",
+  "rating" : "6.2",
+  "ratingIn5" : "7.1",
+  "url" : "/secondary/Jean_Vanier_Catholic_High_School/Collingwood/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "209/627",
+  "name" : "Monseigneur-de-Charbonnel",
+  "city" : "Toronto",
+  "rating" : "6.2",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/%c3%89SC_Monseigneur-de-Charbonnel/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "209/627",
+  "name" : "Sir Oliver Mowat",
+  "city" : "Toronto",
+  "rating" : "6.2",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Sir_Oliver_Mowat_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "226/627",
+  "name" : "Cameron Heights",
+  "city" : "Kitchener",
+  "rating" : "6.2",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Cameron_Heights_Collegiate_Institute/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "226/627",
+  "name" : "Father Leo J Austin",
+  "city" : "Whitby",
+  "rating" : "6.2",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Father_Leo_J_Austin_Catholic_Secondary_School/Whitby/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "253/627",
+  "name" : "Woburn",
+  "city" : "Toronto",
+  "rating" : "6.2",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Woburn_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "269/627",
+  "name" : "Bayridge",
+  "city" : "Kingston",
+  "rating" : "6.2",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Bayridge_Secondary_School/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "269/627",
+  "name" : "Strathroy District",
+  "city" : "Strathroy",
+  "rating" : "6.2",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Strathroy_District_Collegiate_Institute/Strathroy/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "285/627",
+  "name" : "Mère-Teresa",
+  "city" : "Hamilton",
+  "rating" : "6.2",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89SAC_M%c3%a8re-Teresa/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "285/627",
+  "name" : "St Paul",
+  "city" : "Mississauga",
+  "rating" : "6.2",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/St_Paul_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "311/627",
+  "name" : "Nouvelle-Alliance",
+  "city" : "Barrie",
+  "rating" : "6.2",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89SC_Nouvelle-Alliance/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "326/627",
+  "name" : "Bishop Ryan",
+  "city" : "Hamilton",
+  "rating" : "6.2",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/Bishop_Ryan_Catholic_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "335/627",
+  "name" : "Cardinal Newman",
+  "city" : "Toronto",
+  "rating" : "6.2",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Cardinal_Newman_Catholic_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "335/627",
+  "name" : "John Diefenbaker",
+  "city" : "Hanover",
+  "rating" : "6.2",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/John_Diefenbaker_Secondary_School/Hanover/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "351/627",
+  "name" : "Barrie Central",
+  "city" : "Barrie",
+  "rating" : "6.2",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Barrie_Central_Collegiate_Institute/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "351/627",
+  "name" : "St Mary's",
+  "city" : "Toronto",
+  "rating" : "6.2",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/St_Mary's_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "365/627",
+  "name" : "St Charles",
+  "city" : "Sudbury",
+  "rating" : "6.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/St_Charles_College/Sudbury/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "365/627",
+  "name" : "St Patrick",
+  "city" : "Thunder Bay",
+  "rating" : "6.2",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/St_Patrick_High_School/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "379/627",
+  "name" : "St Benedict",
+  "city" : "Cambridge",
+  "rating" : "6.2",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/St_Benedict_Catholic_Secondary_School/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "396/627",
+  "name" : "Saltfleet",
+  "city" : "Stoney Creek",
+  "rating" : "6.2",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Saltfleet_High_School/Stoney_Creek/Report_Card.aspx"
+}, {
+  "rank" : "337/676",
+  "rankIn5" : "464/627",
+  "name" : "Ridgetown",
+  "city" : "Ridgetown",
+  "rating" : "6.2",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Ridgetown_District_High_School/Ridgetown/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "209/627",
+  "name" : "Burlington Central",
+  "city" : "Burlington",
+  "rating" : "6.1",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/Burlington_Central_High_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "226/627",
+  "name" : "Charlottenburgh and Lancaster",
+  "city" : "Williamstown",
+  "rating" : "6.1",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Charlottenburgh_and_Lancaster_District_High_School/Williamstown/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "226/627",
+  "name" : "Lindsay",
+  "city" : "Lindsay",
+  "rating" : "6.1",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Lindsay_Collegiate_and_Vocational_Institute/Lindsay/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "253/627",
+  "name" : "Preston",
+  "city" : "Cambridge",
+  "rating" : "6.1",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Preston_High_School/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "311/627",
+  "name" : "Cité des Jeunes",
+  "city" : "Kapuskasing",
+  "rating" : "6.1",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/%c3%89cole_secondaire_Cit%c3%a9_des_Jeunes/Kapuskasing/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "326/627",
+  "name" : "L'Escale",
+  "city" : "Rockland",
+  "rating" : "6.1",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_L'Escale/Rockland/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "335/627",
+  "name" : "St Joseph-Scollard Hall",
+  "city" : "North Bay",
+  "rating" : "6.1",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/St_Joseph-Scollard_Hall_Secondary_School/North_Bay/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "351/627",
+  "name" : "Central Huron",
+  "city" : "Clinton",
+  "rating" : "6.1",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Central_Huron_Secondary_School/Clinton/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "396/627",
+  "name" : "Essex",
+  "city" : "Essex",
+  "rating" : "6.1",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Essex_District_High_School/Essex/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "410/627",
+  "name" : "Galt",
+  "city" : "Cambridge",
+  "rating" : "6.1",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Galt_Collegiate_and_Vocational_Institute/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "458/627",
+  "name" : "Saint-Charles-Garnier",
+  "city" : "Whitby",
+  "rating" : "6.1",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/%c3%89SC_Saint-Charles-Garnier/Whitby/Report_Card.aspx"
+}, {
+  "rank" : "358/676",
+  "rankIn5" : "n/a",
+  "name" : "Roméo Dallaire",
+  "city" : "Barrie",
+  "rating" : "6.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Rom%c3%a9o_Dallaire/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "147/627",
+  "name" : "Kingsville",
+  "city" : "Kingsville",
+  "rating" : "6.0",
+  "ratingIn5" : "7.2",
+  "url" : "/secondary/Kingsville_District_High_School_District_High_Scho/Kingsville/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "179/627",
+  "name" : "St Thomas Aquinas",
+  "city" : "Kenora",
+  "rating" : "6.0",
+  "ratingIn5" : "7.0",
+  "url" : "/secondary/St_Thomas_Aquinas_High_School/Kenora/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "253/627",
+  "name" : "Central Elgin",
+  "city" : "St Thomas",
+  "rating" : "6.0",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Central_Elgin_Collegiate_Institute/St_Thomas/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "269/627",
+  "name" : "Mother Teresa",
+  "city" : "London",
+  "rating" : "6.0",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Mother_Teresa_Catholic_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "285/627",
+  "name" : "Holy Trinity",
+  "city" : "Bradford",
+  "rating" : "6.0",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Holy_Trinity_High_School/Bradford/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "285/627",
+  "name" : "Saugeen",
+  "city" : "Port Elgin",
+  "rating" : "6.0",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Saugeen_District_Secondary_School/Port_Elgin/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "285/627",
+  "name" : "St Mary's",
+  "city" : "Woodstock",
+  "rating" : "6.0",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/St_Mary's_High_School/Woodstock/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "326/627",
+  "name" : "St Paul",
+  "city" : "Ottawa",
+  "rating" : "6.0",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/St_Paul_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "365/627",
+  "name" : "Notre Dame",
+  "city" : "Ajax",
+  "rating" : "6.0",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Notre_Dame_Catholic_Secondary_School/Ajax/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "379/627",
+  "name" : "Jacob Hespeler",
+  "city" : "Cambridge",
+  "rating" : "6.0",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Jacob_Hespeler_Secondary_School/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "440/627",
+  "name" : "Bishop Alexander Carter",
+  "city" : "Hanmer",
+  "rating" : "6.0",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Bishop_Alexander_Carter_Catholic_Secondary_School/Hanmer/Report_Card.aspx"
+}, {
+  "rank" : "370/676",
+  "rankIn5" : "n/a",
+  "name" : "Pierre-Savard",
+  "city" : "Nepean",
+  "rating" : "6.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Pierre-Savard/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "285/627",
+  "name" : "Hearst",
+  "city" : "Hearst",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/%c3%89cole_secondaire_Hearst/Hearst/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "285/627",
+  "name" : "Huron Heights",
+  "city" : "Kitchener",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Huron_Heights_Secondary_School/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "311/627",
+  "name" : "Cardinal Leger",
+  "city" : "Brampton",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Cardinal_Leger_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "311/627",
+  "name" : "Leamington",
+  "city" : "Leamington",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Leamington_District_Secondary_School/Leamington/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "311/627",
+  "name" : "Patrick Fogarty",
+  "city" : "Orillia",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Patrick_Fogarty_Secondary_School/Orillia/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "311/627",
+  "name" : "Pope John Paul II",
+  "city" : "Toronto",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Pope_John_Paul_II_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "311/627",
+  "name" : "St Augustine",
+  "city" : "Brampton",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/St_Augustine_Secondary_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "335/627",
+  "name" : "Westlane",
+  "city" : "Niagara Falls",
+  "rating" : "5.9",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Westlane_Secondary_School/Niagara_Falls/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "351/627",
+  "name" : "Fenelon Falls",
+  "city" : "Fenelon Falls",
+  "rating" : "5.9",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Fenelon_Falls_Secondary_School/Fenelon_Falls/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "351/627",
+  "name" : "l'Essor",
+  "city" : "Tecumseh",
+  "rating" : "5.9",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_l'Essor/Tecumseh/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "379/627",
+  "name" : "Glendale",
+  "city" : "Tillsonburg",
+  "rating" : "5.9",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Glendale_High_School/Tillsonburg/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "379/627",
+  "name" : "Thomas A Stewart",
+  "city" : "Peterborough",
+  "rating" : "5.9",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Thomas_A_Stewart_Secondary_School/Peterborough/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "410/627",
+  "name" : "Madonna",
+  "city" : "Toronto",
+  "rating" : "5.9",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Madonna_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "410/627",
+  "name" : "Monsignor Doyle",
+  "city" : "Cambridge",
+  "rating" : "5.9",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Monsignor_Doyle_Catholic_Secondary_School/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "410/627",
+  "name" : "Timiskaming District",
+  "city" : "New Liskeard",
+  "rating" : "5.9",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Timiskaming_District_Secondary_School/New_Liskeard/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "426/627",
+  "name" : "St Joseph's",
+  "city" : "St Thomas",
+  "rating" : "5.9",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/St_Joseph's_High_School/St_Thomas/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "440/627",
+  "name" : "Goderich District",
+  "city" : "Goderich",
+  "rating" : "5.9",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Goderich_District_Collegiate_Institute/Goderich/Report_Card.aspx"
+}, {
+  "rank" : "382/676",
+  "rankIn5" : "473/627",
+  "name" : "Fort Frances",
+  "city" : "Fort Frances",
+  "rating" : "5.9",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Fort_Frances_High_School/Fort_Frances/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "253/627",
+  "name" : "Centennial",
+  "city" : "Belleville",
+  "rating" : "5.8",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Centennial_Secondary_School/Belleville/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "285/627",
+  "name" : "Acton",
+  "city" : "Acton",
+  "rating" : "5.8",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Acton_District_High_School/Acton/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "335/627",
+  "name" : "Parkside",
+  "city" : "St Thomas",
+  "rating" : "5.8",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Parkside_Collegiate_Institute/St_Thomas/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "351/627",
+  "name" : "Sir Winston Churchill",
+  "city" : "Thunder Bay",
+  "rating" : "5.8",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Sir_Winston_Churchill_Collegiate_and_Vocational_In/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "351/627",
+  "name" : "St Josephs Morrow Park",
+  "city" : "Toronto",
+  "rating" : "5.8",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/St_Josephs_Morrow_Park_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "365/627",
+  "name" : "Centre Dufferin",
+  "city" : "Shelburne",
+  "rating" : "5.8",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Centre_Dufferin_District_High_School/Shelburne/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "379/627",
+  "name" : "Catholic Central",
+  "city" : "London",
+  "rating" : "5.8",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Catholic_Central_High_School/London/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "396/627",
+  "name" : "Beamsville",
+  "city" : "Beamsville",
+  "rating" : "5.8",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Beamsville_District_Secondary_School/Beamsville/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "396/627",
+  "name" : "Bear Creek",
+  "city" : "Barrie",
+  "rating" : "5.8",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Bear_Creek_Secondary_School/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "410/627",
+  "name" : "Georgian Bay",
+  "city" : "Meaford",
+  "rating" : "5.8",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Georgian_Bay_Secondary_School/Meaford/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "410/627",
+  "name" : "Laura Secord",
+  "city" : "St Catharines",
+  "rating" : "5.8",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Laura_Secord_Secondary_School/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "440/627",
+  "name" : "W F Herman",
+  "city" : "Windsor",
+  "rating" : "5.8",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/W_F_Herman_Secondary_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "464/627",
+  "name" : "Huron Park",
+  "city" : "Woodstock",
+  "rating" : "5.8",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Huron_Park_Secondary_School/Woodstock/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "496/627",
+  "name" : "West Humber",
+  "city" : "Toronto",
+  "rating" : "5.8",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/West_Humber_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "400/676",
+  "rankIn5" : "558/627",
+  "name" : "West Ferris",
+  "city" : "North Bay",
+  "rating" : "5.8",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/West_Ferris_Secondary_School/North_Bay/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "226/627",
+  "name" : "Hillcrest",
+  "city" : "Ottawa",
+  "rating" : "5.7",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/Hillcrest_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "226/627",
+  "name" : "St Theresa",
+  "city" : "Belleville",
+  "rating" : "5.7",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/St_Theresa_Catholic_Secondary_School/Belleville/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "253/627",
+  "name" : "Moira",
+  "city" : "Belleville",
+  "rating" : "5.7",
+  "ratingIn5" : "6.6",
+  "url" : "/secondary/Moira_Secondary_School/Belleville/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "269/627",
+  "name" : "Elliot Lake",
+  "city" : "Elliot Lake",
+  "rating" : "5.7",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/Elliot_Lake_Secondary_School/Elliot_Lake/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "285/627",
+  "name" : "Collingwood",
+  "city" : "Collingwood",
+  "rating" : "5.7",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/Collingwood_Collegiate_Institute/Collingwood/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "379/627",
+  "name" : "Bowmanville",
+  "city" : "Bowmanville",
+  "rating" : "5.7",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Bowmanville_High_School/Bowmanville/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "379/627",
+  "name" : "St Thomas More",
+  "city" : "Hamilton",
+  "rating" : "5.7",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/St_Thomas_More_Catholic_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "410/627",
+  "name" : "St Joan of Arc",
+  "city" : "Maple",
+  "rating" : "5.7",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/St_Joan_of_Arc_Catholic_High_School/Maple/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "440/627",
+  "name" : "Carleton Place",
+  "city" : "Carleton Place",
+  "rating" : "5.7",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Carleton_Place_High_School/Carleton_Place/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "496/627",
+  "name" : "Owen Sound",
+  "city" : "Owen Sound",
+  "rating" : "5.7",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Owen_Sound_Collegiate_and_Vocational_Institute/Owen_Sound/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "n/a",
+  "name" : "Granite Ridge",
+  "city" : "Sharbot Lake",
+  "rating" : "5.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Granite_Ridge_Education_Centre_Secondary_School/Sharbot_Lake/Report_Card.aspx"
+}, {
+  "rank" : "415/676",
+  "rankIn5" : "n/a",
+  "name" : "Michel-Gratton",
+  "city" : "Windsor",
+  "rating" : "5.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Michel-Gratton/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "226/627",
+  "name" : "La Citadelle",
+  "city" : "Cornwall",
+  "rating" : "5.6",
+  "ratingIn5" : "6.7",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_La_Citadelle/Cornwall/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "269/627",
+  "name" : "E.J.Lajeunesse",
+  "city" : "Windsor",
+  "rating" : "5.6",
+  "ratingIn5" : "6.5",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_E.J.Lajeunesse/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "326/627",
+  "name" : "L'Amoreaux",
+  "city" : "Toronto",
+  "rating" : "5.6",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/L'Amoreaux_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "351/627",
+  "name" : "Wexford Collegiate School for the Arts",
+  "city" : "Toronto",
+  "rating" : "5.6",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Wexford_Collegiate_School_for_the_Arts/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "365/627",
+  "name" : "Sainte-Marie",
+  "city" : "New Liskeard",
+  "rating" : "5.6",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/%c3%89cole_secondaire_Sainte-Marie/New_Liskeard/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "365/627",
+  "name" : "Saunders",
+  "city" : "London",
+  "rating" : "5.6",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Saunders_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "365/627",
+  "name" : "St Jean de Brebeuf",
+  "city" : "Woodbridge",
+  "rating" : "5.6",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/St_Jean_de_Brebeuf/Woodbridge/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "379/627",
+  "name" : "Paris",
+  "city" : "Paris",
+  "rating" : "5.6",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Paris_District_High_School/Paris/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "396/627",
+  "name" : "Chippewa",
+  "city" : "North Bay",
+  "rating" : "5.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Chippewa_Secondary_School/North_Bay/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "396/627",
+  "name" : "Gloucester",
+  "city" : "Gloucester",
+  "rating" : "5.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Gloucester_High_School/Gloucester/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "396/627",
+  "name" : "Notre Dame",
+  "city" : "Ottawa",
+  "rating" : "5.6",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Notre_Dame_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "426/627",
+  "name" : "Lambton Kent",
+  "city" : "Dresden",
+  "rating" : "5.6",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Lambton_Kent_Composite_School/Dresden/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "440/627",
+  "name" : "Thistletown",
+  "city" : "Toronto",
+  "rating" : "5.6",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Thistletown_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "458/627",
+  "name" : "Loyalist",
+  "city" : "Kingston",
+  "rating" : "5.6",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Loyalist_Collegiate_and_Vocational_Institute/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "473/627",
+  "name" : "Catholic Central",
+  "city" : "Windsor",
+  "rating" : "5.6",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Catholic_Central/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "483/627",
+  "name" : "Monsignor Paul Dwyer",
+  "city" : "Oshawa",
+  "rating" : "5.6",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Monsignor_Paul_Dwyer_Catholic_High_School/Oshawa/Report_Card.aspx"
+}, {
+  "rank" : "427/676",
+  "rankIn5" : "n/a",
+  "name" : "Cobourg Collegiate Institute",
+  "city" : "Cobourg",
+  "rating" : "5.6",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Cobourg_Collegiate_Institute/Cobourg/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "311/627",
+  "name" : "Hammarskjold",
+  "city" : "Thunder Bay",
+  "rating" : "5.5",
+  "ratingIn5" : "6.3",
+  "url" : "/secondary/Hammarskjold_High_School/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "335/627",
+  "name" : "Ascension of Our Lord",
+  "city" : "Mississauga",
+  "rating" : "5.5",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Ascension_of_Our_Lord_Secondary_School/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "351/627",
+  "name" : "Jean Vanier",
+  "city" : "Toronto",
+  "rating" : "5.5",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/Jean_Vanier_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "379/627",
+  "name" : "Brebeuf",
+  "city" : "Toronto",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Brebeuf_College_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "379/627",
+  "name" : "Harrow",
+  "city" : "Harrow",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Harrow_District_High_School/Harrow/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "379/627",
+  "name" : "St Joan of Arc",
+  "city" : "Barrie",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/St_Joan_of_Arc_High_School/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "379/627",
+  "name" : "Thousand Islands",
+  "city" : "Brockville",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Thousand_Islands_Secondary_School/Brockville/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "396/627",
+  "name" : "London South",
+  "city" : "London",
+  "rating" : "5.5",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/London_South_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "410/627",
+  "name" : "Our Lady of the Lake",
+  "city" : "Keswick",
+  "rating" : "5.5",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Our_Lady_of_the_Lake_Catholic_College_High_School/Keswick/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "426/627",
+  "name" : "Delhi",
+  "city" : "Delhi",
+  "rating" : "5.5",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Delhi_District_Secondary_School/Delhi/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "483/627",
+  "name" : "Collège Notre-Dame",
+  "city" : "Sudbury",
+  "rating" : "5.5",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Coll%c3%a8ge_Notre-Dame/Sudbury/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "483/627",
+  "name" : "Sir Wilfrid Laurier",
+  "city" : "Toronto",
+  "rating" : "5.5",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Sir_Wilfrid_Laurier_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "n/a",
+  "name" : "Al-Risala",
+  "city" : "Mississauga",
+  "rating" : "5.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Al-Risala_Academy/Mississauga/Report_Card.aspx"
+}, {
+  "rank" : "444/676",
+  "rankIn5" : "n/a",
+  "name" : "Nottawasaga Pines",
+  "city" : "Angus",
+  "rating" : "5.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Nottawasaga_Pines_Secondary_School/Angus/Report_Card.aspx"
+}, {
+  "rank" : "458/676",
+  "rankIn5" : "326/627",
+  "name" : "St Mary's",
+  "city" : "Owen Sound",
+  "rating" : "5.4",
+  "ratingIn5" : "6.2",
+  "url" : "/secondary/St_Mary's_High_School/Owen_Sound/Report_Card.aspx"
+}, {
+  "rank" : "458/676",
+  "rankIn5" : "410/627",
+  "name" : "Holy Cross",
+  "city" : "Strathroy",
+  "rating" : "5.4",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Holy_Cross_Catholic_Secondary_School/Strathroy/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "285/627",
+  "name" : "St Francis Xavier",
+  "city" : "Hammond",
+  "rating" : "5.3",
+  "ratingIn5" : "6.4",
+  "url" : "/secondary/St_Francis_Xavier_Catholic_High_School/Hammond/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "335/627",
+  "name" : "Chaminade",
+  "city" : "Toronto",
+  "rating" : "5.3",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Chaminade_College_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "335/627",
+  "name" : "Rockland",
+  "city" : "Rockland",
+  "rating" : "5.3",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Rockland_District_High_School/Rockland/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "410/627",
+  "name" : "Widdifield",
+  "city" : "North Bay",
+  "rating" : "5.3",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Widdifield_Secondary_School/North_Bay/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "426/627",
+  "name" : "Parry Sound",
+  "city" : "Parry Sound",
+  "rating" : "5.3",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Parry_Sound_High_School/Parry_Sound/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "426/627",
+  "name" : "Wellington Heights",
+  "city" : "Mount Forest",
+  "rating" : "5.3",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Wellington_Heights_Secondary_School/Mount_Forest/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "440/627",
+  "name" : "Forest Heights",
+  "city" : "Kitchener",
+  "rating" : "5.3",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Forest_Heights_Collegiate_Institute/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "440/627",
+  "name" : "Monseigneur-Bruyère",
+  "city" : "London",
+  "rating" : "5.3",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_%c3%89cole_secondaire_Monse/London/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "473/627",
+  "name" : "Perth and District",
+  "city" : "Perth",
+  "rating" : "5.3",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Perth_and_District_Collegiate_Institute/Perth/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "496/627",
+  "name" : "Russel High",
+  "city" : "Russell",
+  "rating" : "5.3",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Russell_High_School/Russell/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "496/627",
+  "name" : "Thorold",
+  "city" : "Thorold",
+  "rating" : "5.3",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Thorold_Secondary_School/Thorold/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "542/627",
+  "name" : "James Cardinal McGuigan",
+  "city" : "Toronto",
+  "rating" : "5.3",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/James_Cardinal_McGuigan_Catholic_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "460/676",
+  "rankIn5" : "n/a",
+  "name" : "Marc-Garneau",
+  "city" : "Trenton",
+  "rating" : "5.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_publique_Marc-Garneau/Trenton/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "396/627",
+  "name" : "Westgate",
+  "city" : "Thunder Bay",
+  "rating" : "5.2",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Westgate_Collegiate_and_Vocational_Institute/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "410/627",
+  "name" : "Seaway",
+  "city" : "Iroquois",
+  "rating" : "5.2",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/Seaway_District_High_School/Iroquois/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "410/627",
+  "name" : "St Clair",
+  "city" : "Sarnia",
+  "rating" : "5.2",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/St_Clair_Secondary_School/Sarnia/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "410/627",
+  "name" : "St Mary's",
+  "city" : "Sault Ste. Marie",
+  "rating" : "5.2",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/St_Mary's_College/Sault_Ste._Marie/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "473/627",
+  "name" : "Twin Lakes",
+  "city" : "Orillia",
+  "rating" : "5.2",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Twin_Lakes_Secondary_School/Orillia/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "496/627",
+  "name" : "Smiths Falls District",
+  "city" : "Smiths Falls",
+  "rating" : "5.2",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Smiths_Falls_District_Collegiate_Institute/Smiths_Falls/Report_Card.aspx"
+}, {
+  "rank" : "473/676",
+  "rankIn5" : "519/627",
+  "name" : "St Patrick's",
+  "city" : "Ottawa",
+  "rating" : "5.2",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/St_Patrick's_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "351/627",
+  "name" : "St Jean de Brebeuf",
+  "city" : "Hamilton",
+  "rating" : "5.1",
+  "ratingIn5" : "6.0",
+  "url" : "/secondary/St_Jean_de_Brebeuf_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "379/627",
+  "name" : "Lester B Pearson",
+  "city" : "Toronto",
+  "rating" : "5.1",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Lester_B_Pearson_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "396/627",
+  "name" : "Ingersoll District",
+  "city" : "Ingersoll",
+  "rating" : "5.1",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Ingersoll_District_Collegiate_Institute/Ingersoll/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "426/627",
+  "name" : "Algonquin",
+  "city" : "North Bay",
+  "rating" : "5.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Algonquin/North_Bay/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "426/627",
+  "name" : "Almonte",
+  "city" : "Almonte",
+  "rating" : "5.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Almonte_District_High_School/Almonte/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "426/627",
+  "name" : "F E Madill",
+  "city" : "Wingham",
+  "rating" : "5.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/F_E_Madill_Secondary_School/Wingham/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "426/627",
+  "name" : "M M Robinson",
+  "city" : "Burlington",
+  "rating" : "5.1",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/M_M_Robinson_High_School/Burlington/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "464/627",
+  "name" : "Monsignor John Pereyma",
+  "city" : "Oshawa",
+  "rating" : "5.1",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Monsignor_John_Pereyma_Catholic_Secondary_School/Oshawa/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "473/627",
+  "name" : "Sherwood",
+  "city" : "Hamilton",
+  "rating" : "5.1",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Sherwood_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "496/627",
+  "name" : "Dante Alighieri",
+  "city" : "Toronto",
+  "rating" : "5.1",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Dante_Alighieri_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "513/627",
+  "name" : "Nantyr Shores",
+  "city" : "Innisfil",
+  "rating" : "5.1",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Nantyr_Shores_Secondary_School/Innisfil/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "513/627",
+  "name" : "Woodstock",
+  "city" : "Woodstock",
+  "rating" : "5.1",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Woodstock_Collegiate_Institute/Woodstock/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "542/627",
+  "name" : "Loretto",
+  "city" : "Toronto",
+  "rating" : "5.1",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Loretto_College_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "558/627",
+  "name" : "Dunnville",
+  "city" : "Dunnville",
+  "rating" : "5.1",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Dunnville_Secondary_School/Dunnville/Report_Card.aspx"
+}, {
+  "rank" : "480/676",
+  "rankIn5" : "n/a",
+  "name" : "Abraar",
+  "city" : "Ottawa",
+  "rating" : "5.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Abraar_Private_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "379/627",
+  "name" : "Stephen Leacock",
+  "city" : "Toronto",
+  "rating" : "5.0",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Stephen_Leacock_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "440/627",
+  "name" : "Ernestown",
+  "city" : "Odessa",
+  "rating" : "5.0",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Ernestown_Secondary_School/Odessa/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "473/627",
+  "name" : "Fellowes",
+  "city" : "Pembroke",
+  "rating" : "5.0",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Fellowes_High_School/Pembroke/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "496/627",
+  "name" : "St Theresa's",
+  "city" : "Midland",
+  "rating" : "5.0",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/St_Theresa's_Separate_School/Midland/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "507/627",
+  "name" : "Jarvis",
+  "city" : "Toronto",
+  "rating" : "5.0",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Jarvis_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "519/627",
+  "name" : "McKinnon Park",
+  "city" : "Caledonia",
+  "rating" : "5.0",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/McKinnon_Park_Secondary_School/Caledonia/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "519/627",
+  "name" : "Sir Wilfrid Laurier",
+  "city" : "London",
+  "rating" : "5.0",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Sir_Wilfrid_Laurier_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "534/627",
+  "name" : "Valley Heights",
+  "city" : "Langton",
+  "rating" : "5.0",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Valley_Heights_Secondary_School/Langton/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "542/627",
+  "name" : "Blessed Mother Teresa",
+  "city" : "Toronto",
+  "rating" : "5.0",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Blessed_Mother_Teresa_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "550/627",
+  "name" : "O'Gorman",
+  "city" : "Timmins",
+  "rating" : "5.0",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/O'Gorman_High_School/Timmins/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "592/627",
+  "name" : "C W Jefferys",
+  "city" : "Toronto",
+  "rating" : "5.0",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/C_W_Jefferys_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "495/676",
+  "rankIn5" : "n/a",
+  "name" : "de la Verendrye",
+  "city" : "Thunder Bay",
+  "rating" : "5.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_de_La_V%c3%a9rendrye/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "209/627",
+  "name" : "Embrun",
+  "city" : "Embrun",
+  "rating" : "4.9",
+  "ratingIn5" : "6.8",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Embrun/Embrun/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "365/627",
+  "name" : "Holy Cross",
+  "city" : "Peterborough",
+  "rating" : "4.9",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/Holy_Cross_Catholic_Secondary_School/Peterborough/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "410/627",
+  "name" : "St Joseph's",
+  "city" : "Barrie",
+  "rating" : "4.9",
+  "ratingIn5" : "5.6",
+  "url" : "/secondary/St_Joseph's_Separate_School/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "426/627",
+  "name" : "Riverside",
+  "city" : "Windsor",
+  "rating" : "4.9",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Riverside_Secondary_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "440/627",
+  "name" : "Archbishop Denis O'Connor",
+  "city" : "Ajax",
+  "rating" : "4.9",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Archbishop_Denis_O'Connor_Catholic_High_School/Ajax/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "440/627",
+  "name" : "Brantford",
+  "city" : "Brantford",
+  "rating" : "4.9",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Brantford_Collegiate_Institute_and_Vocational_Scho/Brantford/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "440/627",
+  "name" : "Port Hope",
+  "city" : "Port Hope",
+  "rating" : "4.9",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Port_Hope_High_School/Port_Hope/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "440/627",
+  "name" : "Prince Edward",
+  "city" : "Picton",
+  "rating" : "4.9",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Prince_Edward_Collegiate_Institute/Picton/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "458/627",
+  "name" : "Elmvale",
+  "city" : "Elmvale",
+  "rating" : "4.9",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Elmvale_District_High_School/Elmvale/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "473/627",
+  "name" : "Saint-François-Xavier",
+  "city" : "Sarnia",
+  "rating" : "4.9",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_%c3%89cole_secondaire_Saint/Sarnia/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "483/627",
+  "name" : "Sir Allan MacNab",
+  "city" : "Hamilton",
+  "rating" : "4.9",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Sir_Allan_MacNab_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "496/627",
+  "name" : "Clarington Central",
+  "city" : "Bowmanville",
+  "rating" : "4.9",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Clarington_Central_Secondary_School/Bowmanville/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "496/627",
+  "name" : "St Peter's",
+  "city" : "Barrie",
+  "rating" : "4.9",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/St_Peter's_Secondary_School/Barrie/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "519/627",
+  "name" : "York Memorial",
+  "city" : "Toronto",
+  "rating" : "4.9",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/York_Memorial_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "558/627",
+  "name" : "Don Bosco",
+  "city" : "Toronto",
+  "rating" : "4.9",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Don_Bosco_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "592/627",
+  "name" : "Northern",
+  "city" : "Sturgeon Falls",
+  "rating" : "4.9",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Northern_Secondary_School/Sturgeon_Falls/Report_Card.aspx"
+}, {
+  "rank" : "507/676",
+  "rankIn5" : "n/a",
+  "name" : "Wali ul Asr",
+  "city" : "Brampton",
+  "rating" : "4.9",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Wali_ul_Asr_School/Brampton/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "335/627",
+  "name" : "Mitchell",
+  "city" : "Mitchell",
+  "rating" : "4.8",
+  "ratingIn5" : "6.1",
+  "url" : "/secondary/Mitchell_District_High_School/Mitchell/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "426/627",
+  "name" : "Orillia",
+  "city" : "Orillia",
+  "rating" : "4.8",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Orillia_District_Collegiate_and_Vocational_Institu/Orillia/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "440/627",
+  "name" : "Stratford Northwestern",
+  "city" : "Stratford",
+  "rating" : "4.8",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Stratford_Northwestern_Secondary_School/Stratford/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "440/627",
+  "name" : "Superior CVI",
+  "city" : "Thunder Bay",
+  "rating" : "4.8",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Superior_Collegiate_and_Vocational_Institute/Thunder_Bay/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "464/627",
+  "name" : "Napanee",
+  "city" : "Napanee",
+  "rating" : "4.8",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Napanee_District_Secondary_School/Napanee/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "464/627",
+  "name" : "Port Colborne",
+  "city" : "Port Colborne",
+  "rating" : "4.8",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Port_Colborne_High_School/Port_Colborne/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "473/627",
+  "name" : "Rothwell-Osnabruck",
+  "city" : "Ingleside",
+  "rating" : "4.8",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Rothwell-Osnabruck_District_High_School/Ingleside/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "483/627",
+  "name" : "White Pines",
+  "city" : "Sault Ste. Marie",
+  "rating" : "4.8",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/White_Pines_Collegiate_and_Vocational_School/Sault_Ste._Marie/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "507/627",
+  "name" : "Superior Heights",
+  "city" : "Sault Ste. Marie",
+  "rating" : "4.8",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Superior_Heights_Collegiate_and_Vocational_School/Sault_Ste._Marie/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "507/627",
+  "name" : "Walkerton",
+  "city" : "Walkerton",
+  "rating" : "4.8",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Walkerton_District_Secondary_School/Walkerton/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "513/627",
+  "name" : "Kirkland Lake",
+  "city" : "Kirkland Lake",
+  "rating" : "4.8",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Kirkland_Lake_District_Composite_Secondary_School/Kirkland_Lake/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "534/627",
+  "name" : "Kenner",
+  "city" : "Peterborough",
+  "rating" : "4.8",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Kenner_Collegiate_and_Vocational_Institute/Peterborough/Report_Card.aspx"
+}, {
+  "rank" : "524/676",
+  "rankIn5" : "n/a",
+  "name" : "Michipicoten",
+  "city" : "Wawa",
+  "rating" : "4.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Michipicoten_High_School/Wawa/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "440/627",
+  "name" : "Tilbury",
+  "city" : "Tilbury",
+  "rating" : "4.7",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Tilbury_District_High_School/Tilbury/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "464/627",
+  "name" : "Rainy River",
+  "city" : "Rainy River",
+  "rating" : "4.7",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Rainy_River_High_School/Rainy_River/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "464/627",
+  "name" : "Ridgeway-Crystal Beach",
+  "city" : "Ridgeway",
+  "rating" : "4.7",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Ridgeway-Crystal_Beach_High_School/Ridgeway/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "519/627",
+  "name" : "Cayuga",
+  "city" : "Cayuga",
+  "rating" : "4.7",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Cayuga_Secondary_School/Cayuga/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "519/627",
+  "name" : "Glenview Park",
+  "city" : "Cambridge",
+  "rating" : "4.7",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Glenview_Park_Secondary_School/Cambridge/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "534/627",
+  "name" : "St Lawrence",
+  "city" : "Cornwall",
+  "rating" : "4.7",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/St_Lawrence_High_School/Cornwall/Report_Card.aspx"
+}, {
+  "rank" : "537/676",
+  "rankIn5" : "558/627",
+  "name" : "Timmins",
+  "city" : "Timmins",
+  "rating" : "4.7",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Timmins_High_and_Vocational_School/Timmins/Report_Card.aspx"
+}, {
+  "rank" : "544/676",
+  "rankIn5" : "440/627",
+  "name" : "Centre Hastings",
+  "city" : "Madoc",
+  "rating" : "4.6",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Centre_Hastings_Secondary_School/Madoc/Report_Card.aspx"
+}, {
+  "rank" : "544/676",
+  "rankIn5" : "464/627",
+  "name" : "Newtonbrook",
+  "city" : "Toronto",
+  "rating" : "4.6",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Newtonbrook_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "544/676",
+  "rankIn5" : "483/627",
+  "name" : "Sarnia",
+  "city" : "Sarnia",
+  "rating" : "4.6",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Sarnia_Collegiate_Institute_and_Technical_School/Sarnia/Report_Card.aspx"
+}, {
+  "rank" : "544/676",
+  "rankIn5" : "542/627",
+  "name" : "Keswick",
+  "city" : "Keswick",
+  "rating" : "4.6",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Keswick_High_School/Keswick/Report_Card.aspx"
+}, {
+  "rank" : "544/676",
+  "rankIn5" : "550/627",
+  "name" : "H B Beal",
+  "city" : "London",
+  "rating" : "4.6",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/H_B_Beal_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "365/627",
+  "name" : "North Middlesex",
+  "city" : "Parkhill",
+  "rating" : "4.5",
+  "ratingIn5" : "5.9",
+  "url" : "/secondary/North_Middlesex_District_High_School/Parkhill/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "396/627",
+  "name" : "Englehart",
+  "city" : "Englehart",
+  "rating" : "4.5",
+  "ratingIn5" : "5.7",
+  "url" : "/secondary/Englehart_High_School/Englehart/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "519/627",
+  "name" : "Wallaceburg",
+  "city" : "Wallaceburg",
+  "rating" : "4.5",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Wallaceburg_District_Secondary_School/Wallaceburg/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "547/627",
+  "name" : "Archbishop Romero",
+  "city" : "Toronto",
+  "rating" : "4.5",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/Archbishop_Romero_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "568/627",
+  "name" : "George S Henry",
+  "city" : "Toronto",
+  "rating" : "4.5",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/George_S_Henry_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "575/627",
+  "name" : "Macdonald-Cartier",
+  "city" : "Sudbury",
+  "rating" : "4.5",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/%c3%89cole_secondaire_Macdonald-Cartier/Sudbury/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "582/627",
+  "name" : "Champlain",
+  "city" : "Chelmsford",
+  "rating" : "4.5",
+  "ratingIn5" : "3.7",
+  "url" : "/secondary/%c3%89cole_secondaire_Catholique_Champlain/Chelmsford/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "603/627",
+  "name" : "Cochrane",
+  "city" : "Cochrane",
+  "rating" : "4.5",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/Cochrane_High_School/Cochrane/Report_Card.aspx"
+}, {
+  "rank" : "549/676",
+  "rankIn5" : "n/a",
+  "name" : "Chapleau",
+  "city" : "Chapleau",
+  "rating" : "4.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Chapleau_High_School/Chapleau/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "379/627",
+  "name" : "Renfrew",
+  "city" : "Renfrew",
+  "rating" : "4.4",
+  "ratingIn5" : "5.8",
+  "url" : "/secondary/Renfrew_Collegiate_Institute/Renfrew/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "458/627",
+  "name" : "Blenheim",
+  "city" : "Blenheim",
+  "rating" : "4.4",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Blenheim_District_High_School/Blenheim/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "473/627",
+  "name" : "Dryden",
+  "city" : "Dryden",
+  "rating" : "4.4",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/Dryden_High_School/Dryden/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "513/627",
+  "name" : "College Avenue",
+  "city" : "Woodstock",
+  "rating" : "4.4",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/College_Avenue_Secondary_School/Woodstock/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "534/627",
+  "name" : "East York",
+  "city" : "Toronto",
+  "rating" : "4.4",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/East_York_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "550/627",
+  "name" : "Opeongo",
+  "city" : "Douglas",
+  "rating" : "4.4",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/Opeongo_High_School/Douglas/Report_Card.aspx"
+}, {
+  "rank" : "558/676",
+  "rankIn5" : "558/627",
+  "name" : "Western",
+  "city" : "Toronto",
+  "rating" : "4.4",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Western_Technical_%5bamp%5d_Commercial_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "473/627",
+  "name" : "St Basil The Great",
+  "city" : "Toronto",
+  "rating" : "4.3",
+  "ratingIn5" : "5.1",
+  "url" : "/secondary/St_Basil_The_Great_College/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "483/627",
+  "name" : "Lester B Pearson",
+  "city" : "Gloucester",
+  "rating" : "4.3",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/Lester_B_Pearson_Catholic_High_School/Gloucester/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "513/627",
+  "name" : "Regina Mundi",
+  "city" : "London",
+  "rating" : "4.3",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Regina_Mundi_College/London/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "530/627",
+  "name" : "North Dundas",
+  "city" : "Chesterville",
+  "rating" : "4.3",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/North_Dundas_District_High_School/Chesterville/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "534/627",
+  "name" : "Le Relais",
+  "city" : "Alexandria",
+  "rating" : "4.3",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Le_Relais/Alexandria/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "534/627",
+  "name" : "Ridgemont",
+  "city" : "Ottawa",
+  "rating" : "4.3",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Ridgemont_High_School/Ottawa/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "575/627",
+  "name" : "Midland",
+  "city" : "Midland",
+  "rating" : "4.3",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/Midland_Secondary_School/Midland/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "586/627",
+  "name" : "Bishop Marrocco/Thomas Merton",
+  "city" : "Toronto",
+  "rating" : "4.3",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/Bishop_Marrocco%2fThomas_Merton_Catholic_Secondary_S/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "565/676",
+  "rankIn5" : "n/a",
+  "name" : "Manitouwadge",
+  "city" : "Manitouwadge",
+  "rating" : "4.3",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Manitouwadge_High_School/Manitouwadge/Report_Card.aspx"
+}, {
+  "rank" : "574/676",
+  "rankIn5" : "483/627",
+  "name" : "W C Eaket",
+  "city" : "Blind River",
+  "rating" : "4.2",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/W_C_Eaket_Secondary_School/Blind_River/Report_Card.aspx"
+}, {
+  "rank" : "574/676",
+  "rankIn5" : "519/627",
+  "name" : "Westminster",
+  "city" : "London",
+  "rating" : "4.2",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Westminster_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "574/676",
+  "rankIn5" : "530/627",
+  "name" : "East Elgin",
+  "city" : "Aylmer",
+  "rating" : "4.2",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/East_Elgin_Secondary_School/Aylmer/Report_Card.aspx"
+}, {
+  "rank" : "574/676",
+  "rankIn5" : "599/627",
+  "name" : "Geraldton",
+  "city" : "Geraldton",
+  "rating" : "4.2",
+  "ratingIn5" : "3.2",
+  "url" : "/secondary/Geraldton_Composite_School/Geraldton/Report_Card.aspx"
+}, {
+  "rank" : "574/676",
+  "rankIn5" : "599/627",
+  "name" : "Sacré-Coeur",
+  "city" : "Sudbury",
+  "rating" : "4.2",
+  "ratingIn5" : "3.2",
+  "url" : "/secondary/%c3%89cole_secondaire_du_Sacr%c3%a9-Coeur/Sudbury/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "440/627",
+  "name" : "Central Algoma",
+  "city" : "Desbarats",
+  "rating" : "4.1",
+  "ratingIn5" : "5.4",
+  "url" : "/secondary/Central_Algoma_Secondary_School/Desbarats/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "458/627",
+  "name" : "Glencoe",
+  "city" : "Glencoe",
+  "rating" : "4.1",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Glencoe_District_High_School/Glencoe/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "458/627",
+  "name" : "Tagwi",
+  "city" : "Avonmore",
+  "rating" : "4.1",
+  "ratingIn5" : "5.3",
+  "url" : "/secondary/Tagwi_Secondary_School/Avonmore/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "519/627",
+  "name" : "Parkdale",
+  "city" : "Toronto",
+  "rating" : "4.1",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Parkdale_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "519/627",
+  "name" : "Penetanguishene",
+  "city" : "Penetanguishene",
+  "rating" : "4.1",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Penetanguishene_Secondary_School/Penetanguishene/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "547/627",
+  "name" : "Stayner",
+  "city" : "Stayner",
+  "rating" : "4.1",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/Stayner_Collegiate_Institute/Stayner/Report_Card.aspx"
+}, {
+  "rank" : "579/676",
+  "rankIn5" : "550/627",
+  "name" : "Oakwood",
+  "city" : "Toronto",
+  "rating" : "4.1",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/Oakwood_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "586/676",
+  "rankIn5" : "464/627",
+  "name" : "Madawaska Valley",
+  "city" : "Barry's Bay",
+  "rating" : "4.0",
+  "ratingIn5" : "5.2",
+  "url" : "/secondary/Madawaska_Valley_District_High_School/Barry's_Bay/Report_Card.aspx"
+}, {
+  "rank" : "586/676",
+  "rankIn5" : "534/627",
+  "name" : "Vaughan Road",
+  "city" : "Toronto",
+  "rating" : "4.0",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Vaughan_Road_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "586/676",
+  "rankIn5" : "568/627",
+  "name" : "Gananoque",
+  "city" : "Gananoque",
+  "rating" : "4.0",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Gananoque_Secondary_School/Gananoque/Report_Card.aspx"
+}, {
+  "rank" : "586/676",
+  "rankIn5" : "575/627",
+  "name" : "George Harvey",
+  "city" : "Toronto",
+  "rating" : "4.0",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/George_Harvey_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "586/676",
+  "rankIn5" : "586/627",
+  "name" : "Glendale",
+  "city" : "Hamilton",
+  "rating" : "4.0",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/Glendale_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "591/676",
+  "rankIn5" : "426/627",
+  "name" : "Marathon",
+  "city" : "Marathon",
+  "rating" : "3.9",
+  "ratingIn5" : "5.5",
+  "url" : "/secondary/Marathon_High_School/Marathon/Report_Card.aspx"
+}, {
+  "rank" : "591/676",
+  "rankIn5" : "507/627",
+  "name" : "Collège français",
+  "city" : "Toronto",
+  "rating" : "3.9",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Coll%c3%a8ge_fran%c3%a7ais_secondaire/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "591/676",
+  "rankIn5" : "513/627",
+  "name" : "Quinte",
+  "city" : "Belleville",
+  "rating" : "3.9",
+  "ratingIn5" : "4.7",
+  "url" : "/secondary/Quinte_Secondary_School/Belleville/Report_Card.aspx"
+}, {
+  "rank" : "591/676",
+  "rankIn5" : "550/627",
+  "name" : "Danforth",
+  "city" : "Toronto",
+  "rating" : "3.9",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/Danforth_Collegiate_Institute_and_Technical_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "591/676",
+  "rankIn5" : "616/627",
+  "name" : "Kapuskasing",
+  "city" : "Kapuskasing",
+  "rating" : "3.9",
+  "ratingIn5" : "2.2",
+  "url" : "/secondary/Kapuskasing_District_High_School/Kapuskasing/Report_Card.aspx"
+}, {
+  "rank" : "596/676",
+  "rankIn5" : "507/627",
+  "name" : "Le Caron",
+  "city" : "Penetanguishene",
+  "rating" : "3.8",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/%c3%89cole_secondaire_Le_Caron/Penetanguishene/Report_Card.aspx"
+}, {
+  "rank" : "596/676",
+  "rankIn5" : "530/627",
+  "name" : "Hon W C Kennedy",
+  "city" : "Windsor",
+  "rating" : "3.8",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/Hon_W_C_Kennedy_Secondary_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "596/676",
+  "rankIn5" : "550/627",
+  "name" : "Pauline Johnson",
+  "city" : "Brantford",
+  "rating" : "3.8",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/Pauline_Johnson_Collegiate_and_Vocational_School/Brantford/Report_Card.aspx"
+}, {
+  "rank" : "596/676",
+  "rankIn5" : "558/627",
+  "name" : "North Hastings",
+  "city" : "Bancroft",
+  "rating" : "3.8",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/North_Hastings_High_School/Bancroft/Report_Card.aspx"
+}, {
+  "rank" : "596/676",
+  "rankIn5" : "568/627",
+  "name" : "Clarke Road",
+  "city" : "London",
+  "rating" : "3.8",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Clarke_Road_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "483/627",
+  "name" : "St Dominic",
+  "city" : "Bracebridge",
+  "rating" : "3.7",
+  "ratingIn5" : "5.0",
+  "url" : "/secondary/St_Dominic_Catholic_Secondary_School/Bracebridge/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "519/627",
+  "name" : "Monsignor Percy Johnson",
+  "city" : "Toronto",
+  "rating" : "3.7",
+  "ratingIn5" : "4.6",
+  "url" : "/secondary/Monsignor_Percy_Johnson_Catholic_High_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "534/627",
+  "name" : "Birchmount Park",
+  "city" : "Toronto",
+  "rating" : "3.7",
+  "ratingIn5" : "4.4",
+  "url" : "/secondary/Birchmount_Park_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "568/627",
+  "name" : "Cathedral",
+  "city" : "Hamilton",
+  "rating" : "3.7",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Cathedral_High_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "575/627",
+  "name" : "David and Mary Thomson",
+  "city" : "Toronto",
+  "rating" : "3.7",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/David_and_Mary_Thomson_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "586/627",
+  "name" : "l'Horizon",
+  "city" : "Val Caron",
+  "rating" : "3.7",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_l'Horizon/Val_Caron/Report_Card.aspx"
+}, {
+  "rank" : "601/676",
+  "rankIn5" : "n/a",
+  "name" : "John Polanyi",
+  "city" : "Toronto",
+  "rating" : "3.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/John_Polanyi_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "608/676",
+  "rankIn5" : "547/627",
+  "name" : "West Elgin",
+  "city" : "West Lorne",
+  "rating" : "3.6",
+  "ratingIn5" : "4.2",
+  "url" : "/secondary/West_Elgin_Secondary_School/West_Lorne/Report_Card.aspx"
+}, {
+  "rank" : "608/676",
+  "rankIn5" : "550/627",
+  "name" : "Fort Erie",
+  "city" : "Fort Erie",
+  "rating" : "3.6",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/Fort_Erie_Secondary_School/Fort_Erie/Report_Card.aspx"
+}, {
+  "rank" : "608/676",
+  "rankIn5" : "550/627",
+  "name" : "John Paul II",
+  "city" : "London",
+  "rating" : "3.6",
+  "ratingIn5" : "4.1",
+  "url" : "/secondary/John_Paul_II_Catholic_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "608/676",
+  "rankIn5" : "575/627",
+  "name" : "Norwood District",
+  "city" : "Norwood",
+  "rating" : "3.6",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/Norwood_District_High_School/Norwood/Report_Card.aspx"
+}, {
+  "rank" : "612/676",
+  "rankIn5" : "530/627",
+  "name" : "Eastwood",
+  "city" : "Kitchener",
+  "rating" : "3.5",
+  "ratingIn5" : "4.5",
+  "url" : "/secondary/Eastwood_Collegiate_Institute/Kitchener/Report_Card.aspx"
+}, {
+  "rank" : "612/676",
+  "rankIn5" : "542/627",
+  "name" : "Trenton",
+  "city" : "Trenton",
+  "rating" : "3.5",
+  "ratingIn5" : "4.3",
+  "url" : "/secondary/Trenton_High_School/Trenton/Report_Card.aspx"
+}, {
+  "rank" : "612/676",
+  "rankIn5" : "568/627",
+  "name" : "Winston Churchill",
+  "city" : "Toronto",
+  "rating" : "3.5",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Winston_Churchill_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "612/676",
+  "rankIn5" : "586/627",
+  "name" : "North Albion",
+  "city" : "Toronto",
+  "rating" : "3.5",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/North_Albion_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "612/676",
+  "rankIn5" : "n/a",
+  "name" : "Lake Superior",
+  "city" : "Terrace Bay",
+  "rating" : "3.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Lake_Superior_High_School/Terrace_Bay/Report_Card.aspx"
+}, {
+  "rank" : "617/676",
+  "rankIn5" : "558/627",
+  "name" : "Waterford",
+  "city" : "Waterford",
+  "rating" : "3.4",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Waterford_District_High_School/Waterford/Report_Card.aspx"
+}, {
+  "rank" : "618/676",
+  "rankIn5" : "496/627",
+  "name" : "Iroquois Falls",
+  "city" : "Iroquois Falls",
+  "rating" : "3.2",
+  "ratingIn5" : "4.9",
+  "url" : "/secondary/Iroquois_Falls_Secondary_School/Iroquois_Falls/Report_Card.aspx"
+}, {
+  "rank" : "618/676",
+  "rankIn5" : "568/627",
+  "name" : "Grey Highlands",
+  "city" : "Flesherton",
+  "rating" : "3.2",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Grey_Highlands_Secondary_School/Flesherton/Report_Card.aspx"
+}, {
+  "rank" : "618/676",
+  "rankIn5" : "592/627",
+  "name" : "Lakeshore",
+  "city" : "Toronto",
+  "rating" : "3.2",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Lakeshore_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "618/676",
+  "rankIn5" : "n/a",
+  "name" : "Cornwall",
+  "city" : "Cornwall",
+  "rating" : "3.2",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Cornwall_Collegiate_and_Vocational_School/Cornwall/Report_Card.aspx"
+}, {
+  "rank" : "618/676",
+  "rankIn5" : "n/a",
+  "name" : "DSBN Academy",
+  "city" : "Welland",
+  "rating" : "3.2",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/DSBN_Academy/Welland/Report_Card.aspx"
+}, {
+  "rank" : "623/676",
+  "rankIn5" : "558/627",
+  "name" : "Cedarbrae",
+  "city" : "Toronto",
+  "rating" : "3.1",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Cedarbrae_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "623/676",
+  "rankIn5" : "592/627",
+  "name" : "Eastdale",
+  "city" : "Welland",
+  "rating" : "3.1",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Eastdale_Secondary_School/Welland/Report_Card.aspx"
+}, {
+  "rank" : "623/676",
+  "rankIn5" : "616/627",
+  "name" : "Queen Elizabeth",
+  "city" : "Kingston",
+  "rating" : "3.1",
+  "ratingIn5" : "2.2",
+  "url" : "/secondary/Queen_Elizabeth_Collegiate_and_Vocational_Institut/Kingston/Report_Card.aspx"
+}, {
+  "rank" : "626/676",
+  "rankIn5" : "582/627",
+  "name" : "Central Commerce",
+  "city" : "Toronto",
+  "rating" : "3.0",
+  "ratingIn5" : "3.7",
+  "url" : "/secondary/Central_Commerce_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "626/676",
+  "rankIn5" : "597/627",
+  "name" : "Roland Michener",
+  "city" : "South Porcupine",
+  "rating" : "3.0",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/Roland_Michener_Secondary_School/South_Porcupine/Report_Card.aspx"
+}, {
+  "rank" : "626/676",
+  "rankIn5" : "602/627",
+  "name" : "Montcalm",
+  "city" : "London",
+  "rating" : "3.0",
+  "ratingIn5" : "3.1",
+  "url" : "/secondary/Montcalm_Secondary_School/London/Report_Card.aspx"
+}, {
+  "rank" : "626/676",
+  "rankIn5" : "610/627",
+  "name" : "Queen Elizabeth",
+  "city" : "Sioux Lookout",
+  "rating" : "3.0",
+  "ratingIn5" : "2.6",
+  "url" : "/secondary/Queen_Elizabeth_District_High_School/Sioux_Lookout/Report_Card.aspx"
+}, {
+  "rank" : "630/676",
+  "rankIn5" : "586/627",
+  "name" : "Runnymede",
+  "city" : "Toronto",
+  "rating" : "2.9",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/Runnymede_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "630/676",
+  "rankIn5" : "n/a",
+  "name" : "Everest",
+  "city" : "Thornhill",
+  "rating" : "2.9",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Everest_Academy/Thornhill/Report_Card.aspx"
+}, {
+  "rank" : "632/676",
+  "rankIn5" : "575/627",
+  "name" : "John McGregor",
+  "city" : "Chatham",
+  "rating" : "2.8",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/John_McGregor_Secondary_School/Chatham/Report_Card.aspx"
+}, {
+  "rank" : "632/676",
+  "rankIn5" : "575/627",
+  "name" : "West Hill",
+  "city" : "Toronto",
+  "rating" : "2.8",
+  "ratingIn5" : "3.8",
+  "url" : "/secondary/West_Hill_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "632/676",
+  "rankIn5" : "608/627",
+  "name" : "Delta",
+  "city" : "Hamilton",
+  "rating" : "2.8",
+  "ratingIn5" : "2.8",
+  "url" : "/secondary/Delta_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "632/676",
+  "rankIn5" : "n/a",
+  "name" : "Nouveau Regard - Jeunesse Nord",
+  "city" : "Cochrane",
+  "rating" : "2.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_catholique_Nouveau_Regard_-_Pavillon_Jeunesse_Nord/Cochrane/Report_Card.aspx"
+}, {
+  "rank" : "632/676",
+  "rankIn5" : "n/a",
+  "name" : "Renaissance",
+  "city" : "Timmins",
+  "rating" : "2.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Renaissance/Timmins/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "507/627",
+  "name" : "Red Lake",
+  "city" : "Red Lake",
+  "rating" : "2.7",
+  "ratingIn5" : "4.8",
+  "url" : "/secondary/Red_Lake_District_High_School/Red_Lake/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "558/627",
+  "name" : "South Grenville",
+  "city" : "Prescott",
+  "rating" : "2.7",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/South_Grenville_District_High_School/Prescott/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "584/627",
+  "name" : "Father Henry Carr",
+  "city" : "Toronto",
+  "rating" : "2.7",
+  "ratingIn5" : "3.6",
+  "url" : "/secondary/Father_Henry_Carr_Catholic_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "586/627",
+  "name" : "Beaver Brae",
+  "city" : "Kenora",
+  "rating" : "2.7",
+  "ratingIn5" : "3.5",
+  "url" : "/secondary/Beaver_Brae_Secondary_School/Kenora/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "603/627",
+  "name" : "Stamford Collegiate",
+  "city" : "Niagara Falls",
+  "rating" : "2.7",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/Stamford_Collegiate/Niagara_Falls/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "609/627",
+  "name" : "Scarlett Heights Entrepreneurial",
+  "city" : "Toronto",
+  "rating" : "2.7",
+  "ratingIn5" : "2.7",
+  "url" : "/secondary/Scarlett_Heights_Entrepreneurial_Academy/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "637/676",
+  "rankIn5" : "n/a",
+  "name" : "Pickering",
+  "city" : "Pickering",
+  "rating" : "2.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Pickering/Pickering/Report_Card.aspx"
+}, {
+  "rank" : "644/676",
+  "rankIn5" : "558/627",
+  "name" : "Lakefield",
+  "city" : "Lakefield",
+  "rating" : "2.6",
+  "ratingIn5" : "4.0",
+  "url" : "/secondary/Lakefield_District_Secondary_School/Lakefield/Report_Card.aspx"
+}, {
+  "rank" : "644/676",
+  "rankIn5" : "599/627",
+  "name" : "Sutton",
+  "city" : "Sutton West",
+  "rating" : "2.6",
+  "ratingIn5" : "3.2",
+  "url" : "/secondary/Sutton_District_High_School/Sutton_West/Report_Card.aspx"
+}, {
+  "rank" : "644/676",
+  "rankIn5" : "603/627",
+  "name" : "Arthur Voaden",
+  "city" : "St Thomas",
+  "rating" : "2.6",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/Arthur_Voaden_Secondary_School/St_Thomas/Report_Card.aspx"
+}, {
+  "rank" : "644/676",
+  "rankIn5" : "614/627",
+  "name" : "St Catharines",
+  "city" : "St Catharines",
+  "rating" : "2.6",
+  "ratingIn5" : "2.3",
+  "url" : "/secondary/St_Catharines_Collegiate_Institute_and_Vocational_/St_Catharines/Report_Card.aspx"
+}, {
+  "rank" : "644/676",
+  "rankIn5" : "n/a",
+  "name" : "ÉS Northern",
+  "city" : "Sturgeon Falls",
+  "rating" : "2.6",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Northern/Sturgeon_Falls/Report_Card.aspx"
+}, {
+  "rank" : "649/676",
+  "rankIn5" : "603/627",
+  "name" : "Central",
+  "city" : "Toronto",
+  "rating" : "2.5",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/Central_Technical_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "649/676",
+  "rankIn5" : "614/627",
+  "name" : "Westview Centennial",
+  "city" : "Toronto",
+  "rating" : "2.5",
+  "ratingIn5" : "2.3",
+  "url" : "/secondary/Westview_Centennial_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "651/676",
+  "rankIn5" : "597/627",
+  "name" : "Emery",
+  "city" : "Toronto",
+  "rating" : "2.3",
+  "ratingIn5" : "3.3",
+  "url" : "/secondary/Emery_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "651/676",
+  "rankIn5" : "603/627",
+  "name" : "Sir Winston Churchill",
+  "city" : "Hamilton",
+  "rating" : "2.3",
+  "ratingIn5" : "2.9",
+  "url" : "/secondary/Sir_Winston_Churchill_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "653/676",
+  "rankIn5" : "568/627",
+  "name" : "Hagersville",
+  "city" : "Hagersville",
+  "rating" : "2.2",
+  "ratingIn5" : "3.9",
+  "url" : "/secondary/Hagersville_Secondary_School/Hagersville/Report_Card.aspx"
+}, {
+  "rank" : "653/676",
+  "rankIn5" : "584/627",
+  "name" : "Barton",
+  "city" : "Hamilton",
+  "rating" : "2.2",
+  "ratingIn5" : "3.6",
+  "url" : "/secondary/Barton_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "655/676",
+  "rankIn5" : "613/627",
+  "name" : "Kipling",
+  "city" : "Toronto",
+  "rating" : "2.1",
+  "ratingIn5" : "2.5",
+  "url" : "/secondary/Kipling_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "655/676",
+  "rankIn5" : "621/627",
+  "name" : "College Heights",
+  "city" : "Guelph",
+  "rating" : "2.1",
+  "ratingIn5" : "1.5",
+  "url" : "/secondary/College_Heights_Secondary_School/Guelph/Report_Card.aspx"
+}, {
+  "rank" : "655/676",
+  "rankIn5" : "n/a",
+  "name" : "Ignace",
+  "city" : "Ignace",
+  "rating" : "2.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Ignace_School/Ignace/Report_Card.aspx"
+}, {
+  "rank" : "658/676",
+  "rankIn5" : "592/627",
+  "name" : "Weston",
+  "city" : "Toronto",
+  "rating" : "2.0",
+  "ratingIn5" : "3.4",
+  "url" : "/secondary/Weston_Collegiate_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "658/676",
+  "rankIn5" : "624/627",
+  "name" : "Northern Lights",
+  "city" : "Moosonee",
+  "rating" : "2.0",
+  "ratingIn5" : "0.4",
+  "url" : "/secondary/Northern_Lights_Secondary_School/Moosonee/Report_Card.aspx"
+}, {
+  "rank" : "660/676",
+  "rankIn5" : "616/627",
+  "name" : "Sir John A Macdonald",
+  "city" : "Hamilton",
+  "rating" : "1.9",
+  "ratingIn5" : "2.2",
+  "url" : "/secondary/Sir_John_A_Macdonald_Secondary_School/Hamilton/Report_Card.aspx"
+}, {
+  "rank" : "661/676",
+  "rankIn5" : "n/a",
+  "name" : "Eenchokay Birchstick",
+  "city" : "Pikangikum",
+  "rating" : "1.8",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Eenchokay_Birchstick_School/Pikangikum/Report_Card.aspx"
+}, {
+  "rank" : "662/676",
+  "rankIn5" : "624/627",
+  "name" : "Alexander Mackenzie",
+  "city" : "Sarnia",
+  "rating" : "1.7",
+  "ratingIn5" : "0.4",
+  "url" : "/secondary/Alexander_Mackenzie_Secondary_School/Sarnia/Report_Card.aspx"
+}, {
+  "rank" : "662/676",
+  "rankIn5" : "n/a",
+  "name" : "Élisabeth-Bruyère",
+  "city" : "Mattawa",
+  "rating" : "1.7",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_%c3%89lisabeth-Bruy%c3%a8re/Mattawa/Report_Card.aspx"
+}, {
+  "rank" : "664/676",
+  "rankIn5" : "n/a",
+  "name" : "Trillium",
+  "city" : "Chapleau",
+  "rating" : "1.5",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_catholique_Trillium/Chapleau/Report_Card.aspx"
+}, {
+  "rank" : "665/676",
+  "rankIn5" : "620/627",
+  "name" : "Downsview",
+  "city" : "Toronto",
+  "rating" : "1.4",
+  "ratingIn5" : "1.6",
+  "url" : "/secondary/Downsview_Secondary_School/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "666/676",
+  "rankIn5" : "610/627",
+  "name" : "Athens",
+  "city" : "Athens",
+  "rating" : "1.1",
+  "ratingIn5" : "2.6",
+  "url" : "/secondary/Athens_District_High_School/Athens/Report_Card.aspx"
+}, {
+  "rank" : "666/676",
+  "rankIn5" : "610/627",
+  "name" : "Nipigon Red Rock",
+  "city" : "Red Rock",
+  "rating" : "1.1",
+  "ratingIn5" : "2.6",
+  "url" : "/secondary/Nipigon_Red_Rock_District_High_School/Red_Rock/Report_Card.aspx"
+}, {
+  "rank" : "666/676",
+  "rankIn5" : "n/a",
+  "name" : "Sir Guy Carleton",
+  "city" : "Nepean",
+  "rating" : "1.1",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Sir_Guy_Carleton_Secondary_School/Nepean/Report_Card.aspx"
+}, {
+  "rank" : "669/676",
+  "rankIn5" : "n/a",
+  "name" : "North Addington",
+  "city" : "Cloyne",
+  "rating" : "0.6",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/North_Addington_Education_Centre/Cloyne/Report_Card.aspx"
+}, {
+  "rank" : "670/676",
+  "rankIn5" : "619/627",
+  "name" : "Almaguin Highlands",
+  "city" : "South River",
+  "rating" : "0.4",
+  "ratingIn5" : "2.0",
+  "url" : "/secondary/Almaguin_Highlands_Secondary_School/South_River/Report_Card.aspx"
+}, {
+  "rank" : "671/676",
+  "rankIn5" : "622/627",
+  "name" : "John L Forster",
+  "city" : "Windsor",
+  "rating" : "0.0",
+  "ratingIn5" : "1.2",
+  "url" : "/secondary/John_L_Forster_Secondary_School/Windsor/Report_Card.aspx"
+}, {
+  "rank" : "671/676",
+  "rankIn5" : "623/627",
+  "name" : "Western",
+  "city" : "Amherstburg",
+  "rating" : "0.0",
+  "ratingIn5" : "0.6",
+  "url" : "/secondary/Western_Secondary_School/Amherstburg/Report_Card.aspx"
+}, {
+  "rank" : "671/676",
+  "rankIn5" : "626/627",
+  "name" : "Bendale",
+  "city" : "Toronto",
+  "rating" : "0.0",
+  "ratingIn5" : "0.0",
+  "url" : "/secondary/Bendale_Business_%5bamp%5d_Technical_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "671/676",
+  "rankIn5" : "626/627",
+  "name" : "Sir Robert L Borden",
+  "city" : "Toronto",
+  "rating" : "0.0",
+  "ratingIn5" : "0.0",
+  "url" : "/secondary/Sir_Robert_L_Borden_Business_%5bamp%5d_Technical_Institute/Toronto/Report_Card.aspx"
+}, {
+  "rank" : "671/676",
+  "rankIn5" : "n/a",
+  "name" : "Hanmer",
+  "city" : "Hanmer",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/%c3%89cole_secondaire_Hanmer/Hanmer/Report_Card.aspx"
+}, {
+  "rank" : "671/676",
+  "rankIn5" : "n/a",
+  "name" : "Wasse-Abin Wikwemikong",
+  "city" : "Wikwemikong",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/secondary/Wasse-Abin_Wikwemikong_High_School/Wikwemikong/Report_Card.aspx"
+} ]

@@ -1,0 +1,2457 @@
+[ {
+  "rank" : "1/307",
+  "rankIn5" : "1/246",
+  "name" : "Old Scona",
+  "city" : "Edmonton",
+  "rating" : "10.0",
+  "ratingIn5" : "10.0",
+  "url" : "/high/Old_Scona_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "1/307",
+  "rankIn5" : "1/246",
+  "name" : "Webber",
+  "city" : "Calgary",
+  "rating" : "10.0",
+  "ratingIn5" : "10.0",
+  "url" : "/high/Webber_Academy/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "1/307",
+  "rankIn5" : "3/246",
+  "name" : "Rundle College",
+  "city" : "Calgary",
+  "rating" : "10.0",
+  "ratingIn5" : "9.9",
+  "url" : "/high/Rundle_College_Senior_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "4/307",
+  "rankIn5" : "4/246",
+  "name" : "West Island College",
+  "city" : "Calgary",
+  "rating" : "9.8",
+  "ratingIn5" : "9.6",
+  "url" : "/high/West_Island_College/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "4/307",
+  "rankIn5" : "n/a",
+  "name" : "Tempo",
+  "city" : "Edmonton",
+  "rating" : "9.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Tempo_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "6/307",
+  "rankIn5" : "5/246",
+  "name" : "Strathcona-Tweedsmuir",
+  "city" : "Okotoks",
+  "rating" : "9.2",
+  "ratingIn5" : "9.1",
+  "url" : "/high/Strathcona-Tweedsmuir_School/Okotoks/Report_Card.aspx"
+}, {
+  "rank" : "7/307",
+  "rankIn5" : "8/246",
+  "name" : "Bearspaw Christian",
+  "city" : "Calgary",
+  "rating" : "9.1",
+  "ratingIn5" : "8.6",
+  "url" : "/high/Bearspaw_Christian_School_%5bamp%5d_College/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "8/307",
+  "rankIn5" : "18/246",
+  "name" : "St. Timothy",
+  "city" : "Cochrane",
+  "rating" : "8.9",
+  "ratingIn5" : "8.0",
+  "url" : "/high/St._Timothy/Cochrane/Report_Card.aspx"
+}, {
+  "rank" : "9/307",
+  "rankIn5" : "6/246",
+  "name" : "Western Canada",
+  "city" : "Calgary",
+  "rating" : "8.7",
+  "ratingIn5" : "8.8",
+  "url" : "/high/Western_Canada_Senior_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "9/307",
+  "rankIn5" : "9/246",
+  "name" : "Westmount",
+  "city" : "Calgary",
+  "rating" : "8.7",
+  "ratingIn5" : "8.5",
+  "url" : "/high/Westmount_Charter_School%2c_Mid-High_Campus/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "11/307",
+  "rankIn5" : "11/246",
+  "name" : "Olds",
+  "city" : "Olds",
+  "rating" : "8.6",
+  "ratingIn5" : "8.3",
+  "url" : "/high/Olds_Junior_Senior_High_School/Olds/Report_Card.aspx"
+}, {
+  "rank" : "11/307",
+  "rankIn5" : "36/246",
+  "name" : "Olds Koinonia",
+  "city" : "Olds",
+  "rating" : "8.6",
+  "ratingIn5" : "7.5",
+  "url" : "/high/Olds_Koinonia_Christian_School/Olds/Report_Card.aspx"
+}, {
+  "rank" : "13/307",
+  "rankIn5" : "6/246",
+  "name" : "Sir Winston Churchill",
+  "city" : "Calgary",
+  "rating" : "8.5",
+  "ratingIn5" : "8.8",
+  "url" : "/high/Sir_Winston_Churchill_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "14/307",
+  "rankIn5" : "11/246",
+  "name" : "Archbishop MacDonald",
+  "city" : "Edmonton",
+  "rating" : "8.4",
+  "ratingIn5" : "8.3",
+  "url" : "/high/Archbishop_MacDonald/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "14/307",
+  "rankIn5" : "14/246",
+  "name" : "Strathcona Christian",
+  "city" : "Sherwood Park",
+  "rating" : "8.4",
+  "ratingIn5" : "8.2",
+  "url" : "/high/Strathcona_Christian_Academy/Sherwood_Park/Report_Card.aspx"
+}, {
+  "rank" : "14/307",
+  "rankIn5" : "n/a",
+  "name" : "Alberta Fine Arts",
+  "city" : "Okotoks",
+  "rating" : "8.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Alberta_High_School_of_Fine_Arts/Okotoks/Report_Card.aspx"
+}, {
+  "rank" : "14/307",
+  "rankIn5" : "n/a",
+  "name" : "E. H. Walter",
+  "city" : "Paradise Valley",
+  "rating" : "8.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/E._H._Walter_School/Paradise_Valley/Report_Card.aspx"
+}, {
+  "rank" : "14/307",
+  "rankIn5" : "n/a",
+  "name" : "Ste Marguerite d'Youville",
+  "city" : "St. Albert",
+  "rating" : "8.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Ecole_Secondaire_Sainte_Marguerite_d'Youville/St._Albert/Report_Card.aspx"
+}, {
+  "rank" : "19/307",
+  "rankIn5" : "51/246",
+  "name" : "Consort",
+  "city" : "Consort",
+  "rating" : "8.3",
+  "ratingIn5" : "7.2",
+  "url" : "/high/Consort_School/Consort/Report_Card.aspx"
+}, {
+  "rank" : "19/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Thomas Aquinas",
+  "city" : "Provost",
+  "rating" : "8.3",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Thomas_Aquinas_School/Provost/Report_Card.aspx"
+}, {
+  "rank" : "21/307",
+  "rankIn5" : "10/246",
+  "name" : "Springbank",
+  "city" : "Calgary",
+  "rating" : "8.2",
+  "ratingIn5" : "8.4",
+  "url" : "/high/Springbank_Community_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "21/307",
+  "rankIn5" : "16/246",
+  "name" : "Foundations for the Future (FFCA)",
+  "city" : "Calgary",
+  "rating" : "8.2",
+  "ratingIn5" : "8.1",
+  "url" : "/high/FFCA_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "21/307",
+  "rankIn5" : "n/a",
+  "name" : "Arden T. Litt Centre",
+  "city" : "Grassy Lake",
+  "rating" : "8.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Arden_T._Litt_Centre_for_Learning/Grassy_Lake/Report_Card.aspx"
+}, {
+  "rank" : "24/307",
+  "rankIn5" : "11/246",
+  "name" : "Vauxhall",
+  "city" : "Vauxhall",
+  "rating" : "8.1",
+  "ratingIn5" : "8.3",
+  "url" : "/high/Vauxhall_Junior_Senior_High_School/Vauxhall/Report_Card.aspx"
+}, {
+  "rank" : "24/307",
+  "rankIn5" : "20/246",
+  "name" : "Heritage Christian",
+  "city" : "Calgary",
+  "rating" : "8.1",
+  "ratingIn5" : "7.9",
+  "url" : "/high/Heritage_Christian_Academy/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "24/307",
+  "rankIn5" : "30/246",
+  "name" : "F G Miller",
+  "city" : "Elk Point",
+  "rating" : "8.1",
+  "ratingIn5" : "7.6",
+  "url" : "/high/F_G_Miller_Junior_Senior_High_School/Elk_Point/Report_Card.aspx"
+}, {
+  "rank" : "24/307",
+  "rankIn5" : "43/246",
+  "name" : "Bishop Carroll",
+  "city" : "Calgary",
+  "rating" : "8.1",
+  "ratingIn5" : "7.4",
+  "url" : "/high/Bishop_Carroll_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "28/307",
+  "rankIn5" : "16/246",
+  "name" : "William Aberhart",
+  "city" : "Calgary",
+  "rating" : "8.0",
+  "ratingIn5" : "8.1",
+  "url" : "/high/William_Aberhart_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "28/307",
+  "rankIn5" : "25/246",
+  "name" : "Ardrossan",
+  "city" : "Ardrossan",
+  "rating" : "8.0",
+  "ratingIn5" : "7.8",
+  "url" : "/high/Ardrossan_Junior_Senior_High_School/Ardrossan/Report_Card.aspx"
+}, {
+  "rank" : "28/307",
+  "rankIn5" : "92/246",
+  "name" : "St. Paul",
+  "city" : "St. Paul",
+  "rating" : "8.0",
+  "ratingIn5" : "6.6",
+  "url" : "/high/Ecole_Regionale_St._Paul_Regional_High_School/St._Paul/Report_Card.aspx"
+}, {
+  "rank" : "28/307",
+  "rankIn5" : "n/a",
+  "name" : "Our Lady of the Snows",
+  "city" : "Canmore",
+  "rating" : "8.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Our_Lady_of_the_Snows_Catholic_Academy/Canmore/Report_Card.aspx"
+}, {
+  "rank" : "32/307",
+  "rankIn5" : "14/246",
+  "name" : "Holy Trinity Academy",
+  "city" : "Okotoks",
+  "rating" : "7.9",
+  "ratingIn5" : "8.2",
+  "url" : "/high/Holy_Trinity_Academy/Okotoks/Report_Card.aspx"
+}, {
+  "rank" : "32/307",
+  "rankIn5" : "20/246",
+  "name" : "Bawlf",
+  "city" : "Bawlf",
+  "rating" : "7.9",
+  "ratingIn5" : "7.9",
+  "url" : "/high/Bawlf_School/Bawlf/Report_Card.aspx"
+}, {
+  "rank" : "32/307",
+  "rankIn5" : "20/246",
+  "name" : "Dr. E. P. Scarlett",
+  "city" : "Calgary",
+  "rating" : "7.9",
+  "ratingIn5" : "7.9",
+  "url" : "/high/Dr._E._P._Scarlett_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "32/307",
+  "rankIn5" : "25/246",
+  "name" : "W. R. Myers",
+  "city" : "Taber",
+  "rating" : "7.9",
+  "ratingIn5" : "7.8",
+  "url" : "/high/W._R._Myers_High_School/Taber/Report_Card.aspx"
+}, {
+  "rank" : "32/307",
+  "rankIn5" : "43/246",
+  "name" : "Didsbury",
+  "city" : "Didsbury",
+  "rating" : "7.9",
+  "ratingIn5" : "7.4",
+  "url" : "/high/Didsbury_High_School/Didsbury/Report_Card.aspx"
+}, {
+  "rank" : "37/307",
+  "rankIn5" : "20/246",
+  "name" : "Beaumont",
+  "city" : "Beaumont",
+  "rating" : "7.8",
+  "ratingIn5" : "7.9",
+  "url" : "/high/Ecole_Secondaire_Beaumont_Composite_High_School/Beaumont/Report_Card.aspx"
+}, {
+  "rank" : "38/307",
+  "rankIn5" : "68/246",
+  "name" : "Ernest Manning",
+  "city" : "Calgary",
+  "rating" : "7.7",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Ernest_Manning_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "38/307",
+  "rankIn5" : "135/246",
+  "name" : "Holy Trinity Academy",
+  "city" : "Drayton Valley",
+  "rating" : "7.7",
+  "ratingIn5" : "6.1",
+  "url" : "/high/Holy_Trinity_Academy/Drayton_Valley/Report_Card.aspx"
+}, {
+  "rank" : "38/307",
+  "rankIn5" : "170/246",
+  "name" : "St. Mary's",
+  "city" : "Taber",
+  "rating" : "7.7",
+  "ratingIn5" : "5.6",
+  "url" : "/high/St._Mary's_Roman_Catholic_Separate_School/Taber/Report_Card.aspx"
+}, {
+  "rank" : "38/307",
+  "rankIn5" : "192/246",
+  "name" : "Mallaig",
+  "city" : "Mallaig",
+  "rating" : "7.7",
+  "ratingIn5" : "5.2",
+  "url" : "/high/Ecole_Mallaig_Community_School/Mallaig/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "18/246",
+  "name" : "Calgary Christian",
+  "city" : "Calgary",
+  "rating" : "7.6",
+  "ratingIn5" : "8.0",
+  "url" : "/high/Calgary_Christian_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "28/246",
+  "name" : "J H Picard",
+  "city" : "Edmonton",
+  "rating" : "7.6",
+  "ratingIn5" : "7.7",
+  "url" : "/high/J_H_Picard/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "28/246",
+  "name" : "Millwoods Christian",
+  "city" : "Edmonton",
+  "rating" : "7.6",
+  "ratingIn5" : "7.7",
+  "url" : "/high/Millwoods_Christian_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "36/246",
+  "name" : "Strathcona",
+  "city" : "Edmonton",
+  "rating" : "7.6",
+  "ratingIn5" : "7.5",
+  "url" : "/high/Strathcona_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "43/246",
+  "name" : "Bev Facey",
+  "city" : "Sherwood Park",
+  "rating" : "7.6",
+  "ratingIn5" : "7.4",
+  "url" : "/high/Bev_Facey_Community_High_School/Sherwood_Park/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "n/a",
+  "name" : "Airdrie Koinonia Christian",
+  "city" : "Airdrie",
+  "rating" : "7.6",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Airdrie_Koinonia_Christian_School/Airdrie/Report_Card.aspx"
+}, {
+  "rank" : "42/307",
+  "rankIn5" : "n/a",
+  "name" : "Learning@HOME",
+  "city" : "Okotoks",
+  "rating" : "7.6",
+  "ratingIn5" : "n/a",
+  "url" : "/high/The_Centre_for_Learning%40HOME/Okotoks/Report_Card.aspx"
+}, {
+  "rank" : "49/307",
+  "rankIn5" : "25/246",
+  "name" : "Rundle College Academy",
+  "city" : "Calgary",
+  "rating" : "7.5",
+  "ratingIn5" : "7.8",
+  "url" : "/high/Rundle_College_Academy/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "49/307",
+  "rankIn5" : "30/246",
+  "name" : "Edge",
+  "city" : "Calgary",
+  "rating" : "7.5",
+  "ratingIn5" : "7.6",
+  "url" : "/high/Edge_School_for_Athletes/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "49/307",
+  "rankIn5" : "30/246",
+  "name" : "Henry Wise Wood",
+  "city" : "Calgary",
+  "rating" : "7.5",
+  "ratingIn5" : "7.6",
+  "url" : "/high/Henry_Wise_Wood_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "49/307",
+  "rankIn5" : "51/246",
+  "name" : "Magrath",
+  "city" : "Magrath",
+  "rating" : "7.5",
+  "ratingIn5" : "7.2",
+  "url" : "/high/Magrath_Junior_Senior_High_School/Magrath/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "30/246",
+  "name" : "Centennial",
+  "city" : "Calgary",
+  "rating" : "7.4",
+  "ratingIn5" : "7.6",
+  "url" : "/high/Centennial_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "43/246",
+  "name" : "South Central",
+  "city" : "Oyen",
+  "rating" : "7.4",
+  "ratingIn5" : "7.4",
+  "url" : "/high/South_Central_High_School/Oyen/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "57/246",
+  "name" : "Foothills Academy",
+  "city" : "Calgary",
+  "rating" : "7.4",
+  "ratingIn5" : "7.1",
+  "url" : "/high/Foothills_Academy/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "86/246",
+  "name" : "Crowsnest",
+  "city" : "Coleman",
+  "rating" : "7.4",
+  "ratingIn5" : "6.7",
+  "url" : "/high/Crowsnest_Consolidated_High_School/Coleman/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "100/246",
+  "name" : "Hughenden",
+  "city" : "Hughenden",
+  "rating" : "7.4",
+  "ratingIn5" : "6.5",
+  "url" : "/high/Hughenden_Public_School/Hughenden/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "100/246",
+  "name" : "Tofield",
+  "city" : "Tofield",
+  "rating" : "7.4",
+  "ratingIn5" : "6.5",
+  "url" : "/high/Tofield_School/Tofield/Report_Card.aspx"
+}, {
+  "rank" : "53/307",
+  "rankIn5" : "n/a",
+  "name" : "Horizon MAP",
+  "city" : "Vauxhall",
+  "rating" : "7.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Horizon_MAP_School/Vauxhall/Report_Card.aspx"
+}, {
+  "rank" : "60/307",
+  "rankIn5" : "20/246",
+  "name" : "Immanuel Christian",
+  "city" : "Lethbridge",
+  "rating" : "7.3",
+  "ratingIn5" : "7.9",
+  "url" : "/high/Immanuel_Christian_High_School/Lethbridge/Report_Card.aspx"
+}, {
+  "rank" : "60/307",
+  "rankIn5" : "48/246",
+  "name" : "Queen Elizabeth",
+  "city" : "Calgary",
+  "rating" : "7.3",
+  "ratingIn5" : "7.3",
+  "url" : "/high/Queen_Elizabeth_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "60/307",
+  "rankIn5" : "126/246",
+  "name" : "Matthew Halton",
+  "city" : "Pincher Creek",
+  "rating" : "7.3",
+  "ratingIn5" : "6.2",
+  "url" : "/high/Matthew_Halton_High_School/Pincher_Creek/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "30/246",
+  "name" : "Christ The King",
+  "city" : "Leduc",
+  "rating" : "7.2",
+  "ratingIn5" : "7.6",
+  "url" : "/high/Christ_The_King_Junior_Senior_High_School/Leduc/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "43/246",
+  "name" : "Master's College",
+  "city" : "Calgary",
+  "rating" : "7.2",
+  "ratingIn5" : "7.4",
+  "url" : "/high/Master's_College/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "48/246",
+  "name" : "Onoway",
+  "city" : "Onoway",
+  "rating" : "7.2",
+  "ratingIn5" : "7.3",
+  "url" : "/high/Onoway_Junior_Senior_High_School/Onoway/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "51/246",
+  "name" : "George McDougall",
+  "city" : "Airdrie",
+  "rating" : "7.2",
+  "ratingIn5" : "7.2",
+  "url" : "/high/George_McDougall_High_School/Airdrie/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "57/246",
+  "name" : "Hunting Hills",
+  "city" : "Red Deer",
+  "rating" : "7.2",
+  "ratingIn5" : "7.1",
+  "url" : "/high/Hunting_Hills_High_School/Red_Deer/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "63/246",
+  "name" : "Holy Cross",
+  "city" : "Strathmore",
+  "rating" : "7.2",
+  "ratingIn5" : "7.0",
+  "url" : "/high/Holy_Cross_Collegiate/Strathmore/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "63/246",
+  "name" : "McCoy",
+  "city" : "Medicine Hat",
+  "rating" : "7.2",
+  "ratingIn5" : "7.0",
+  "url" : "/high/McCoy_High_School/Medicine_Hat/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Jerome's",
+  "city" : "Vermilion",
+  "rating" : "7.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Jerome's_School/Vermilion/Report_Card.aspx"
+}, {
+  "rank" : "63/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Peter the Apostle",
+  "city" : "Spruce Grove",
+  "rating" : "7.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Peter_the_Apostle_Catholic_High_School/Spruce_Grove/Report_Card.aspx"
+}, {
+  "rank" : "72/307",
+  "rankIn5" : "36/246",
+  "name" : "Archbishop Jordan",
+  "city" : "Sherwood Park",
+  "rating" : "7.1",
+  "ratingIn5" : "7.5",
+  "url" : "/high/Archbishop_Jordan_High_School/Sherwood_Park/Report_Card.aspx"
+}, {
+  "rank" : "72/307",
+  "rankIn5" : "36/246",
+  "name" : "St. Francis",
+  "city" : "Calgary",
+  "rating" : "7.1",
+  "ratingIn5" : "7.5",
+  "url" : "/high/St._Francis_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "72/307",
+  "rankIn5" : "92/246",
+  "name" : "Vegreville",
+  "city" : "Vegreville",
+  "rating" : "7.1",
+  "ratingIn5" : "6.6",
+  "url" : "/high/Vegreville_Composite_High_School/Vegreville/Report_Card.aspx"
+}, {
+  "rank" : "72/307",
+  "rankIn5" : "196/246",
+  "name" : "Delburne Centralized",
+  "city" : "Delburne",
+  "rating" : "7.1",
+  "ratingIn5" : "5.1",
+  "url" : "/high/Delburne_Centralized_School/Delburne/Report_Card.aspx"
+}, {
+  "rank" : "72/307",
+  "rankIn5" : "n/a",
+  "name" : "Stirling",
+  "city" : "Stirling",
+  "rating" : "7.1",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Stirling_School/Stirling/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "36/246",
+  "name" : "Cochrane",
+  "city" : "Cochrane",
+  "rating" : "7.0",
+  "ratingIn5" : "7.5",
+  "url" : "/high/Cochrane_High_School/Cochrane/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "36/246",
+  "name" : "Harry Ainlay",
+  "city" : "Edmonton",
+  "rating" : "7.0",
+  "ratingIn5" : "7.5",
+  "url" : "/high/Harry_Ainlay_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "51/246",
+  "name" : "John G Diefenbaker",
+  "city" : "Calgary",
+  "rating" : "7.0",
+  "ratingIn5" : "7.2",
+  "url" : "/high/John_G_Diefenbaker_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "57/246",
+  "name" : "Bishop O'Byrne",
+  "city" : "Calgary",
+  "rating" : "7.0",
+  "ratingIn5" : "7.1",
+  "url" : "/high/Bishop_O'Byrne_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "80/246",
+  "name" : "Spruce Grove",
+  "city" : "Spruce Grove",
+  "rating" : "7.0",
+  "ratingIn5" : "6.8",
+  "url" : "/high/Spruce_Grove_Composite_High_School/Spruce_Grove/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "176/246",
+  "name" : "Innisfail",
+  "city" : "Innisfail",
+  "rating" : "7.0",
+  "ratingIn5" : "5.5",
+  "url" : "/high/Innisfail_Junior_Senior_High_School/Innisfail/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "204/246",
+  "name" : "Sexsmith",
+  "city" : "Sexsmith",
+  "rating" : "7.0",
+  "ratingIn5" : "4.9",
+  "url" : "/high/Sexsmith_Secondary_School/Sexsmith/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "n/a",
+  "name" : "Calgary Academy Collegiate",
+  "city" : "Calgary",
+  "rating" : "7.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Calgary_Academy_Collegiate/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "77/307",
+  "rankIn5" : "n/a",
+  "name" : "Lillian Osborne",
+  "city" : "Edmonton",
+  "rating" : "7.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Lillian_Osborne_High_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "48/246",
+  "name" : "St. Albert",
+  "city" : "St. Albert",
+  "rating" : "6.9",
+  "ratingIn5" : "7.3",
+  "url" : "/high/St._Albert_Catholic_High_School/St._Albert/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "51/246",
+  "name" : "Hugh Sutherland",
+  "city" : "Carstairs",
+  "rating" : "6.9",
+  "ratingIn5" : "7.2",
+  "url" : "/high/Hugh_Sutherland_School/Carstairs/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "57/246",
+  "name" : "Eagle Butte",
+  "city" : "Dunmore",
+  "rating" : "6.9",
+  "ratingIn5" : "7.1",
+  "url" : "/high/Eagle_Butte_High_School/Dunmore/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "57/246",
+  "name" : "Kate Andrews",
+  "city" : "Coaldale",
+  "rating" : "6.9",
+  "ratingIn5" : "7.1",
+  "url" : "/high/Kate_Andrews_High_School/Coaldale/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "100/246",
+  "name" : "W. G. Murdoch",
+  "city" : "Crossfield",
+  "rating" : "6.9",
+  "ratingIn5" : "6.5",
+  "url" : "/high/W._G._Murdoch_School/Crossfield/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "108/246",
+  "name" : "Cold Lake",
+  "city" : "Cold Lake",
+  "rating" : "6.9",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Cold_Lake_High_School/Cold_Lake/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "135/246",
+  "name" : "J. T. Foster",
+  "city" : "Nanton",
+  "rating" : "6.9",
+  "ratingIn5" : "6.1",
+  "url" : "/high/J._T._Foster_School/Nanton/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "150/246",
+  "name" : "Notre Dame",
+  "city" : "Bonnyville",
+  "rating" : "6.9",
+  "ratingIn5" : "5.9",
+  "url" : "/high/Ecole_Notre_Dame_High/Bonnyville/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "150/246",
+  "name" : "Willow Creek",
+  "city" : "Claresholm",
+  "rating" : "6.9",
+  "ratingIn5" : "5.9",
+  "url" : "/high/Willow_Creek_Composite_High_School/Claresholm/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "n/a",
+  "name" : "Calgary Islamic",
+  "city" : "Calgary",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Calgary_Islamic_Private_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "n/a",
+  "name" : "des Beaux-Lacs",
+  "city" : "Bonnyville",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/%c3%89cole_des_Beaux-Lacs/Bonnyville/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "n/a",
+  "name" : "Living Waters",
+  "city" : "Spruce Grove",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Living_Waters_Christian_Academy/Spruce_Grove/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "n/a",
+  "name" : "Maurice-Lavallee",
+  "city" : "Edmonton",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Ecole_Maurice-Lavallee/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "n/a",
+  "name" : "Mother Margaret Mary",
+  "city" : "Edmonton",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Mother_Margaret_Mary_Catholic_High_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "86/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Dominic",
+  "city" : "Rocky Mountain House",
+  "rating" : "6.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Dominic_High_School/Rocky_Mountain_House/Report_Card.aspx"
+}, {
+  "rank" : "101/307",
+  "rankIn5" : "51/246",
+  "name" : "Notre Dame Collegiate",
+  "city" : "High River",
+  "rating" : "6.8",
+  "ratingIn5" : "7.2",
+  "url" : "/high/Notre_Dame_Collegiate/High_River/Report_Card.aspx"
+}, {
+  "rank" : "101/307",
+  "rankIn5" : "92/246",
+  "name" : "Foothills",
+  "city" : "Okotoks",
+  "rating" : "6.8",
+  "ratingIn5" : "6.6",
+  "url" : "/high/Foothills_Composite_High_School/Okotoks/Report_Card.aspx"
+}, {
+  "rank" : "101/307",
+  "rankIn5" : "92/246",
+  "name" : "St. Gabriel the Archangel",
+  "city" : "Chestermere",
+  "rating" : "6.8",
+  "ratingIn5" : "6.6",
+  "url" : "/high/St._Gabriel_the_Archangel/Chestermere/Report_Card.aspx"
+}, {
+  "rank" : "101/307",
+  "rankIn5" : "100/246",
+  "name" : "Notre Dame",
+  "city" : "Calgary",
+  "rating" : "6.8",
+  "ratingIn5" : "6.5",
+  "url" : "/high/Notre_Dame_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "101/307",
+  "rankIn5" : "n/a",
+  "name" : "Foremost",
+  "city" : "Foremost",
+  "rating" : "6.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Foremost_School/Foremost/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "30/246",
+  "name" : "National Sport",
+  "city" : "Calgary",
+  "rating" : "6.7",
+  "ratingIn5" : "7.6",
+  "url" : "/high/National_Sport_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "36/246",
+  "name" : "Picture Butte",
+  "city" : "Picture Butte",
+  "rating" : "6.7",
+  "ratingIn5" : "7.5",
+  "url" : "/high/Picture_Butte_High_School/Picture_Butte/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "63/246",
+  "name" : "Bow Valley",
+  "city" : "Cochrane",
+  "rating" : "6.7",
+  "ratingIn5" : "7.0",
+  "url" : "/high/Bow_Valley_High_School/Cochrane/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "63/246",
+  "name" : "St. Martin De Porres",
+  "city" : "Airdrie",
+  "rating" : "6.7",
+  "ratingIn5" : "7.0",
+  "url" : "/high/St._Martin_De_Porres_High_School/Airdrie/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "68/246",
+  "name" : "Central Alberta Christian",
+  "city" : "Lacombe",
+  "rating" : "6.7",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Central_Alberta_Christian_High_School/Lacombe/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "68/246",
+  "name" : "Redwater",
+  "city" : "Redwater",
+  "rating" : "6.7",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Redwater_School/Redwater/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "80/246",
+  "name" : "St. Francis Xavier",
+  "city" : "Edmonton",
+  "rating" : "6.7",
+  "ratingIn5" : "6.8",
+  "url" : "/high/St._Francis_Xavier/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "92/246",
+  "name" : "Memorial",
+  "city" : "Stony Plain",
+  "rating" : "6.7",
+  "ratingIn5" : "6.6",
+  "url" : "/high/Memorial_Composite_High_School/Stony_Plain/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "108/246",
+  "name" : "Leduc",
+  "city" : "Leduc",
+  "rating" : "6.7",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Leduc_Composite_High_School/Leduc/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "108/246",
+  "name" : "Rosemary",
+  "city" : "Rosemary",
+  "rating" : "6.7",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Rosemary_School/Rosemary/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "120/246",
+  "name" : "Wetaskiwin",
+  "city" : "Wetaskiwin",
+  "rating" : "6.7",
+  "ratingIn5" : "6.3",
+  "url" : "/high/Wetaskiwin_Composite_High_School/Wetaskiwin/Report_Card.aspx"
+}, {
+  "rank" : "106/307",
+  "rankIn5" : "158/246",
+  "name" : "La Crete",
+  "city" : "La Crete",
+  "rating" : "6.7",
+  "ratingIn5" : "5.8",
+  "url" : "/high/La_Crete_Public_School/La_Crete/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "57/246",
+  "name" : "Livingstone",
+  "city" : "Lundbreck",
+  "rating" : "6.6",
+  "ratingIn5" : "7.1",
+  "url" : "/high/Livingstone_School/Lundbreck/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "68/246",
+  "name" : "Paul Kane",
+  "city" : "St. Albert",
+  "rating" : "6.6",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Paul_Kane_High_School/St._Albert/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "80/246",
+  "name" : "Austin O'Brien",
+  "city" : "Edmonton",
+  "rating" : "6.6",
+  "ratingIn5" : "6.8",
+  "url" : "/high/Austin_O'Brien/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "80/246",
+  "name" : "Three Hills",
+  "city" : "Three Hills",
+  "rating" : "6.6",
+  "ratingIn5" : "6.8",
+  "url" : "/high/Three_Hills_School/Three_Hills/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "86/246",
+  "name" : "Louis St. Laurent",
+  "city" : "Edmonton",
+  "rating" : "6.6",
+  "ratingIn5" : "6.7",
+  "url" : "/high/Louis_St._Laurent/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "92/246",
+  "name" : "Bishop Grandin",
+  "city" : "Calgary",
+  "rating" : "6.6",
+  "ratingIn5" : "6.6",
+  "url" : "/high/Bishop_Grandin_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "92/246",
+  "name" : "Vimy Ridge",
+  "city" : "Edmonton",
+  "rating" : "6.6",
+  "ratingIn5" : "6.6",
+  "url" : "/high/L'Academie_Vimy_Ridge_Academy/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "108/246",
+  "name" : "Chestermere",
+  "city" : "Calgary",
+  "rating" : "6.6",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Chestermere_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "118/307",
+  "rankIn5" : "n/a",
+  "name" : "New Sarepta",
+  "city" : "New Sarepta",
+  "rating" : "6.6",
+  "ratingIn5" : "n/a",
+  "url" : "/high/New_Sarepta_Community_High_School/New_Sarepta/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "68/246",
+  "name" : "Highwood",
+  "city" : "High River",
+  "rating" : "6.5",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Ecole_Secondaire_Highwood_High_School/High_River/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "68/246",
+  "name" : "Morinville",
+  "city" : "Morinville",
+  "rating" : "6.5",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Morinville_Community_High_School/Morinville/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "68/246",
+  "name" : "Senator Gershaw",
+  "city" : "Bow Island",
+  "rating" : "6.5",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Senator_Gershaw_School/Bow_Island/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "80/246",
+  "name" : "Sundre",
+  "city" : "Sundre",
+  "rating" : "6.5",
+  "ratingIn5" : "6.8",
+  "url" : "/high/Sundre_High_School/Sundre/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "86/246",
+  "name" : "Parkview Adventist",
+  "city" : "Lacombe",
+  "rating" : "6.5",
+  "ratingIn5" : "6.7",
+  "url" : "/high/Parkview_Adventist_Academy/Lacombe/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "100/246",
+  "name" : "J. R. Robson",
+  "city" : "Vermilion",
+  "rating" : "6.5",
+  "ratingIn5" : "6.5",
+  "url" : "/high/J._R._Robson_School/Vermilion/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "100/246",
+  "name" : "Rimbey",
+  "city" : "Rimbey",
+  "rating" : "6.5",
+  "ratingIn5" : "6.5",
+  "url" : "/high/Rimbey_Junior_Senior_High_School/Rimbey/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "108/246",
+  "name" : "Crescent Heights",
+  "city" : "Calgary",
+  "rating" : "6.5",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Crescent_Heights_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "120/246",
+  "name" : "Central Memorial",
+  "city" : "Calgary",
+  "rating" : "6.5",
+  "ratingIn5" : "6.3",
+  "url" : "/high/Central_Memorial_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "120/246",
+  "name" : "Lord Beaverbrook",
+  "city" : "Calgary",
+  "rating" : "6.5",
+  "ratingIn5" : "6.3",
+  "url" : "/high/Lord_Beaverbrook_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "126/246",
+  "name" : "St. Mary's",
+  "city" : "Vegreville",
+  "rating" : "6.5",
+  "ratingIn5" : "6.2",
+  "url" : "/high/St._Mary's_High_School/Vegreville/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "143/246",
+  "name" : "Two Hills",
+  "city" : "Two Hills",
+  "rating" : "6.5",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Two_Hills_School/Two_Hills/Report_Card.aspx"
+}, {
+  "rank" : "127/307",
+  "rankIn5" : "n/a",
+  "name" : "Alexandre-Taché",
+  "city" : "St. Albert",
+  "rating" : "6.5",
+  "ratingIn5" : "n/a",
+  "url" : "/high/%c3%89cole_Alexandre-Tach%c3%a9/St._Albert/Report_Card.aspx"
+}, {
+  "rank" : "140/307",
+  "rankIn5" : "86/246",
+  "name" : "Jasper",
+  "city" : "Jasper",
+  "rating" : "6.4",
+  "ratingIn5" : "6.7",
+  "url" : "/high/Jasper_Junior_Senior_High_School/Jasper/Report_Card.aspx"
+}, {
+  "rank" : "140/307",
+  "rankIn5" : "92/246",
+  "name" : "Holy Trinity",
+  "city" : "Edmonton",
+  "rating" : "6.4",
+  "ratingIn5" : "6.6",
+  "url" : "/high/Holy_Trinity/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "140/307",
+  "rankIn5" : "100/246",
+  "name" : "Bowness",
+  "city" : "Calgary",
+  "rating" : "6.4",
+  "ratingIn5" : "6.5",
+  "url" : "/high/Bowness_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "140/307",
+  "rankIn5" : "135/246",
+  "name" : "Gerard Redmond",
+  "city" : "Hinton",
+  "rating" : "6.4",
+  "ratingIn5" : "6.1",
+  "url" : "/high/Gerard_Redmond_Community_Catholic_School/Hinton/Report_Card.aspx"
+}, {
+  "rank" : "140/307",
+  "rankIn5" : "158/246",
+  "name" : "H. J. Cody",
+  "city" : "Sylvan Lake",
+  "rating" : "6.4",
+  "ratingIn5" : "5.8",
+  "url" : "/high/H._J._Cody_School/Sylvan_Lake/Report_Card.aspx"
+}, {
+  "rank" : "140/307",
+  "rankIn5" : "192/246",
+  "name" : "Thorhild Central",
+  "city" : "Thorhild",
+  "rating" : "6.4",
+  "ratingIn5" : "5.2",
+  "url" : "/high/Thorhild_Central_School/Thorhild/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "68/246",
+  "name" : "Acme",
+  "city" : "Acme",
+  "rating" : "6.3",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Acme_School/Acme/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "68/246",
+  "name" : "Canmore Collegiate",
+  "city" : "Canmore",
+  "rating" : "6.3",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Canmore_Collegiate/Canmore/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "80/246",
+  "name" : "New Norway",
+  "city" : "New Norway",
+  "rating" : "6.3",
+  "ratingIn5" : "6.8",
+  "url" : "/high/New_Norway_School/New_Norway/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "108/246",
+  "name" : "Cremona",
+  "city" : "Cremona",
+  "rating" : "6.3",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Cremona_School/Cremona/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "126/246",
+  "name" : "Calgary Academy",
+  "city" : "Calgary",
+  "rating" : "6.3",
+  "ratingIn5" : "6.2",
+  "url" : "/high/Calgary_Academy/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "165/246",
+  "name" : "Eckville",
+  "city" : "Eckville",
+  "rating" : "6.3",
+  "ratingIn5" : "5.7",
+  "url" : "/high/Eckville_Junior_Senior_High_School/Eckville/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "165/246",
+  "name" : "Richard F Staples",
+  "city" : "Westlock",
+  "rating" : "6.3",
+  "ratingIn5" : "5.7",
+  "url" : "/high/Richard_F_Staples_Secondary_School/Westlock/Report_Card.aspx"
+}, {
+  "rank" : "146/307",
+  "rankIn5" : "204/246",
+  "name" : "Thorsby",
+  "city" : "Thorsby",
+  "rating" : "6.3",
+  "ratingIn5" : "4.9",
+  "url" : "/high/Thorsby_Junior_Senior_High_School/Thorsby/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "68/246",
+  "name" : "Assumption",
+  "city" : "Cold Lake",
+  "rating" : "6.2",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Assumption_Junior_Senior_High_School/Cold_Lake/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "68/246",
+  "name" : "County Central",
+  "city" : "Vulcan",
+  "rating" : "6.2",
+  "ratingIn5" : "6.9",
+  "url" : "/high/County_Central_High_School/Vulcan/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "126/246",
+  "name" : "Sturgeon",
+  "city" : "Namao",
+  "rating" : "6.2",
+  "ratingIn5" : "6.2",
+  "url" : "/high/Sturgeon_Composite_High_School/Namao/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "135/246",
+  "name" : "Provost",
+  "city" : "Provost",
+  "rating" : "6.2",
+  "ratingIn5" : "6.1",
+  "url" : "/high/Provost_Public_School/Provost/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "143/246",
+  "name" : "Central High Sedgewick",
+  "city" : "Sedgewick",
+  "rating" : "6.2",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Central_High_School_Sedgewick/Sedgewick/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "143/246",
+  "name" : "Holy Redeemer",
+  "city" : "Edson",
+  "rating" : "6.2",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Holy_Redeemer_Catholic_Junior%2fSenior_High_School/Edson/Report_Card.aspx"
+}, {
+  "rank" : "154/307",
+  "rankIn5" : "158/246",
+  "name" : "Bowden Grandview",
+  "city" : "Bowden",
+  "rating" : "6.2",
+  "ratingIn5" : "5.8",
+  "url" : "/high/Bowden_(Grandview)_School/Bowden/Report_Card.aspx"
+}, {
+  "rank" : "161/307",
+  "rankIn5" : "120/246",
+  "name" : "Notre Dame",
+  "city" : "Red Deer",
+  "rating" : "6.1",
+  "ratingIn5" : "6.3",
+  "url" : "/high/Ecole_Secondaire_Notre_Dame_High_School/Red_Deer/Report_Card.aspx"
+}, {
+  "rank" : "161/307",
+  "rankIn5" : "126/246",
+  "name" : "Archbishop Oscar Romero",
+  "city" : "Edmonton",
+  "rating" : "6.1",
+  "ratingIn5" : "6.2",
+  "url" : "/high/Archbishop_Oscar_Romero/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "161/307",
+  "rankIn5" : "126/246",
+  "name" : "John Maland",
+  "city" : "Devon",
+  "rating" : "6.1",
+  "ratingIn5" : "6.2",
+  "url" : "/high/John_Maland_High_School/Devon/Report_Card.aspx"
+}, {
+  "rank" : "161/307",
+  "rankIn5" : "143/246",
+  "name" : "Daysland",
+  "city" : "Daysland",
+  "rating" : "6.1",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Daysland_School/Daysland/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "63/246",
+  "name" : "Coronation",
+  "city" : "Coronation",
+  "rating" : "6.0",
+  "ratingIn5" : "7.0",
+  "url" : "/high/Coronation_School/Coronation/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "100/246",
+  "name" : "Raymond",
+  "city" : "Raymond",
+  "rating" : "6.0",
+  "ratingIn5" : "6.5",
+  "url" : "/high/Raymond_High_School/Raymond/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "108/246",
+  "name" : "Bert Church",
+  "city" : "Airdrie",
+  "rating" : "6.0",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Bert_Church_High_School/Airdrie/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "108/246",
+  "name" : "W P Wagner",
+  "city" : "Edmonton",
+  "rating" : "6.0",
+  "ratingIn5" : "6.4",
+  "url" : "/high/W_P_Wagner_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "135/246",
+  "name" : "Glenmary",
+  "city" : "Peace River",
+  "rating" : "6.0",
+  "ratingIn5" : "6.1",
+  "url" : "/high/Glenmary_School/Peace_River/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "150/246",
+  "name" : "Salisbury",
+  "city" : "Sherwood Park",
+  "rating" : "6.0",
+  "ratingIn5" : "5.9",
+  "url" : "/high/Salisbury_Composite_High_School/Sherwood_Park/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "158/246",
+  "name" : "Strathmore",
+  "city" : "Strathmore",
+  "rating" : "6.0",
+  "ratingIn5" : "5.8",
+  "url" : "/high/Strathmore_High_School/Strathmore/Report_Card.aspx"
+}, {
+  "rank" : "165/307",
+  "rankIn5" : "n/a",
+  "name" : "Northstar",
+  "city" : "Didsbury",
+  "rating" : "6.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Northstar_Academy_-_Canada/Didsbury/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "108/246",
+  "name" : "Catholic Central",
+  "city" : "Lethbridge",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Catholic_Central_High_School/Lethbridge/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "108/246",
+  "name" : "St. Joseph",
+  "city" : "Whitecourt",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/high/St._Joseph_School/Whitecourt/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "108/246",
+  "name" : "Westwood",
+  "city" : "Fort McMurray",
+  "rating" : "5.9",
+  "ratingIn5" : "6.4",
+  "url" : "/high/Westwood_Community_High_School/Fort_McMurray/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "120/246",
+  "name" : "Ross Sheppard",
+  "city" : "Edmonton",
+  "rating" : "5.9",
+  "ratingIn5" : "6.3",
+  "url" : "/high/Ross_Sheppard_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "126/246",
+  "name" : "Archbishop O'Leary",
+  "city" : "Edmonton",
+  "rating" : "5.9",
+  "ratingIn5" : "6.2",
+  "url" : "/high/Archbishop_O'Leary/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "135/246",
+  "name" : "Barrhead",
+  "city" : "Barrhead",
+  "rating" : "5.9",
+  "ratingIn5" : "6.1",
+  "url" : "/high/Barrhead_Composite_High_School/Barrhead/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "170/246",
+  "name" : "Frank Maddock",
+  "city" : "Drayton Valley",
+  "rating" : "5.9",
+  "ratingIn5" : "5.6",
+  "url" : "/high/Frank_Maddock_High_School/Drayton_Valley/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "180/246",
+  "name" : "Chinook",
+  "city" : "Lethbridge",
+  "rating" : "5.9",
+  "ratingIn5" : "5.4",
+  "url" : "/high/Chinook_High_School/Lethbridge/Report_Card.aspx"
+}, {
+  "rank" : "173/307",
+  "rankIn5" : "211/246",
+  "name" : "Peace Wapiti Academy",
+  "city" : "Grande Prairie",
+  "rating" : "5.9",
+  "ratingIn5" : "4.8",
+  "url" : "/high/Peace_Wapiti_Academy/Grande_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "126/246",
+  "name" : "F. P. Walshe",
+  "city" : "Fort Macleod",
+  "rating" : "5.8",
+  "ratingIn5" : "6.2",
+  "url" : "/high/F._P._Walshe_School/Fort_Macleod/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "143/246",
+  "name" : "Parkland",
+  "city" : "Edson",
+  "rating" : "5.8",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Parkland_Composite_High_School/Edson/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "150/246",
+  "name" : "Winston Churchill",
+  "city" : "Lethbridge",
+  "rating" : "5.8",
+  "ratingIn5" : "5.9",
+  "url" : "/high/Winston_Churchill_High_School/Lethbridge/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "176/246",
+  "name" : "Fort Saskatchewan",
+  "city" : "Fort Saskatchewan",
+  "rating" : "5.8",
+  "ratingIn5" : "5.5",
+  "url" : "/high/Fort_Saskatchewan_High_School/Fort_Saskatchewan/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "196/246",
+  "name" : "Kitscoty",
+  "city" : "Kitscoty",
+  "rating" : "5.8",
+  "ratingIn5" : "5.1",
+  "url" : "/high/Kitscoty_Junior_Senior_High_School/Kitscoty/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "n/a",
+  "name" : "Marwayne Jubilee",
+  "city" : "Marwayne",
+  "rating" : "5.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Marwayne_Jubilee_School/Marwayne/Report_Card.aspx"
+}, {
+  "rank" : "182/307",
+  "rankIn5" : "n/a",
+  "name" : "Morrin",
+  "city" : "Morrin",
+  "rating" : "5.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Morrin_School/Morrin/Report_Card.aspx"
+}, {
+  "rank" : "189/307",
+  "rankIn5" : "108/246",
+  "name" : "St. Joseph's",
+  "city" : "Brooks",
+  "rating" : "5.7",
+  "ratingIn5" : "6.4",
+  "url" : "/high/St._Joseph's_Collegiate/Brooks/Report_Card.aspx"
+}, {
+  "rank" : "189/307",
+  "rankIn5" : "196/246",
+  "name" : "Bonnyville",
+  "city" : "Bonnyville",
+  "rating" : "5.7",
+  "ratingIn5" : "5.1",
+  "url" : "/high/Bonnyville_Centralized_High_School/Bonnyville/Report_Card.aspx"
+}, {
+  "rank" : "189/307",
+  "rankIn5" : "204/246",
+  "name" : "J. C. Charyk Hanna",
+  "city" : "Hanna",
+  "rating" : "5.7",
+  "ratingIn5" : "4.9",
+  "url" : "/high/J._C._Charyk_Hanna_School/Hanna/Report_Card.aspx"
+}, {
+  "rank" : "189/307",
+  "rankIn5" : "n/a",
+  "name" : "Chinook Winds Adventist",
+  "city" : "Calgary",
+  "rating" : "5.7",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Chinook_Winds_Adventist_Academy/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "189/307",
+  "rankIn5" : "n/a",
+  "name" : "Holy Trinity",
+  "city" : "Fort McMurray",
+  "rating" : "5.7",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Holy_Trinity_High_School/Fort_McMurray/Report_Card.aspx"
+}, {
+  "rank" : "189/307",
+  "rankIn5" : "n/a",
+  "name" : "Learning Store on Whyte",
+  "city" : "Edmonton",
+  "rating" : "5.7",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Learning_Store_on_Whyte/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "195/307",
+  "rankIn5" : "143/246",
+  "name" : "Medicine Hat",
+  "city" : "Medicine Hat",
+  "rating" : "5.6",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Medicine_Hat_High_School/Medicine_Hat/Report_Card.aspx"
+}, {
+  "rank" : "195/307",
+  "rankIn5" : "150/246",
+  "name" : "Will Sinclair",
+  "city" : "Rocky Mountain House",
+  "rating" : "5.6",
+  "ratingIn5" : "5.9",
+  "url" : "/high/West_Central_High_School/Rocky_Mountain_House/Report_Card.aspx"
+}, {
+  "rank" : "195/307",
+  "rankIn5" : "183/246",
+  "name" : "Jasper Place",
+  "city" : "Edmonton",
+  "rating" : "5.6",
+  "ratingIn5" : "5.3",
+  "url" : "/high/Jasper_Place_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "195/307",
+  "rankIn5" : "183/246",
+  "name" : "Peace River",
+  "city" : "Peace River",
+  "rating" : "5.6",
+  "ratingIn5" : "5.3",
+  "url" : "/high/Peace_River_High_School/Peace_River/Report_Card.aspx"
+}, {
+  "rank" : "195/307",
+  "rankIn5" : "204/246",
+  "name" : "Lamont",
+  "city" : "Lamont",
+  "rating" : "5.6",
+  "ratingIn5" : "4.9",
+  "url" : "/high/Lamont_High_School/Lamont/Report_Card.aspx"
+}, {
+  "rank" : "195/307",
+  "rankIn5" : "n/a",
+  "name" : "Edmonton Islamic",
+  "city" : "Edmonton",
+  "rating" : "5.6",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Edmonton_Islamic_Academy/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "86/246",
+  "name" : "Edmonton Christian",
+  "city" : "Edmonton",
+  "rating" : "5.5",
+  "ratingIn5" : "6.7",
+  "url" : "/high/Edmonton_Christian_High_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "150/246",
+  "name" : "Lacombe",
+  "city" : "Lacombe",
+  "rating" : "5.5",
+  "ratingIn5" : "5.9",
+  "url" : "/high/Ecole_Secondaire_Lacombe_Composite_High_School/Lacombe/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "158/246",
+  "name" : "Father Patrick Mercredi",
+  "city" : "Fort McMurray",
+  "rating" : "5.5",
+  "ratingIn5" : "5.8",
+  "url" : "/high/Father_Patrick_Mercredi_Community_School/Fort_McMurray/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "170/246",
+  "name" : "Georges P Vanier",
+  "city" : "Donnelly",
+  "rating" : "5.5",
+  "ratingIn5" : "5.6",
+  "url" : "/high/Georges_P_Vanier_School/Donnelly/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "170/246",
+  "name" : "Oilfields",
+  "city" : "Black Diamond",
+  "rating" : "5.5",
+  "ratingIn5" : "5.6",
+  "url" : "/high/Oilfields_High_School/Black_Diamond/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "180/246",
+  "name" : "Bellerose",
+  "city" : "St. Albert",
+  "rating" : "5.5",
+  "ratingIn5" : "5.4",
+  "url" : "/high/Bellerose_Composite_High_School/St._Albert/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "183/246",
+  "name" : "Hilltop",
+  "city" : "Whitecourt",
+  "rating" : "5.5",
+  "ratingIn5" : "5.3",
+  "url" : "/high/Hilltop_High_School/Whitecourt/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "183/246",
+  "name" : "Lindsay Thurber",
+  "city" : "Red Deer",
+  "rating" : "5.5",
+  "ratingIn5" : "5.3",
+  "url" : "/high/Lindsay_Thurber_Comprehensive_High_School/Red_Deer/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "n/a",
+  "name" : "Headway",
+  "city" : "Edmonton",
+  "rating" : "5.5",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Headway_School_Society_of_Alberta/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "201/307",
+  "rankIn5" : "n/a",
+  "name" : "Trochu Valley",
+  "city" : "Trochu",
+  "rating" : "5.5",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Trochu_Valley_School/Trochu/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "158/246",
+  "name" : "Camrose",
+  "city" : "Camrose",
+  "rating" : "5.4",
+  "ratingIn5" : "5.8",
+  "url" : "/high/Camrose_Composite_High_School/Camrose/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "165/246",
+  "name" : "Fairview",
+  "city" : "Fairview",
+  "rating" : "5.4",
+  "ratingIn5" : "5.7",
+  "url" : "/high/Fairview_High_School/Fairview/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "183/246",
+  "name" : "M. E. LaZerte",
+  "city" : "Edmonton",
+  "rating" : "5.4",
+  "ratingIn5" : "5.3",
+  "url" : "/high/M._E._LaZerte_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "213/246",
+  "name" : "Harry Collinge",
+  "city" : "Hinton",
+  "rating" : "5.4",
+  "ratingIn5" : "4.7",
+  "url" : "/high/Harry_Collinge_High_School/Hinton/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "213/246",
+  "name" : "Pigeon Lake",
+  "city" : "Falun",
+  "rating" : "5.4",
+  "ratingIn5" : "4.7",
+  "url" : "/high/Pigeon_Lake_Regional/Falun/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "n/a",
+  "name" : "Erle Rivers",
+  "city" : "Milk River",
+  "rating" : "5.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Erle_Rivers_High_School/Milk_River/Report_Card.aspx"
+}, {
+  "rank" : "211/307",
+  "rankIn5" : "n/a",
+  "name" : "Warner",
+  "city" : "Warner",
+  "rating" : "5.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Warner_School/Warner/Report_Card.aspx"
+}, {
+  "rank" : "218/307",
+  "rankIn5" : "120/246",
+  "name" : "Bassano",
+  "city" : "Bassano",
+  "rating" : "5.3",
+  "ratingIn5" : "6.3",
+  "url" : "/high/Bassano_School/Bassano/Report_Card.aspx"
+}, {
+  "rank" : "218/307",
+  "rankIn5" : "150/246",
+  "name" : "Lethbridge Collegiate",
+  "city" : "Lethbridge",
+  "rating" : "5.3",
+  "ratingIn5" : "5.9",
+  "url" : "/high/Lethbridge_Collegiate_Institute/Lethbridge/Report_Card.aspx"
+}, {
+  "rank" : "218/307",
+  "rankIn5" : "192/246",
+  "name" : "Bentley",
+  "city" : "Bentley",
+  "rating" : "5.3",
+  "ratingIn5" : "5.2",
+  "url" : "/high/Bentley_School/Bentley/Report_Card.aspx"
+}, {
+  "rank" : "218/307",
+  "rankIn5" : "202/246",
+  "name" : "Our Lady of Mount Pleasant",
+  "city" : "Camrose",
+  "rating" : "5.3",
+  "ratingIn5" : "5.0",
+  "url" : "/high/Our_Lady_of_Mount_Pleasant_School/Camrose/Report_Card.aspx"
+}, {
+  "rank" : "218/307",
+  "rankIn5" : "226/246",
+  "name" : "Grimshaw",
+  "city" : "Grimshaw",
+  "rating" : "5.3",
+  "ratingIn5" : "4.2",
+  "url" : "/high/Grimshaw_Junior_Senior_High_School/Grimshaw/Report_Card.aspx"
+}, {
+  "rank" : "218/307",
+  "rankIn5" : "n/a",
+  "name" : "Buck Mountain",
+  "city" : "Buck Lake",
+  "rating" : "5.3",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Buck_Mountain_Central_School/Buck_Lake/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "68/246",
+  "name" : "Viking",
+  "city" : "Viking",
+  "rating" : "5.2",
+  "ratingIn5" : "6.9",
+  "url" : "/high/Viking_School/Viking/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "86/246",
+  "name" : "Coalhurst",
+  "city" : "Coalhurst",
+  "rating" : "5.2",
+  "ratingIn5" : "6.7",
+  "url" : "/high/Coalhurst_High_School/Coalhurst/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "126/246",
+  "name" : "Calmar",
+  "city" : "Calmar",
+  "rating" : "5.2",
+  "ratingIn5" : "6.2",
+  "url" : "/high/Calmar_Secondary_School/Calmar/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "135/246",
+  "name" : "Gus Wetter",
+  "city" : "Castor",
+  "rating" : "5.2",
+  "ratingIn5" : "6.1",
+  "url" : "/high/Gus_Wetter_School/Castor/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "158/246",
+  "name" : "Banff",
+  "city" : "Banff",
+  "rating" : "5.2",
+  "ratingIn5" : "5.8",
+  "url" : "/high/Banff_Community_High_School/Banff/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "183/246",
+  "name" : "Edwin Parr",
+  "city" : "Athabasca",
+  "rating" : "5.2",
+  "ratingIn5" : "5.3",
+  "url" : "/high/Edwin_Parr_Composite_Community_School/Athabasca/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "183/246",
+  "name" : "St. Anthony's",
+  "city" : "Drumheller",
+  "rating" : "5.2",
+  "ratingIn5" : "5.3",
+  "url" : "/high/St._Anthony's_School/Drumheller/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "217/246",
+  "name" : "Father Lacombe",
+  "city" : "Calgary",
+  "rating" : "5.2",
+  "ratingIn5" : "4.6",
+  "url" : "/high/Father_Lacombe_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "232/246",
+  "name" : "St. Andrew's",
+  "city" : "High Prairie",
+  "rating" : "5.2",
+  "ratingIn5" : "3.9",
+  "url" : "/high/St._Andrew's_School/High_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "n/a",
+  "name" : "Robert Thirsk",
+  "city" : "Calgary",
+  "rating" : "5.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Robert_Thirsk_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "224/307",
+  "rankIn5" : "n/a",
+  "name" : "Vista-Virtual",
+  "city" : "Barrhead",
+  "rating" : "5.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Vista-Virtual/Barrhead/Report_Card.aspx"
+}, {
+  "rank" : "235/307",
+  "rankIn5" : "170/246",
+  "name" : "Mayerthorpe",
+  "city" : "Mayerthorpe",
+  "rating" : "5.1",
+  "ratingIn5" : "5.6",
+  "url" : "/high/Mayerthorpe_Junior_Senior_High_School/Mayerthorpe/Report_Card.aspx"
+}, {
+  "rank" : "235/307",
+  "rankIn5" : "196/246",
+  "name" : "H. A. Kostash",
+  "city" : "Smoky Lake",
+  "rating" : "5.1",
+  "ratingIn5" : "5.1",
+  "url" : "/high/H._A._Kostash_School/Smoky_Lake/Report_Card.aspx"
+}, {
+  "rank" : "235/307",
+  "rankIn5" : "204/246",
+  "name" : "Cardston",
+  "city" : "Cardston",
+  "rating" : "5.1",
+  "ratingIn5" : "4.9",
+  "url" : "/high/Cardston_High_School/Cardston/Report_Card.aspx"
+}, {
+  "rank" : "235/307",
+  "rankIn5" : "204/246",
+  "name" : "St. Joseph",
+  "city" : "Grande Prairie",
+  "rating" : "5.1",
+  "ratingIn5" : "4.9",
+  "url" : "/high/St._Joseph_Catholic_High_School/Grande_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "235/307",
+  "rankIn5" : "n/a",
+  "name" : "Breton",
+  "city" : "Breton",
+  "rating" : "5.1",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Breton_High_School/Breton/Report_Card.aspx"
+}, {
+  "rank" : "240/307",
+  "rankIn5" : "135/246",
+  "name" : "St. Michael's",
+  "city" : "Pincher Creek",
+  "rating" : "5.0",
+  "ratingIn5" : "6.1",
+  "url" : "/high/St._Michael's_School/Pincher_Creek/Report_Card.aspx"
+}, {
+  "rank" : "240/307",
+  "rankIn5" : "165/246",
+  "name" : "St. Augustine",
+  "city" : "Ponoka",
+  "rating" : "5.0",
+  "ratingIn5" : "5.7",
+  "url" : "/high/St._Augustine_School/Ponoka/Report_Card.aspx"
+}, {
+  "rank" : "240/307",
+  "rankIn5" : "204/246",
+  "name" : "Paul Rowe",
+  "city" : "Manning",
+  "rating" : "5.0",
+  "ratingIn5" : "4.9",
+  "url" : "/high/Paul_Rowe_Junior_Senior_High_School/Manning/Report_Card.aspx"
+}, {
+  "rank" : "240/307",
+  "rankIn5" : "213/246",
+  "name" : "Hillside",
+  "city" : "Valleyview",
+  "rating" : "5.0",
+  "ratingIn5" : "4.7",
+  "url" : "/high/Hillside_Junior_Senior_High_School/Valleyview/Report_Card.aspx"
+}, {
+  "rank" : "240/307",
+  "rankIn5" : "n/a",
+  "name" : "CBe - Learn",
+  "city" : "Calgary",
+  "rating" : "5.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/CBe_-_Learn/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "245/307",
+  "rankIn5" : "150/246",
+  "name" : "St. Mary's",
+  "city" : "Calgary",
+  "rating" : "4.9",
+  "ratingIn5" : "5.9",
+  "url" : "/high/St._Mary's_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "245/307",
+  "rankIn5" : "228/246",
+  "name" : "Bishop McNally",
+  "city" : "Calgary",
+  "rating" : "4.9",
+  "ratingIn5" : "4.1",
+  "url" : "/high/Bishop_McNally_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "245/307",
+  "rankIn5" : "n/a",
+  "name" : "Charles Spencer",
+  "city" : "Grande Prairie",
+  "rating" : "4.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Charles_Spencer_High_School/Grande_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "180/246",
+  "name" : "Prairie Christian",
+  "city" : "Three Hills",
+  "rating" : "4.8",
+  "ratingIn5" : "5.4",
+  "url" : "/high/Prairie_Christian_Academy/Three_Hills/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "192/246",
+  "name" : "Wainwright",
+  "city" : "Wainwright",
+  "rating" : "4.8",
+  "ratingIn5" : "5.2",
+  "url" : "/high/Wainwright_High_School/Wainwright/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "217/246",
+  "name" : "Warburg",
+  "city" : "Warburg",
+  "rating" : "4.8",
+  "ratingIn5" : "4.6",
+  "url" : "/high/Warburg_School/Warburg/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "222/246",
+  "name" : "Caroline",
+  "city" : "Caroline",
+  "rating" : "4.8",
+  "ratingIn5" : "4.4",
+  "url" : "/high/Caroline_School/Caroline/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "n/a",
+  "name" : "Forestburg",
+  "city" : "Forestburg",
+  "rating" : "4.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Forestburg_School/Forestburg/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "n/a",
+  "name" : "Gabrielle-Roy",
+  "city" : "Edmonton",
+  "rating" : "4.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Ecole_Publique_Gabrielle-Roy/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "248/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Mary",
+  "city" : "Westlock",
+  "rating" : "4.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Mary_School/Westlock/Report_Card.aspx"
+}, {
+  "rank" : "255/307",
+  "rankIn5" : "183/246",
+  "name" : "John Paul II",
+  "city" : "Fort Saskatchewan",
+  "rating" : "4.7",
+  "ratingIn5" : "5.3",
+  "url" : "/high/John_Paul_II_High_School/Fort_Saskatchewan/Report_Card.aspx"
+}, {
+  "rank" : "256/307",
+  "rankIn5" : "196/246",
+  "name" : "William E Hay",
+  "city" : "Stettler",
+  "rating" : "4.6",
+  "ratingIn5" : "5.1",
+  "url" : "/high/William_E_Hay_Composite_High_School/Stettler/Report_Card.aspx"
+}, {
+  "rank" : "256/307",
+  "rankIn5" : "222/246",
+  "name" : "Brooks",
+  "city" : "Brooks",
+  "rating" : "4.6",
+  "ratingIn5" : "4.4",
+  "url" : "/high/Brooks_Composite_High_School/Brooks/Report_Card.aspx"
+}, {
+  "rank" : "256/307",
+  "rankIn5" : "229/246",
+  "name" : "J A Williams",
+  "city" : "Lac La Biche",
+  "rating" : "4.6",
+  "ratingIn5" : "4.0",
+  "url" : "/high/J_A_Williams_High_School/Lac_La_Biche/Report_Card.aspx"
+}, {
+  "rank" : "259/307",
+  "rankIn5" : "176/246",
+  "name" : "McNally",
+  "city" : "Edmonton",
+  "rating" : "4.5",
+  "ratingIn5" : "5.5",
+  "url" : "/high/McNally_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "259/307",
+  "rankIn5" : "183/246",
+  "name" : "Lester B. Pearson",
+  "city" : "Calgary",
+  "rating" : "4.5",
+  "ratingIn5" : "5.3",
+  "url" : "/high/Lester_B._Pearson_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "259/307",
+  "rankIn5" : "229/246",
+  "name" : "David Thompson",
+  "city" : "Condor",
+  "rating" : "4.5",
+  "ratingIn5" : "4.0",
+  "url" : "/high/David_Thompson_School/Condor/Report_Card.aspx"
+}, {
+  "rank" : "259/307",
+  "rankIn5" : "232/246",
+  "name" : "Grande Prairie",
+  "city" : "Grande Prairie",
+  "rating" : "4.5",
+  "ratingIn5" : "3.9",
+  "url" : "/high/Grande_Prairie_Composite_High_School/Grande_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "259/307",
+  "rankIn5" : "n/a",
+  "name" : "Hope Christian",
+  "city" : "Champion",
+  "rating" : "4.5",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Hope_Christian_School/Champion/Report_Card.aspx"
+}, {
+  "rank" : "264/307",
+  "rankIn5" : "176/246",
+  "name" : "Crescent Heights",
+  "city" : "Medicine Hat",
+  "rating" : "4.4",
+  "ratingIn5" : "5.5",
+  "url" : "/high/Crescent_Heights_High_School/Medicine_Hat/Report_Card.aspx"
+}, {
+  "rank" : "265/307",
+  "rankIn5" : "202/246",
+  "name" : "Ponoka",
+  "city" : "Ponoka",
+  "rating" : "4.3",
+  "ratingIn5" : "5.0",
+  "url" : "/high/Ponoka_Composite_High_School/Ponoka/Report_Card.aspx"
+}, {
+  "rank" : "265/307",
+  "rankIn5" : "211/246",
+  "name" : "Victoria",
+  "city" : "Edmonton",
+  "rating" : "4.3",
+  "ratingIn5" : "4.8",
+  "url" : "/high/Victoria_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "265/307",
+  "rankIn5" : "217/246",
+  "name" : "Fort McMurray",
+  "city" : "Fort McMurray",
+  "rating" : "4.3",
+  "ratingIn5" : "4.6",
+  "url" : "/high/Fort_McMurray_Composite_High_School/Fort_McMurray/Report_Card.aspx"
+}, {
+  "rank" : "268/307",
+  "rankIn5" : "165/246",
+  "name" : "Blessed Sacrament",
+  "city" : "Wainwright",
+  "rating" : "4.2",
+  "ratingIn5" : "5.7",
+  "url" : "/high/Blessed_Sacrament_School/Wainwright/Report_Card.aspx"
+}, {
+  "rank" : "268/307",
+  "rankIn5" : "213/246",
+  "name" : "Spirit River",
+  "city" : "Spirit River",
+  "rating" : "4.2",
+  "ratingIn5" : "4.7",
+  "url" : "/high/Spirit_River_Regional_Academy/Spirit_River/Report_Card.aspx"
+}, {
+  "rank" : "268/307",
+  "rankIn5" : "n/a",
+  "name" : "La Rose Sauvage",
+  "city" : "Calgary",
+  "rating" : "4.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Ecole_de_la_Rose_Sauvage/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "268/307",
+  "rankIn5" : "n/a",
+  "name" : "Rocky View Schools Online",
+  "city" : "Airdrie",
+  "rating" : "4.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Rocky_View_Schools_Online/Airdrie/Report_Card.aspx"
+}, {
+  "rank" : "272/307",
+  "rankIn5" : "143/246",
+  "name" : "Hay Lakes",
+  "city" : "Hay Lakes",
+  "rating" : "4.1",
+  "ratingIn5" : "6.0",
+  "url" : "/high/Hay_Lakes_School/Hay_Lakes/Report_Card.aspx"
+}, {
+  "rank" : "272/307",
+  "rankIn5" : "224/246",
+  "name" : "Duchess",
+  "city" : "Duchess",
+  "rating" : "4.1",
+  "ratingIn5" : "4.3",
+  "url" : "/high/Duchess_School/Duchess/Report_Card.aspx"
+}, {
+  "rank" : "272/307",
+  "rankIn5" : "226/246",
+  "name" : "Grande Cache",
+  "city" : "Grande Cache",
+  "rating" : "4.1",
+  "ratingIn5" : "4.2",
+  "url" : "/high/Grande_Cache_Community_High_School/Grande_Cache/Report_Card.aspx"
+}, {
+  "rank" : "272/307",
+  "rankIn5" : "232/246",
+  "name" : "Boyle",
+  "city" : "Boyle",
+  "rating" : "4.1",
+  "ratingIn5" : "3.9",
+  "url" : "/high/Boyle_School/Boyle/Report_Card.aspx"
+}, {
+  "rank" : "276/307",
+  "rankIn5" : "196/246",
+  "name" : "Beiseker",
+  "city" : "Beiseker",
+  "rating" : "4.0",
+  "ratingIn5" : "5.1",
+  "url" : "/high/Beiseker_Community_School/Beiseker/Report_Card.aspx"
+}, {
+  "rank" : "276/307",
+  "rankIn5" : "237/246",
+  "name" : "Plamondon",
+  "city" : "Plamondon",
+  "rating" : "4.0",
+  "ratingIn5" : "3.6",
+  "url" : "/high/Ecole_Plamondon_School/Plamondon/Report_Card.aspx"
+}, {
+  "rank" : "276/307",
+  "rankIn5" : "n/a",
+  "name" : "Edmonton Academy",
+  "city" : "Edmonton",
+  "rating" : "4.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Edmonton_Academy/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "279/307",
+  "rankIn5" : "229/246",
+  "name" : "Roland Michener",
+  "city" : "Slave Lake",
+  "rating" : "3.9",
+  "ratingIn5" : "4.0",
+  "url" : "/high/Roland_Michener_Secondary_School/Slave_Lake/Report_Card.aspx"
+}, {
+  "rank" : "279/307",
+  "rankIn5" : "240/246",
+  "name" : "High Level",
+  "city" : "High Level",
+  "rating" : "3.9",
+  "ratingIn5" : "3.5",
+  "url" : "/high/High_Level_Public_School/High_Level/Report_Card.aspx"
+}, {
+  "rank" : "281/307",
+  "rankIn5" : "217/246",
+  "name" : "Beaverlodge",
+  "city" : "Beaverlodge",
+  "rating" : "3.7",
+  "ratingIn5" : "4.6",
+  "url" : "/high/Beaverlodge_Regional_High_School/Beaverlodge/Report_Card.aspx"
+}, {
+  "rank" : "281/307",
+  "rankIn5" : "237/246",
+  "name" : "James Fowler",
+  "city" : "Calgary",
+  "rating" : "3.7",
+  "ratingIn5" : "3.6",
+  "url" : "/high/James_Fowler_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "283/307",
+  "rankIn5" : "237/246",
+  "name" : "Forest Lawn",
+  "city" : "Calgary",
+  "rating" : "3.5",
+  "ratingIn5" : "3.6",
+  "url" : "/high/Forest_Lawn_High_School/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "284/307",
+  "rankIn5" : "n/a",
+  "name" : "Argyll Home School",
+  "city" : "Edmonton",
+  "rating" : "3.4",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Argyll_Home_School_Centre/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "285/307",
+  "rankIn5" : "n/a",
+  "name" : "Alberta Distance Learning Centre",
+  "city" : "Barrhead",
+  "rating" : "3.3",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Alberta_Distance_Learning_Centre/Barrhead/Report_Card.aspx"
+}, {
+  "rank" : "285/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Gabriel Cyber",
+  "city" : "Red Deer",
+  "rating" : "3.3",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Gabriel_Cyber_School/Red_Deer/Report_Card.aspx"
+}, {
+  "rank" : "287/307",
+  "rankIn5" : "236/246",
+  "name" : "Drumheller",
+  "city" : "Drumheller",
+  "rating" : "3.2",
+  "ratingIn5" : "3.8",
+  "url" : "/high/Drumheller_Composite_High_School/Drumheller/Report_Card.aspx"
+}, {
+  "rank" : "287/307",
+  "rankIn5" : "n/a",
+  "name" : "Koinonia Christian",
+  "city" : "Red Deer",
+  "rating" : "3.2",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Koinonia_Christian_School_(Red_Deer)/Red_Deer/Report_Card.aspx"
+}, {
+  "rank" : "289/307",
+  "rankIn5" : "170/246",
+  "name" : "Ryley",
+  "city" : "Ryley",
+  "rating" : "3.1",
+  "ratingIn5" : "5.6",
+  "url" : "/high/Ryley_School/Ryley/Report_Card.aspx"
+}, {
+  "rank" : "290/307",
+  "rankIn5" : "217/246",
+  "name" : "Glendon",
+  "city" : "Glendon",
+  "rating" : "3.0",
+  "ratingIn5" : "4.6",
+  "url" : "/high/Glendon_School/Glendon/Report_Card.aspx"
+}, {
+  "rank" : "290/307",
+  "rankIn5" : "n/a",
+  "name" : "Airdrie Learning Connection",
+  "city" : "Airdrie",
+  "rating" : "3.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Airdrie_Learning_Connection/Airdrie/Report_Card.aspx"
+}, {
+  "rank" : "292/307",
+  "rankIn5" : "224/246",
+  "name" : "Standard",
+  "city" : "Standard",
+  "rating" : "2.8",
+  "ratingIn5" : "4.3",
+  "url" : "/high/Standard_School/Standard/Report_Card.aspx"
+}, {
+  "rank" : "293/307",
+  "rankIn5" : "244/246",
+  "name" : "J Percy Page",
+  "city" : "Edmonton",
+  "rating" : "2.7",
+  "ratingIn5" : "2.8",
+  "url" : "/high/J_Percy_Page_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "294/307",
+  "rankIn5" : "232/246",
+  "name" : "Grand Trunk",
+  "city" : "Evansburg",
+  "rating" : "2.6",
+  "ratingIn5" : "3.9",
+  "url" : "/high/Grand_Trunk_High_School/Evansburg/Report_Card.aspx"
+}, {
+  "rank" : "295/307",
+  "rankIn5" : "241/246",
+  "name" : "E W Pratt",
+  "city" : "High Prairie",
+  "rating" : "2.4",
+  "ratingIn5" : "3.1",
+  "url" : "/high/E_W_Pratt_High_School/High_Prairie/Report_Card.aspx"
+}, {
+  "rank" : "296/307",
+  "rankIn5" : "243/246",
+  "name" : "Queen Elizabeth",
+  "city" : "Edmonton",
+  "rating" : "2.1",
+  "ratingIn5" : "3.0",
+  "url" : "/high/Queen_Elizabeth_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "297/307",
+  "rankIn5" : "245/246",
+  "name" : "Eastglen",
+  "city" : "Edmonton",
+  "rating" : "2.0",
+  "ratingIn5" : "2.3",
+  "url" : "/high/Eastglen_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "298/307",
+  "rankIn5" : "n/a",
+  "name" : "Fox Creek",
+  "city" : "Fox Creek",
+  "rating" : "1.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Fox_Creek_School/Fox_Creek/Report_Card.aspx"
+}, {
+  "rank" : "299/307",
+  "rankIn5" : "n/a",
+  "name" : "Sainte Marguerite Bourgeoys",
+  "city" : "Calgary",
+  "rating" : "1.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Sainte_Marguerite_Bourgeoys/Calgary/Report_Card.aspx"
+}, {
+  "rank" : "300/307",
+  "rankIn5" : "241/246",
+  "name" : "St. Thomas More",
+  "city" : "Fairview",
+  "rating" : "1.3",
+  "ratingIn5" : "3.1",
+  "url" : "/high/St._Thomas_More_Catholic_School/Fairview/Report_Card.aspx"
+}, {
+  "rank" : "301/307",
+  "rankIn5" : "n/a",
+  "name" : "Ashmont",
+  "city" : "Ashmont",
+  "rating" : "0.9",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Ashmont_Secondary_School/Ashmont/Report_Card.aspx"
+}, {
+  "rank" : "302/307",
+  "rankIn5" : "n/a",
+  "name" : "Cardinal Collins",
+  "city" : "Edmonton",
+  "rating" : "0.8",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Cardinal_Collins_High_School_Academic_Centre/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "303/307",
+  "rankIn5" : "246/246",
+  "name" : "Braemar",
+  "city" : "Edmonton",
+  "rating" : "0.2",
+  "ratingIn5" : "0.1",
+  "url" : "/high/Braemar_School/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "304/307",
+  "rankIn5" : "n/a",
+  "name" : "St. Mary's",
+  "city" : "Sexsmith",
+  "rating" : "0.1",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._Mary's_Catholic_School/Sexsmith/Report_Card.aspx"
+}, {
+  "rank" : "305/307",
+  "rankIn5" : "n/a",
+  "name" : "Amiskwaciy",
+  "city" : "Edmonton",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Amiskwaciy_Academy/Edmonton/Report_Card.aspx"
+}, {
+  "rank" : "305/307",
+  "rankIn5" : "n/a",
+  "name" : "Frank Spragins",
+  "city" : "Fort McMurray",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/Frank_Spragins_High_School/Fort_McMurray/Report_Card.aspx"
+}, {
+  "rank" : "305/307",
+  "rankIn5" : "n/a",
+  "name" : "St. John Bosco",
+  "city" : "Grande Prairie",
+  "rating" : "0.0",
+  "ratingIn5" : "n/a",
+  "url" : "/high/St._John_Bosco_Catholic_School/Grande_Prairie/Report_Card.aspx"
+} ]
